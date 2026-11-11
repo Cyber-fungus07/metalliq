@@ -1,0 +1,783 @@
+year,metal,hs_code,reporter_iso3,reporter,partner_iso3,partner,flow,trade_value_usd,net_weight_kg
+2010,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Export,50591435.41,6986214.25
+2010,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Export,69761414.81,9633412.97
+2010,Rare Earth Elements,2846,CHE,Switzerland,DEU,Germany,Import,37709088.46,5207280.02
+2010,Rare Earth Elements,2846,CHN,China,ARE,United Arab Emirates,Export,71426143.13,9863296.72
+2010,Rare Earth Elements,2846,CHN,China,JPN,Japan,Export,44379157.09,6128355.46
+2010,Rare Earth Elements,2846,CHN,China,USA,United States,Import,42405091.78,5855755.11
+2010,Rare Earth Elements,2846,USA,United States,HKG,Hong Kong,Export,22117864.04,3054274.61
+2010,Rare Earth Elements,2846,USA,United States,JPN,Japan,Import,30290468.62,4182836.52
+2010,Rare Earth Elements,2846,USA,United States,DEU,Germany,Import,29049376.39,4011453.04
+2010,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Export,27837315.7,3844078.55
+2010,Rare Earth Elements,2846,ARE,United Arab Emirates,CHN,China,Export,40349108.98,5571842.7
+2010,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Import,25816052.74,3564960.63
+2010,Rare Earth Elements,2846,ZAF,South Africa,CHE,Switzerland,Export,30338930.2,4189528.62
+2010,Rare Earth Elements,2846,ZAF,South Africa,JPN,Japan,Export,28929394.64,3994884.65
+2010,Rare Earth Elements,2846,ZAF,South Africa,JPN,Japan,Import,25081048.31,3463463.24
+2010,Rare Earth Elements,2846,ZAF,South Africa,ARE,United Arab Emirates,Import,32168808.25,4442218.03
+2010,Rare Earth Elements,2846,AUS,Australia,JPN,Japan,Export,49067934.12,6775832.66
+2010,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Export,28553018.89,3942910.61
+2010,Rare Earth Elements,2846,AUS,Australia,JPN,Japan,Import,31545568.25,4356154.29
+2010,Rare Earth Elements,2846,AUS,Australia,GBR,United Kingdom,Import,26278282.51,3628790.33
+2010,Rare Earth Elements,2846,CHL,Chile,USA,United States,Export,25194443.48,3479122.08
+2010,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,28668371.14,3958839.7
+2010,Rare Earth Elements,2846,CHL,Chile,GBR,United Kingdom,Import,12910907.58,1782878.18
+2010,Rare Earth Elements,2846,CHL,Chile,DEU,Germany,Import,17649564.84,2437243.39
+2010,Rare Earth Elements,2846,PER,Peru,CHN,China,Export,13655436.25,1885690.78
+2010,Rare Earth Elements,2846,PER,Peru,USA,United States,Export,19881843.11,2745500.59
+2010,Rare Earth Elements,2846,PER,Peru,KOR,KOR,Import,9954188.49,1374582.34
+2010,Rare Earth Elements,2846,PER,Peru,IND,India,Import,19082078.77,2635060.45
+2010,Rare Earth Elements,2846,RUS,Russia,JPN,Japan,Export,42920669.78,5926951.71
+2010,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Export,42573675.58,5879034.99
+2010,Rare Earth Elements,2846,RUS,Russia,IND,India,Import,26036924.82,3595461.04
+2010,Rare Earth Elements,2846,RUS,Russia,CHE,Switzerland,Import,30298618.3,4183961.91
+2010,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Export,34086118.42,4706981.02
+2010,Rare Earth Elements,2846,CAN,Canada,ARE,United Arab Emirates,Export,16237426.39,2242239.99
+2010,Rare Earth Elements,2846,CAN,Canada,GBR,United Kingdom,Import,11930744.93,1647526.69
+2010,Rare Earth Elements,2846,CAN,Canada,USA,United States,Import,15105433.73,2085922.16
+2010,Rare Earth Elements,2846,GBR,United Kingdom,ARE,United Arab Emirates,Export,17912911.78,2473609.19
+2010,Rare Earth Elements,2846,GBR,United Kingdom,USA,United States,Export,15667260.91,2163505.35
+2010,Rare Earth Elements,2846,GBR,United Kingdom,USA,United States,Import,20466958.82,2826299.71
+2010,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Import,16230525.03,2241286.97
+2010,Rare Earth Elements,2846,IND,India,DEU,Germany,Export,19039854.9,2629229.72
+2010,Rare Earth Elements,2846,IND,India,CHN,China,Import,13498597.64,1864032.8
+2010,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Import,13848472.15,1912347.27
+2010,Rare Earth Elements,2846,JPN,Japan,HKG,Hong Kong,Export,7482022.9,1033198.89
+2010,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Export,15784120.19,2179642.55
+2010,Rare Earth Elements,2846,JPN,Japan,USA,United States,Import,13130169.85,1813156.3
+2010,Rare Earth Elements,2846,DEU,Germany,ARE,United Arab Emirates,Export,12938788.15,1786728.24
+2010,Rare Earth Elements,2846,DEU,Germany,CHE,Switzerland,Import,13711568.1,1893442.07
+2010,Rare Earth Elements,2846,DEU,Germany,IND,India,Import,10259946.84,1416804.77
+2010,Rare Earth Elements,2846,HKG,Hong Kong,DEU,Germany,Export,32082402.09,4430286.13
+2010,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Import,42823143.75,5913484.26
+2010,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Import,32313007.24,4462130.59
+2011,Rare Earth Elements,2846,CHE,Switzerland,GBR,United Kingdom,Export,58120677.01,7296303.28
+2011,Rare Earth Elements,2846,CHE,Switzerland,CHN,China,Export,40325424.82,5062338.3
+2011,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Import,64031283.13,8038303.84
+2011,Rare Earth Elements,2846,CHE,Switzerland,JPN,Japan,Import,48570910.38,6097452.94
+2011,Rare Earth Elements,2846,CHN,China,DEU,Germany,Export,84483889.23,10605865.41
+2011,Rare Earth Elements,2846,CHN,China,IND,India,Export,47783447.08,5998597.05
+2011,Rare Earth Elements,2846,CHN,China,KOR,KOR,Import,32481954.19,4077691.47
+2011,Rare Earth Elements,2846,CHN,China,IND,India,Import,32967623.97,4138661.06
+2011,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Export,50627673.37,6355653.07
+2011,Rare Earth Elements,2846,USA,United States,DEU,Germany,Export,38416939.05,4822752.47
+2011,Rare Earth Elements,2846,USA,United States,JPN,Japan,Import,37111640.26,4658889.0
+2011,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Import,32646489.53,4098346.77
+2011,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Export,45819546.19,5752054.56
+2011,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Export,46423000.17,5827810.44
+2011,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Import,34651573.6,4350059.28
+2011,Rare Earth Elements,2846,ARE,United Arab Emirates,CHN,China,Import,38231949.5,4799529.41
+2011,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Export,47453477.95,5957173.67
+2011,Rare Earth Elements,2846,ZAF,South Africa,DEU,Germany,Export,24268658.61,3046617.87
+2011,Rare Earth Elements,2846,ZAF,South Africa,KOR,KOR,Import,34835057.88,4373093.37
+2011,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Import,32068787.9,4025823.76
+2011,Rare Earth Elements,2846,AUS,Australia,JPN,Japan,Export,33270353.85,4176664.91
+2011,Rare Earth Elements,2846,AUS,Australia,CHN,China,Export,22381805.27,2809747.71
+2011,Rare Earth Elements,2846,AUS,Australia,CHN,China,Import,39755093.57,4990740.55
+2011,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Import,31486870.51,3952771.52
+2011,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Export,38292243.71,4807098.57
+2011,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,45106086.2,5662488.84
+2011,Rare Earth Elements,2846,CHL,Chile,ARE,United Arab Emirates,Import,27077625.6,3399247.54
+2011,Rare Earth Elements,2846,CHL,Chile,IND,India,Import,37199889.09,4669967.5
+2011,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Export,28705155.47,3603562.98
+2011,Rare Earth Elements,2846,PER,Peru,KOR,KOR,Export,16434152.68,2063096.44
+2011,Rare Earth Elements,2846,PER,Peru,CHN,China,Import,15124931.7,1898740.59
+2011,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Import,17049435.72,2140337.32
+2011,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Export,22952651.15,2881410.07
+2011,Rare Earth Elements,2846,RUS,Russia,USA,United States,Export,40202483.27,5046904.57
+2011,Rare Earth Elements,2846,RUS,Russia,GBR,United Kingdom,Import,17872359.74,2243644.84
+2011,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Import,25729530.31,3230011.52
+2011,Rare Earth Elements,2846,CAN,Canada,USA,United States,Export,24534727.65,3080019.42
+2011,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Export,33945819.95,4261460.98
+2011,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Import,20944076.94,2629259.42
+2011,Rare Earth Elements,2846,CAN,Canada,DEU,Germany,Import,15869178.67,1992171.23
+2011,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Export,23029169.71,2891015.99
+2011,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Export,15813172.03,1985140.31
+2011,Rare Earth Elements,2846,GBR,United Kingdom,JPN,Japan,Import,17483631.64,2194845.03
+2011,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Import,17807549.09,2235508.69
+2011,Rare Earth Elements,2846,IND,India,KOR,KOR,Export,9644083.05,1210690.56
+2011,Rare Earth Elements,2846,IND,India,DEU,Germany,Export,14711308.65,1846815.54
+2011,Rare Earth Elements,2846,IND,India,CHN,China,Import,14638559.37,1837682.81
+2011,Rare Earth Elements,2846,IND,India,JPN,Japan,Import,11512007.84,1445184.48
+2011,Rare Earth Elements,2846,JPN,Japan,IND,India,Export,20290640.64,2547228.89
+2011,Rare Earth Elements,2846,JPN,Japan,ARE,United Arab Emirates,Export,15897663.66,1995747.15
+2011,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,12817123.15,1609024.92
+2011,Rare Earth Elements,2846,JPN,Japan,CHE,Switzerland,Import,14475177.84,1817172.36
+2011,Rare Earth Elements,2846,DEU,Germany,CHN,China,Export,20693005.26,2597740.6
+2011,Rare Earth Elements,2846,DEU,Germany,CHN,China,Import,13469910.82,1690974.01
+2011,Rare Earth Elements,2846,DEU,Germany,IND,India,Import,13870722.92,1741290.82
+2011,Rare Earth Elements,2846,HKG,Hong Kong,IND,India,Export,53276516.12,6688181.2
+2011,Rare Earth Elements,2846,HKG,Hong Kong,CHN,China,Import,38661340.29,4853433.9
+2011,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Import,27694340.11,3476668.12
+2012,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Export,93062663.4,10620745.59
+2012,Rare Earth Elements,2846,CHE,Switzerland,GBR,United Kingdom,Export,99434824.22,11347966.33
+2012,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Import,71168652.0,8122098.8
+2012,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Import,49444919.3,5642885.01
+2012,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Export,88732449.49,10126561.36
+2012,Rare Earth Elements,2846,CHN,China,JPN,Japan,Import,70645356.56,8062377.88
+2012,Rare Earth Elements,2846,CHN,China,USA,United States,Import,72445552.68,8267824.67
+2012,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Export,53324481.31,6085638.74
+2012,Rare Earth Elements,2846,USA,United States,DEU,Germany,Export,26917654.18,3071968.35
+2012,Rare Earth Elements,2846,USA,United States,CHE,Switzerland,Import,44405126.27,5067720.3
+2012,Rare Earth Elements,2846,USA,United States,CHN,China,Import,23395207.53,2669970.3
+2012,Rare Earth Elements,2846,ARE,United Arab Emirates,HKG,Hong Kong,Export,54773001.88,6250950.67
+2012,Rare Earth Elements,2846,ARE,United Arab Emirates,HKG,Hong Kong,Import,25701247.01,2933146.29
+2012,Rare Earth Elements,2846,ARE,United Arab Emirates,CHE,Switzerland,Import,28690167.98,3274255.9
+2012,Rare Earth Elements,2846,ZAF,South Africa,CHE,Switzerland,Export,36167282.56,4127579.12
+2012,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Export,35971751.97,4105264.26
+2012,Rare Earth Elements,2846,ZAF,South Africa,JPN,Japan,Import,40930336.59,4671161.08
+2012,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Import,48985183.68,5590417.84
+2012,Rare Earth Elements,2846,AUS,Australia,CHN,China,Export,45040980.72,5140286.98
+2012,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Export,60776258.37,6936070.32
+2012,Rare Earth Elements,2846,AUS,Australia,DEU,Germany,Import,31437964.63,3587847.28
+2012,Rare Earth Elements,2846,AUS,Australia,IND,India,Import,22332333.85,2548670.19
+2012,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Export,46438520.73,5299780.77
+2012,Rare Earth Elements,2846,CHL,Chile,USA,United States,Export,54743002.97,6247527.05
+2012,Rare Earth Elements,2846,CHL,Chile,DEU,Germany,Import,47010532.49,5365061.42
+2012,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Import,40767468.64,4652573.83
+2012,Rare Earth Elements,2846,PER,Peru,HKG,Hong Kong,Export,18396344.9,2099476.76
+2012,Rare Earth Elements,2846,PER,Peru,IND,India,Export,24336991.03,2777451.03
+2012,Rare Earth Elements,2846,PER,Peru,IND,India,Import,24338258.55,2777595.68
+2012,Rare Earth Elements,2846,PER,Peru,CHN,China,Import,27109126.11,3093820.02
+2012,Rare Earth Elements,2846,RUS,Russia,ARE,United Arab Emirates,Export,49463369.92,5644990.68
+2012,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Export,41307781.35,4714236.84
+2012,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Import,19870540.52,2267718.84
+2012,Rare Earth Elements,2846,RUS,Russia,CHE,Switzerland,Import,19367084.4,2210262.08
+2012,Rare Earth Elements,2846,CAN,Canada,GBR,United Kingdom,Export,17317447.51,1976347.95
+2012,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Export,34667495.54,3956416.43
+2012,Rare Earth Elements,2846,CAN,Canada,CHE,Switzerland,Import,19000556.37,2168432.19
+2012,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Import,19184153.41,2189385.14
+2012,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Export,15987721.18,1824593.38
+2012,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Import,23992792.95,2738169.54
+2012,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Import,22811355.89,2603338.42
+2012,Rare Earth Elements,2846,IND,India,USA,United States,Export,20365886.0,2324249.98
+2012,Rare Earth Elements,2846,IND,India,DEU,Germany,Import,13191367.55,1505460.45
+2012,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Import,11688100.13,1333900.55
+2012,Rare Earth Elements,2846,JPN,Japan,ARE,United Arab Emirates,Export,23186688.31,2646173.11
+2012,Rare Earth Elements,2846,JPN,Japan,IND,India,Export,20813815.92,2375369.84
+2012,Rare Earth Elements,2846,JPN,Japan,DEU,Germany,Import,8601556.66,981649.8
+2012,Rare Earth Elements,2846,JPN,Japan,CHN,China,Import,8248244.25,941328.14
+2012,Rare Earth Elements,2846,DEU,Germany,HKG,Hong Kong,Export,19721371.61,2250694.99
+2012,Rare Earth Elements,2846,DEU,Germany,CHN,China,Export,19157973.31,2186397.35
+2012,Rare Earth Elements,2846,DEU,Germany,JPN,Japan,Import,18141554.74,2070398.92
+2012,Rare Earth Elements,2846,DEU,Germany,KOR,KOR,Import,19979885.51,2280197.81
+2012,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Export,60371697.61,6889899.96
+2012,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Export,44505275.6,5079149.81
+2012,Rare Earth Elements,2846,HKG,Hong Kong,ARE,United Arab Emirates,Import,26043351.0,2972188.79
+2012,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Import,28445010.26,3246277.36
+2013,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Export,61311632.09,6361063.34
+2013,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Export,71369863.44,7404601.81
+2013,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Import,70114128.55,7274319.69
+2013,Rare Earth Elements,2846,CHN,China,JPN,Japan,Export,69109465.44,7170086.2
+2013,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Export,81622748.26,8468335.51
+2013,Rare Earth Elements,2846,CHN,China,DEU,Germany,Import,77322815.4,8022218.78
+2013,Rare Earth Elements,2846,CHN,China,CHE,Switzerland,Import,79934742.3,8293205.41
+2013,Rare Earth Elements,2846,USA,United States,CHN,China,Export,40534013.68,4205391.69
+2013,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Import,31168877.85,3233761.68
+2013,Rare Earth Elements,2846,USA,United States,IND,India,Import,26331901.09,2731926.8
+2013,Rare Earth Elements,2846,ARE,United Arab Emirates,DEU,Germany,Export,56081181.26,5818405.64
+2013,Rare Earth Elements,2846,ARE,United Arab Emirates,DEU,Germany,Import,25599818.02,2655973.4
+2013,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Import,24376664.5,2529071.59
+2013,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Export,50327913.41,5221505.84
+2013,Rare Earth Elements,2846,ZAF,South Africa,CHE,Switzerland,Export,35598165.21,3693298.9
+2013,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Import,27447277.2,2847646.73
+2013,Rare Earth Elements,2846,ZAF,South Africa,IND,India,Import,35246908.63,3656856.14
+2013,Rare Earth Elements,2846,AUS,Australia,CHE,Switzerland,Export,44523617.1,4619311.85
+2013,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Export,28426504.03,2949241.22
+2013,Rare Earth Elements,2846,AUS,Australia,CHN,China,Import,27566629.9,2860029.54
+2013,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Import,41610590.13,4317086.18
+2013,Rare Earth Elements,2846,CHL,Chile,GBR,United Kingdom,Export,42874294.42,4448195.11
+2013,Rare Earth Elements,2846,CHL,Chile,USA,United States,Export,30156940.14,3128773.44
+2013,Rare Earth Elements,2846,CHL,Chile,USA,United States,Import,24195583.64,2510284.51
+2013,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Import,32814916.33,3404537.67
+2013,Rare Earth Elements,2846,PER,Peru,GBR,United Kingdom,Export,29474746.07,3057996.02
+2013,Rare Earth Elements,2846,PER,Peru,CHN,China,Export,46471478.98,4821401.93
+2013,Rare Earth Elements,2846,PER,Peru,USA,United States,Import,32900203.41,3413386.18
+2013,Rare Earth Elements,2846,PER,Peru,ARE,United Arab Emirates,Import,32740721.97,3396840.03
+2013,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Export,43680565.53,4531845.5
+2013,Rare Earth Elements,2846,RUS,Russia,IND,India,Export,34540348.43,3583550.73
+2013,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Import,23586557.45,2447098.22
+2013,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Import,19017214.39,1973030.26
+2013,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Export,40371881.57,4188570.54
+2013,Rare Earth Elements,2846,CAN,Canada,CHN,China,Export,29397534.57,3049985.35
+2013,Rare Earth Elements,2846,CAN,Canada,IND,India,Import,15820727.23,1641395.68
+2013,Rare Earth Elements,2846,CAN,Canada,CHE,Switzerland,Import,29507457.62,3061389.83
+2013,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Export,18295995.73,1898204.04
+2013,Rare Earth Elements,2846,GBR,United Kingdom,ARE,United Arab Emirates,Export,20984239.4,2177108.51
+2013,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Import,12401729.08,1286675.65
+2013,Rare Earth Elements,2846,IND,India,GBR,United Kingdom,Export,12357447.7,1282081.47
+2013,Rare Earth Elements,2846,IND,India,DEU,Germany,Export,19193063.6,1991274.56
+2013,Rare Earth Elements,2846,IND,India,HKG,Hong Kong,Import,16788459.91,1741797.65
+2013,Rare Earth Elements,2846,IND,India,ARE,United Arab Emirates,Import,9722756.7,1008733.08
+2013,Rare Earth Elements,2846,JPN,Japan,CHN,China,Export,12814429.88,1329493.24
+2013,Rare Earth Elements,2846,JPN,Japan,CHN,China,Import,9667707.71,1003021.76
+2013,Rare Earth Elements,2846,JPN,Japan,DEU,Germany,Import,10573579.35,1097005.67
+2013,Rare Earth Elements,2846,DEU,Germany,GBR,United Kingdom,Export,19386243.95,2011316.96
+2013,Rare Earth Elements,2846,DEU,Germany,USA,United States,Export,20897697.34,2168129.8
+2013,Rare Earth Elements,2846,DEU,Germany,IND,India,Import,11958232.52,1240663.02
+2013,Rare Earth Elements,2846,DEU,Germany,ARE,United Arab Emirates,Import,13280680.09,1377866.55
+2013,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Export,41520292.27,4307717.8
+2013,Rare Earth Elements,2846,HKG,Hong Kong,IND,India,Export,34017633.32,3529319.2
+2013,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Import,32700147.47,3392630.44
+2013,Rare Earth Elements,2846,HKG,Hong Kong,CHE,Switzerland,Import,53253822.66,5525068.04
+2014,Rare Earth Elements,2846,CHE,Switzerland,USA,United States,Export,80974333.97,7637329.75
+2014,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Export,94075770.45,8873029.83
+2014,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Import,93571796.47,8825496.06
+2014,Rare Earth Elements,2846,CHE,Switzerland,DEU,Germany,Import,62654032.39,5909397.24
+2014,Rare Earth Elements,2846,CHN,China,USA,United States,Export,101867700.65,9607948.38
+2014,Rare Earth Elements,2846,CHN,China,DEU,Germany,Export,63710261.17,6009018.53
+2014,Rare Earth Elements,2846,CHN,China,ARE,United Arab Emirates,Import,98340742.45,9275293.06
+2014,Rare Earth Elements,2846,USA,United States,IND,India,Export,57019029.53,5377915.56
+2014,Rare Earth Elements,2846,USA,United States,HKG,Hong Kong,Export,43025694.31,4058093.46
+2014,Rare Earth Elements,2846,USA,United States,HKG,Hong Kong,Import,36318901.96,3425522.84
+2014,Rare Earth Elements,2846,ARE,United Arab Emirates,DEU,Germany,Export,63702515.4,6008287.96
+2014,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Export,51882855.73,4893482.39
+2014,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Import,26312740.16,2481762.6
+2014,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Import,45953073.07,4334197.7
+2014,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Export,55802983.61,5263220.65
+2014,Rare Earth Elements,2846,ZAF,South Africa,HKG,Hong Kong,Export,29968538.6,2826569.86
+2014,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Import,40612734.37,3830508.13
+2014,Rare Earth Elements,2846,ZAF,South Africa,KOR,KOR,Import,37094415.11,3498667.62
+2014,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Export,83567227.01,7881886.0
+2014,Rare Earth Elements,2846,AUS,Australia,CHE,Switzerland,Export,43451279.26,4098233.74
+2014,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Import,44775836.71,4223163.23
+2014,Rare Earth Elements,2846,AUS,Australia,USA,United States,Import,37301314.13,3518181.9
+2014,Rare Earth Elements,2846,CHL,Chile,CHN,China,Export,41459083.69,3910334.03
+2014,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Export,39661667.5,3740805.49
+2014,Rare Earth Elements,2846,CHL,Chile,USA,United States,Import,21006044.55,1981246.17
+2014,Rare Earth Elements,2846,CHL,Chile,IND,India,Import,44508149.59,4197915.54
+2014,Rare Earth Elements,2846,PER,Peru,CHN,China,Export,57884393.58,5459534.89
+2014,Rare Earth Elements,2846,PER,Peru,JPN,Japan,Export,53226939.24,5020253.54
+2014,Rare Earth Elements,2846,PER,Peru,CHN,China,Import,20983726.08,1979141.14
+2014,Rare Earth Elements,2846,PER,Peru,ARE,United Arab Emirates,Import,39589595.29,3734007.79
+2014,Rare Earth Elements,2846,RUS,Russia,USA,United States,Export,39874061.72,3760838.07
+2014,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Export,30390069.88,2866327.8
+2014,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Import,30184862.74,2846973.1
+2014,Rare Earth Elements,2846,RUS,Russia,KOR,KOR,Import,22689884.89,2140062.47
+2014,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Export,52889755.74,4988451.1
+2014,Rare Earth Elements,2846,CAN,Canada,CHN,China,Export,38891279.16,3668144.08
+2014,Rare Earth Elements,2846,CAN,Canada,ARE,United Arab Emirates,Import,28434267.14,2681860.58
+2014,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Import,30931386.73,2917383.68
+2014,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Export,27952426.67,2636414.4
+2014,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Export,37690908.35,3554927.61
+2014,Rare Earth Elements,2846,GBR,United Kingdom,USA,United States,Import,26906771.51,2537790.39
+2014,Rare Earth Elements,2846,IND,India,JPN,Japan,Export,24731818.7,2332653.39
+2014,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Export,15537341.23,1465449.52
+2014,Rare Earth Elements,2846,IND,India,DEU,Germany,Import,16901273.65,1594092.77
+2014,Rare Earth Elements,2846,IND,India,GBR,United Kingdom,Import,24765644.46,2335843.77
+2014,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Export,13513784.68,1274591.9
+2014,Rare Earth Elements,2846,JPN,Japan,HKG,Hong Kong,Export,19742529.95,1862074.12
+2014,Rare Earth Elements,2846,JPN,Japan,CHN,China,Import,18615437.64,1755769.13
+2014,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Import,10088515.85,951527.71
+2014,Rare Earth Elements,2846,DEU,Germany,IND,India,Export,33647951.23,3173604.36
+2014,Rare Earth Elements,2846,DEU,Germany,USA,United States,Import,20811419.01,1962889.5
+2014,Rare Earth Elements,2846,DEU,Germany,KOR,KOR,Import,23338418.18,2201230.77
+2014,Rare Earth Elements,2846,HKG,Hong Kong,CHE,Switzerland,Export,35746113.84,3371498.66
+2014,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Export,68686135.54,6478332.59
+2014,Rare Earth Elements,2846,HKG,Hong Kong,DEU,Germany,Import,68804472.46,6489493.88
+2015,Rare Earth Elements,2846,CHE,Switzerland,USA,United States,Export,84856560.85,7275902.97
+2015,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Export,132022329.56,11320063.53
+2015,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Import,120510387.04,10332988.69
+2015,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Import,127159142.27,10903076.58
+2015,Rare Earth Elements,2846,CHN,China,JPN,Japan,Export,53076249.14,4550946.15
+2015,Rare Earth Elements,2846,CHN,China,ARE,United Arab Emirates,Export,70884123.38,6077856.55
+2015,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Import,63555943.24,5449512.35
+2015,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Export,55817053.26,4785952.43
+2015,Rare Earth Elements,2846,USA,United States,CHE,Switzerland,Export,87974586.53,7543253.57
+2015,Rare Earth Elements,2846,USA,United States,CHN,China,Import,38226259.79,3277655.31
+2015,Rare Earth Elements,2846,USA,United States,JPN,Japan,Import,54473656.46,4670764.82
+2015,Rare Earth Elements,2846,ARE,United Arab Emirates,USA,United States,Export,57320987.43,4914905.09
+2015,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Import,61589271.17,5280882.9
+2015,Rare Earth Elements,2846,ARE,United Arab Emirates,CHN,China,Import,44570473.42,3821630.72
+2015,Rare Earth Elements,2846,ZAF,South Africa,IND,India,Export,62667909.19,5373369.16
+2015,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Export,80748611.0,6923672.76
+2015,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Import,39053291.49,3348567.95
+2015,Rare Earth Elements,2846,ZAF,South Africa,KOR,KOR,Import,49232054.24,4221331.22
+2015,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Export,97481503.87,8358410.44
+2015,Rare Earth Elements,2846,AUS,Australia,IND,India,Export,100445535.63,8612557.05
+2015,Rare Earth Elements,2846,AUS,Australia,CHN,China,Import,51598653.31,4424251.83
+2015,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Import,69256399.62,5938289.73
+2015,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,32364840.46,2775076.39
+2015,Rare Earth Elements,2846,CHL,Chile,GBR,United Kingdom,Export,36848053.68,3159483.02
+2015,Rare Earth Elements,2846,CHL,Chile,CHN,China,Import,42954533.89,3683074.33
+2015,Rare Earth Elements,2846,CHL,Chile,ARE,United Arab Emirates,Import,31378971.46,2690544.48
+2015,Rare Earth Elements,2846,PER,Peru,DEU,Germany,Export,34190678.24,2931630.21
+2015,Rare Earth Elements,2846,PER,Peru,GBR,United Kingdom,Export,31872868.86,2732893.0
+2015,Rare Earth Elements,2846,PER,Peru,USA,United States,Import,19909830.56,1707139.6
+2015,Rare Earth Elements,2846,PER,Peru,GBR,United Kingdom,Import,22418582.98,1922248.94
+2015,Rare Earth Elements,2846,RUS,Russia,IND,India,Export,39660975.9,3400672.97
+2015,Rare Earth Elements,2846,RUS,Russia,CHN,China,Export,35912080.77,3079229.38
+2015,Rare Earth Elements,2846,RUS,Russia,CHN,China,Import,29892786.89,2563113.74
+2015,Rare Earth Elements,2846,RUS,Russia,CHE,Switzerland,Import,23937373.35,2052475.43
+2015,Rare Earth Elements,2846,CAN,Canada,CHN,China,Export,27131106.37,2326317.44
+2015,Rare Earth Elements,2846,CAN,Canada,JPN,Japan,Export,40605363.21,3481648.09
+2015,Rare Earth Elements,2846,CAN,Canada,GBR,United Kingdom,Import,29297254.27,2512050.66
+2015,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Import,41587362.34,3565848.18
+2015,Rare Earth Elements,2846,GBR,United Kingdom,IND,India,Export,27428383.37,2351807.03
+2015,Rare Earth Elements,2846,GBR,United Kingdom,ARE,United Arab Emirates,Export,42295303.47,3626549.57
+2015,Rare Earth Elements,2846,GBR,United Kingdom,USA,United States,Import,16880470.41,1447391.5
+2015,Rare Earth Elements,2846,IND,India,USA,United States,Export,30071148.64,2578407.11
+2015,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Export,32088503.09,2751382.25
+2015,Rare Earth Elements,2846,IND,India,DEU,Germany,Import,26585709.31,2279553.16
+2015,Rare Earth Elements,2846,IND,India,HKG,Hong Kong,Import,14380662.98,1233049.13
+2015,Rare Earth Elements,2846,JPN,Japan,HKG,Hong Kong,Export,26470898.99,2269708.91
+2015,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,27369053.03,2346719.83
+2015,Rare Earth Elements,2846,JPN,Japan,KOR,KOR,Import,22145790.36,1898858.74
+2015,Rare Earth Elements,2846,DEU,Germany,KOR,KOR,Export,24785041.67,2125157.52
+2015,Rare Earth Elements,2846,DEU,Germany,IND,India,Export,25832375.72,2214959.66
+2015,Rare Earth Elements,2846,DEU,Germany,GBR,United Kingdom,Import,22077378.47,1892992.86
+2015,Rare Earth Elements,2846,DEU,Germany,KOR,KOR,Import,27535302.9,2360974.69
+2015,Rare Earth Elements,2846,HKG,Hong Kong,ARE,United Arab Emirates,Export,87877671.4,7534943.72
+2015,Rare Earth Elements,2846,HKG,Hong Kong,CHN,China,Import,83159823.98,7130418.72
+2015,Rare Earth Elements,2846,HKG,Hong Kong,GBR,United Kingdom,Import,42732149.38,3664006.29
+2016,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Export,95827946.63,7469662.33
+2016,Rare Earth Elements,2846,CHE,Switzerland,JPN,Japan,Export,118974156.4,9273878.92
+2016,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Import,75766120.99,5905869.42
+2016,Rare Earth Elements,2846,CHE,Switzerland,USA,United States,Import,78597075.81,6126538.63
+2016,Rare Earth Elements,2846,CHN,China,HKG,Hong Kong,Export,92645377.05,7221585.22
+2016,Rare Earth Elements,2846,CHN,China,IND,India,Export,89289935.51,6960032.97
+2016,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Import,70297382.0,5479588.42
+2016,Rare Earth Elements,2846,CHN,China,KOR,KOR,Import,83242056.09,6488608.73
+2016,Rare Earth Elements,2846,USA,United States,HKG,Hong Kong,Export,62410421.77,4864810.24
+2016,Rare Earth Elements,2846,USA,United States,DEU,Germany,Export,83948342.47,6543662.82
+2016,Rare Earth Elements,2846,USA,United States,IND,India,Import,44239950.91,3448445.95
+2016,Rare Earth Elements,2846,USA,United States,KOR,KOR,Import,66780402.86,5205444.52
+2016,Rare Earth Elements,2846,ARE,United Arab Emirates,CHE,Switzerland,Export,70980669.2,5532849.75
+2016,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Import,34318448.12,2675077.87
+2016,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Import,52600531.6,4100142.22
+2016,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Export,62407566.54,4864587.68
+2016,Rare Earth Elements,2846,ZAF,South Africa,DEU,Germany,Export,44925740.99,3501902.39
+2016,Rare Earth Elements,2846,ZAF,South Africa,KOR,KOR,Import,44535472.44,3471481.47
+2016,Rare Earth Elements,2846,ZAF,South Africa,USA,United States,Import,35991917.76,2805522.62
+2016,Rare Earth Elements,2846,AUS,Australia,CHN,China,Export,46696676.68,3639944.49
+2016,Rare Earth Elements,2846,AUS,Australia,IND,India,Export,70548469.95,5499160.39
+2016,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Import,34608887.51,2697717.24
+2016,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Import,46596922.28,3632168.77
+2016,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Export,58917676.01,4592555.31
+2016,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,58494122.36,4559539.86
+2016,Rare Earth Elements,2846,CHL,Chile,CHE,Switzerland,Import,57951045.88,4517207.76
+2016,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,42253367.88,3293594.42
+2016,Rare Earth Elements,2846,PER,Peru,USA,United States,Export,62939976.89,4906088.37
+2016,Rare Earth Elements,2846,PER,Peru,JPN,Japan,Export,59824241.46,4663220.89
+2016,Rare Earth Elements,2846,PER,Peru,JPN,Japan,Import,21295944.85,1659990.88
+2016,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Import,35970571.11,2803858.68
+2016,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Export,28388272.83,2212828.51
+2016,Rare Earth Elements,2846,RUS,Russia,GBR,United Kingdom,Export,36700302.94,2860740.32
+2016,Rare Earth Elements,2846,RUS,Russia,KOR,KOR,Import,44063790.75,3434714.5
+2016,Rare Earth Elements,2846,RUS,Russia,IND,India,Import,41235118.44,3214223.22
+2016,Rare Earth Elements,2846,CAN,Canada,DEU,Germany,Export,44654381.48,3480750.27
+2016,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Export,44740611.04,3487471.75
+2016,Rare Earth Elements,2846,CAN,Canada,IND,India,Import,34787285.51,2711623.13
+2016,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Import,32203120.17,2510190.84
+2016,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Export,26928035.74,2099004.95
+2016,Rare Earth Elements,2846,GBR,United Kingdom,IND,India,Export,45721132.72,3563902.13
+2016,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Import,24467894.93,1907240.21
+2016,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Import,20148550.6,1570553.0
+2016,Rare Earth Elements,2846,IND,India,CHN,China,Export,31290692.38,2439068.29
+2016,Rare Earth Elements,2846,IND,India,ARE,United Arab Emirates,Export,20068747.44,1564332.45
+2016,Rare Earth Elements,2846,IND,India,GBR,United Kingdom,Import,19359824.45,1509072.84
+2016,Rare Earth Elements,2846,IND,India,USA,United States,Import,25457751.87,1984398.26
+2016,Rare Earth Elements,2846,JPN,Japan,ARE,United Arab Emirates,Export,16899495.86,1317293.46
+2016,Rare Earth Elements,2846,JPN,Japan,CHN,China,Import,14696003.17,1145534.11
+2016,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,27554288.63,2147820.54
+2016,Rare Earth Elements,2846,DEU,Germany,ARE,United Arab Emirates,Export,30948444.85,2412390.55
+2016,Rare Earth Elements,2846,DEU,Germany,IND,India,Export,23965853.56,1868106.75
+2016,Rare Earth Elements,2846,DEU,Germany,GBR,United Kingdom,Import,15308591.98,1193284.6
+2016,Rare Earth Elements,2846,HKG,Hong Kong,IND,India,Export,60348667.24,4704099.19
+2016,Rare Earth Elements,2846,HKG,Hong Kong,CHE,Switzerland,Export,78436830.77,6114047.74
+2016,Rare Earth Elements,2846,HKG,Hong Kong,GBR,United Kingdom,Import,60776444.05,4737443.83
+2017,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Export,210307885.34,14902929.91
+2017,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Export,206975969.17,14666822.2
+2017,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Import,94585724.62,6702575.24
+2017,Rare Earth Elements,2846,CHE,Switzerland,CHN,China,Import,154549832.76,10951778.25
+2017,Rare Earth Elements,2846,CHN,China,ARE,United Arab Emirates,Export,122019318.11,8646586.61
+2017,Rare Earth Elements,2846,CHN,China,IND,India,Export,100995494.96,7156787.2
+2017,Rare Earth Elements,2846,CHN,China,IND,India,Import,104986280.06,7439583.97
+2017,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Import,67049539.75,4751293.99
+2017,Rare Earth Elements,2846,USA,United States,JPN,Japan,Export,87691048.88,6214001.69
+2017,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Export,81074075.7,5745106.82
+2017,Rare Earth Elements,2846,USA,United States,IND,India,Import,89871783.77,6368533.89
+2017,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Import,47188064.5,3343861.39
+2017,Rare Earth Elements,2846,ARE,United Arab Emirates,HKG,Hong Kong,Export,84898470.34,6016112.76
+2017,Rare Earth Elements,2846,ARE,United Arab Emirates,CHE,Switzerland,Import,65784552.11,4661653.88
+2017,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Import,54927757.96,3892314.95
+2017,Rare Earth Elements,2846,ZAF,South Africa,HKG,Hong Kong,Export,69603644.49,4932284.08
+2017,Rare Earth Elements,2846,ZAF,South Africa,KOR,KOR,Export,63216404.81,4479668.69
+2017,Rare Earth Elements,2846,ZAF,South Africa,HKG,Hong Kong,Import,58337338.38,4133926.14
+2017,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Import,69687464.65,4938223.78
+2017,Rare Earth Elements,2846,AUS,Australia,CHE,Switzerland,Export,98810001.03,7001917.77
+2017,Rare Earth Elements,2846,AUS,Australia,GBR,United Kingdom,Export,76101602.59,5392745.25
+2017,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Import,83896169.44,5945087.27
+2017,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Import,95547325.53,6770716.62
+2017,Rare Earth Elements,2846,CHL,Chile,ARE,United Arab Emirates,Export,49868728.28,3533819.77
+2017,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,42113693.07,2984279.05
+2017,Rare Earth Elements,2846,CHL,Chile,HKG,Hong Kong,Import,33158496.86,2349691.99
+2017,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,72834877.99,5161257.17
+2017,Rare Earth Elements,2846,PER,Peru,KOR,KOR,Export,65249534.93,4623741.25
+2017,Rare Earth Elements,2846,PER,Peru,CHN,China,Export,62590072.32,4435285.24
+2017,Rare Earth Elements,2846,PER,Peru,JPN,Japan,Import,36696868.62,2600429.65
+2017,Rare Earth Elements,2846,PER,Peru,IND,India,Import,42791527.16,3032312.03
+2017,Rare Earth Elements,2846,RUS,Russia,CHN,China,Export,49542229.69,3510683.28
+2017,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Export,84325543.88,5975513.79
+2017,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Import,67065055.36,4752393.46
+2017,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Import,46016701.84,3260855.77
+2017,Rare Earth Elements,2846,CAN,Canada,USA,United States,Export,66802904.61,4733816.82
+2017,Rare Earth Elements,2846,CAN,Canada,CHE,Switzerland,Export,44476914.62,3151742.69
+2017,Rare Earth Elements,2846,CAN,Canada,USA,United States,Import,25928023.1,1837322.98
+2017,Rare Earth Elements,2846,CAN,Canada,JPN,Japan,Import,44205875.03,3132536.17
+2017,Rare Earth Elements,2846,GBR,United Kingdom,ARE,United Arab Emirates,Export,49502070.77,3507837.52
+2017,Rare Earth Elements,2846,GBR,United Kingdom,KOR,KOR,Export,40274454.16,2853946.09
+2017,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Import,35514272.96,2516628.04
+2017,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Import,42256353.89,2994388.34
+2017,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Export,36881388.38,2613505.17
+2017,Rare Earth Elements,2846,IND,India,ARE,United Arab Emirates,Export,22559156.81,1598596.9
+2017,Rare Earth Elements,2846,IND,India,DEU,Germany,Import,27543420.22,1951793.96
+2017,Rare Earth Elements,2846,JPN,Japan,DEU,Germany,Export,23691295.64,1678823.02
+2017,Rare Earth Elements,2846,JPN,Japan,IND,India,Export,27848265.31,1973396.03
+2017,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,24204387.97,1715181.99
+2017,Rare Earth Elements,2846,JPN,Japan,USA,United States,Import,26643589.47,1888029.76
+2017,Rare Earth Elements,2846,DEU,Germany,USA,United States,Export,40184674.36,2847584.08
+2017,Rare Earth Elements,2846,DEU,Germany,CHE,Switzerland,Import,37491867.26,2656765.19
+2017,Rare Earth Elements,2846,DEU,Germany,HKG,Hong Kong,Import,30345336.08,2150344.56
+2017,Rare Earth Elements,2846,HKG,Hong Kong,USA,United States,Export,137930777.14,9774111.42
+2017,Rare Earth Elements,2846,HKG,Hong Kong,ARE,United Arab Emirates,Export,125066019.47,8862483.3
+2017,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Import,60077456.1,4257235.13
+2017,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Import,64433586.21,4565921.14
+2018,Rare Earth Elements,2846,CHE,Switzerland,USA,United States,Export,144476857.36,9307256.94
+2018,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Import,127683558.69,8225425.92
+2018,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Import,148586242.57,9571985.18
+2018,Rare Earth Elements,2846,CHN,China,JPN,Japan,Export,159273159.48,10260440.64
+2018,Rare Earth Elements,2846,CHN,China,CHE,Switzerland,Export,109320182.95,7042449.91
+2018,Rare Earth Elements,2846,CHN,China,IND,India,Import,120702002.26,7775671.27
+2018,Rare Earth Elements,2846,CHN,China,JPN,Japan,Import,139651048.74,8996376.42
+2018,Rare Earth Elements,2846,USA,United States,DEU,Germany,Export,84487612.37,5442725.78
+2018,Rare Earth Elements,2846,USA,United States,CHN,China,Export,102411032.78,6597359.7
+2018,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Import,94166654.53,6066253.55
+2018,Rare Earth Elements,2846,ARE,United Arab Emirates,CHE,Switzerland,Export,66407223.77,4277979.92
+2018,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Export,44858165.13,2889780.94
+2018,Rare Earth Elements,2846,ARE,United Arab Emirates,DEU,Germany,Import,78988761.76,5088487.63
+2018,Rare Earth Elements,2846,ARE,United Arab Emirates,IND,India,Import,73453161.24,4731882.03
+2018,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Export,65834264.04,4241069.62
+2018,Rare Earth Elements,2846,ZAF,South Africa,CHE,Switzerland,Export,51023070.93,3286926.64
+2018,Rare Earth Elements,2846,ZAF,South Africa,IND,India,Import,41591831.72,2679362.44
+2018,Rare Earth Elements,2846,ZAF,South Africa,ARE,United Arab Emirates,Import,65435951.24,4215410.15
+2018,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Export,113700185.74,7324611.45
+2018,Rare Earth Elements,2846,AUS,Australia,GBR,United Kingdom,Export,100159322.61,6452303.63
+2018,Rare Earth Elements,2846,AUS,Australia,GBR,United Kingdom,Import,86489517.29,5571689.3
+2018,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Import,84779893.43,5461554.65
+2018,Rare Earth Elements,2846,CHL,Chile,CHE,Switzerland,Export,59129826.78,3809167.09
+2018,Rare Earth Elements,2846,CHL,Chile,GBR,United Kingdom,Export,52716180.91,3395997.46
+2018,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,53789562.28,3465145.12
+2018,Rare Earth Elements,2846,CHL,Chile,ARE,United Arab Emirates,Import,50572646.25,3257910.1
+2018,Rare Earth Elements,2846,PER,Peru,HKG,Hong Kong,Export,55385926.48,3567983.54
+2018,Rare Earth Elements,2846,PER,Peru,IND,India,Export,41166801.06,2651981.79
+2018,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Import,37467644.72,2413680.66
+2018,Rare Earth Elements,2846,PER,Peru,IND,India,Import,28198284.47,1816544.76
+2018,Rare Earth Elements,2846,RUS,Russia,GBR,United Kingdom,Export,72550359.35,4673723.17
+2018,Rare Earth Elements,2846,RUS,Russia,USA,United States,Export,40314167.92,2597054.82
+2018,Rare Earth Elements,2846,RUS,Russia,DEU,Germany,Import,41216770.88,2655200.87
+2018,Rare Earth Elements,2846,RUS,Russia,USA,United States,Import,68315402.88,4400905.58
+2018,Rare Earth Elements,2846,CAN,Canada,CHE,Switzerland,Export,71979060.71,4636919.88
+2018,Rare Earth Elements,2846,CAN,Canada,DEU,Germany,Export,75679947.93,4875332.52
+2018,Rare Earth Elements,2846,CAN,Canada,CHN,China,Import,59368227.0,3824524.93
+2018,Rare Earth Elements,2846,CAN,Canada,USA,United States,Import,38002837.05,2448157.96
+2018,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Export,39567266.34,2548939.12
+2018,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Export,41451743.11,2670337.87
+2018,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Import,21002148.25,1352966.79
+2018,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Import,41553488.62,2676892.36
+2018,Rare Earth Elements,2846,IND,India,HKG,Hong Kong,Export,27162233.34,1749801.94
+2018,Rare Earth Elements,2846,IND,India,JPN,Japan,Export,22852308.55,1472154.86
+2018,Rare Earth Elements,2846,IND,India,USA,United States,Import,28535148.03,1838245.65
+2018,Rare Earth Elements,2846,JPN,Japan,IND,India,Export,48336097.18,3113830.71
+2018,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Import,33841655.62,2180092.99
+2018,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,31660373.33,2039573.91
+2018,Rare Earth Elements,2846,DEU,Germany,CHN,China,Export,35556027.5,2290533.51
+2018,Rare Earth Elements,2846,DEU,Germany,JPN,Japan,Export,45511362.54,2931860.18
+2018,Rare Earth Elements,2846,DEU,Germany,ARE,United Arab Emirates,Import,24585261.97,1583792.41
+2018,Rare Earth Elements,2846,HKG,Hong Kong,DEU,Germany,Export,92354578.33,5949518.88
+2018,Rare Earth Elements,2846,HKG,Hong Kong,CHN,China,Import,116251114.38,7488943.29
+2018,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Import,97703670.63,6294109.54
+2019,Rare Earth Elements,2846,CHE,Switzerland,ARE,United Arab Emirates,Export,98774547.5,5784632.6
+2019,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Export,142320707.75,8334869.93
+2019,Rare Earth Elements,2846,CHE,Switzerland,DEU,Germany,Import,188009412.28,11010583.22
+2019,Rare Earth Elements,2846,CHE,Switzerland,GBR,United Kingdom,Import,174834796.37,10239025.01
+2019,Rare Earth Elements,2846,CHN,China,ARE,United Arab Emirates,Export,205548297.21,12037730.48
+2019,Rare Earth Elements,2846,CHN,China,DEU,Germany,Import,109943718.25,6438743.92
+2019,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Import,128211397.09,7508572.26
+2019,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Export,129237163.33,7568645.23
+2019,Rare Earth Elements,2846,USA,United States,HKG,Hong Kong,Import,75178446.57,4402750.54
+2019,Rare Earth Elements,2846,USA,United States,DEU,Germany,Import,56210396.71,3291905.67
+2019,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Export,79889830.45,4678668.03
+2019,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Export,54816118.42,3210251.16
+2019,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Import,71260720.03,4173312.81
+2019,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Import,57648281.12,3376113.94
+2019,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Export,88475425.47,5181474.82
+2019,Rare Earth Elements,2846,ZAF,South Africa,ARE,United Arab Emirates,Export,110896832.32,6494562.09
+2019,Rare Earth Elements,2846,ZAF,South Africa,IND,India,Import,91895591.47,5381773.42
+2019,Rare Earth Elements,2846,ZAF,South Africa,USA,United States,Import,87634201.95,5132209.4
+2019,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Export,79520821.74,4657057.4
+2019,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Export,89980530.63,5269619.8
+2019,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Import,90179669.72,5281282.18
+2019,Rare Earth Elements,2846,AUS,Australia,USA,United States,Import,116556256.83,6826000.62
+2019,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Export,54495681.43,3191485.09
+2019,Rare Earth Elements,2846,CHL,Chile,ARE,United Arab Emirates,Export,95104548.8,5569702.8
+2019,Rare Earth Elements,2846,CHL,Chile,CHN,China,Import,51463072.82,3013883.4
+2019,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,81658406.75,4782242.93
+2019,Rare Earth Elements,2846,PER,Peru,DEU,Germany,Export,51071236.72,2990935.91
+2019,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Export,50928736.0,2982590.5
+2019,Rare Earth Elements,2846,PER,Peru,USA,United States,Import,63930619.14,3744032.78
+2019,Rare Earth Elements,2846,PER,Peru,CHN,China,Import,32874227.58,1925246.26
+2019,Rare Earth Elements,2846,RUS,Russia,IND,India,Export,94539428.78,5536607.11
+2019,Rare Earth Elements,2846,RUS,Russia,ARE,United Arab Emirates,Export,65102969.25,3812690.29
+2019,Rare Earth Elements,2846,RUS,Russia,KOR,KOR,Import,57004477.12,3338410.2
+2019,Rare Earth Elements,2846,RUS,Russia,JPN,Japan,Import,80809088.41,4732503.45
+2019,Rare Earth Elements,2846,CAN,Canada,JPN,Japan,Export,69990455.74,4098921.05
+2019,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Export,43094719.7,2523799.16
+2019,Rare Earth Elements,2846,CAN,Canada,ARE,United Arab Emirates,Import,59590208.15,3489840.95
+2019,Rare Earth Elements,2846,CAN,Canada,CHN,China,Import,46951521.31,2749668.89
+2019,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Export,32141569.51,1882338.88
+2019,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Export,61756226.91,3616691.67
+2019,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Import,38751936.44,2269468.41
+2019,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Import,38011108.72,2226082.57
+2019,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Export,41090303.61,2406412.54
+2019,Rare Earth Elements,2846,IND,India,USA,United States,Export,27190714.81,1592397.02
+2019,Rare Earth Elements,2846,IND,India,GBR,United Kingdom,Import,40875541.06,2393835.19
+2019,Rare Earth Elements,2846,IND,India,ARE,United Arab Emirates,Import,41911758.35,2454520.22
+2019,Rare Earth Elements,2846,JPN,Japan,ARE,United Arab Emirates,Export,38406298.76,2249226.48
+2019,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,22371036.34,1310137.37
+2019,Rare Earth Elements,2846,JPN,Japan,USA,United States,Import,19424857.89,1137597.38
+2019,Rare Earth Elements,2846,DEU,Germany,HKG,Hong Kong,Export,47833468.12,2801319.23
+2019,Rare Earth Elements,2846,DEU,Germany,JPN,Japan,Import,40127842.35,2350046.96
+2019,Rare Earth Elements,2846,DEU,Germany,USA,United States,Import,37408998.4,2190820.58
+2019,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Export,139122026.42,8147542.36
+2019,Rare Earth Elements,2846,HKG,Hong Kong,CHE,Switzerland,Export,136384335.12,7987212.2
+2019,Rare Earth Elements,2846,HKG,Hong Kong,IND,India,Import,73989121.07,4333098.89
+2019,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Import,75405127.49,4416025.89
+2020,Rare Earth Elements,2846,CHE,Switzerland,CHN,China,Export,128218860.76,6826372.15
+2020,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Export,184803316.8,9838928.59
+2020,Rare Earth Elements,2846,CHE,Switzerland,KOR,KOR,Import,106461428.37,5668006.45
+2020,Rare Earth Elements,2846,CHE,Switzerland,ARE,United Arab Emirates,Import,154938820.57,8248942.81
+2020,Rare Earth Elements,2846,CHN,China,GBR,United Kingdom,Export,129400919.57,6889304.96
+2020,Rare Earth Elements,2846,CHN,China,IND,India,Export,179801012.72,9572605.92
+2020,Rare Earth Elements,2846,CHN,China,JPN,Japan,Import,69530588.68,3701808.54
+2020,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Export,105482322.67,5615878.86
+2020,Rare Earth Elements,2846,USA,United States,KOR,KOR,Export,78812936.76,4196000.75
+2020,Rare Earth Elements,2846,USA,United States,KOR,KOR,Import,70739818.84,3766187.96
+2020,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Import,120869551.3,6435094.91
+2020,Rare Earth Elements,2846,ARE,United Arab Emirates,DEU,Germany,Export,59735339.25,3180309.46
+2020,Rare Earth Elements,2846,ARE,United Arab Emirates,IND,India,Export,100333220.85,5341740.68
+2020,Rare Earth Elements,2846,ARE,United Arab Emirates,CHE,Switzerland,Import,44706904.77,2380195.61
+2020,Rare Earth Elements,2846,ARE,United Arab Emirates,KOR,KOR,Import,73231973.93,3898870.29
+2020,Rare Earth Elements,2846,ZAF,South Africa,DEU,Germany,Export,93267339.45,4965553.15
+2020,Rare Earth Elements,2846,ZAF,South Africa,HKG,Hong Kong,Export,101078920.56,5381441.73
+2020,Rare Earth Elements,2846,ZAF,South Africa,IND,India,Import,72295799.3,3849028.35
+2020,Rare Earth Elements,2846,ZAF,South Africa,ARE,United Arab Emirates,Import,82829829.57,4409860.13
+2020,Rare Earth Elements,2846,AUS,Australia,USA,United States,Export,67153961.03,3575276.89
+2020,Rare Earth Elements,2846,AUS,Australia,CHN,China,Export,69855405.9,3719101.81
+2020,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Import,50010064.55,2662535.84
+2020,Rare Earth Elements,2846,AUS,Australia,DEU,Germany,Import,51921426.81,2764296.76
+2020,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,54683556.38,2911352.54
+2020,Rare Earth Elements,2846,CHL,Chile,ARE,United Arab Emirates,Export,58968189.49,3139466.41
+2020,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Import,56268557.05,2995737.98
+2020,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,54068981.74,2878632.59
+2020,Rare Earth Elements,2846,PER,Peru,DEU,Germany,Export,73332721.34,3904234.08
+2020,Rare Earth Elements,2846,PER,Peru,IND,India,Export,77414952.16,4121572.05
+2020,Rare Earth Elements,2846,PER,Peru,USA,United States,Import,64059161.09,3410509.74
+2020,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Import,56471119.52,3006522.4
+2020,Rare Earth Elements,2846,RUS,Russia,CHE,Switzerland,Export,44393365.71,2363502.79
+2020,Rare Earth Elements,2846,RUS,Russia,KOR,KOR,Export,84990934.49,4524917.35
+2020,Rare Earth Elements,2846,RUS,Russia,IND,India,Import,37280208.15,1984798.28
+2020,Rare Earth Elements,2846,RUS,Russia,HKG,Hong Kong,Import,36919907.77,1965615.89
+2020,Rare Earth Elements,2846,CAN,Canada,GBR,United Kingdom,Export,81894333.8,4360054.33
+2020,Rare Earth Elements,2846,CAN,Canada,IND,India,Export,87197564.34,4642398.33
+2020,Rare Earth Elements,2846,CAN,Canada,USA,United States,Import,71715361.74,3818125.86
+2020,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Import,60164823.88,3203175.22
+2020,Rare Earth Elements,2846,GBR,United Kingdom,JPN,Japan,Export,32948522.53,1754179.34
+2020,Rare Earth Elements,2846,GBR,United Kingdom,KOR,KOR,Export,42452520.94,2260172.21
+2020,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Import,47667844.01,2537836.02
+2020,Rare Earth Elements,2846,GBR,United Kingdom,KOR,KOR,Import,35738064.98,1902694.58
+2020,Rare Earth Elements,2846,IND,India,JPN,Japan,Export,24402550.26,1299191.78
+2020,Rare Earth Elements,2846,IND,India,ARE,United Arab Emirates,Export,22908060.25,1219625.13
+2020,Rare Earth Elements,2846,IND,India,HKG,Hong Kong,Import,27864708.92,1483517.1
+2020,Rare Earth Elements,2846,IND,India,JPN,Japan,Import,26098353.91,1389476.36
+2020,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Export,29204883.82,1554868.01
+2020,Rare Earth Elements,2846,JPN,Japan,HKG,Hong Kong,Export,40155525.26,2137880.16
+2020,Rare Earth Elements,2846,JPN,Japan,KOR,KOR,Import,34817203.15,1853667.9
+2020,Rare Earth Elements,2846,JPN,Japan,IND,India,Import,21829444.3,1162199.61
+2020,Rare Earth Elements,2846,DEU,Germany,JPN,Japan,Export,26412625.14,1406208.16
+2020,Rare Earth Elements,2846,DEU,Germany,IND,India,Export,42253789.22,2249591.74
+2020,Rare Earth Elements,2846,DEU,Germany,CHN,China,Import,40384763.45,2150084.81
+2020,Rare Earth Elements,2846,DEU,Germany,USA,United States,Import,26296814.45,1400042.4
+2020,Rare Earth Elements,2846,HKG,Hong Kong,IND,India,Export,96720783.68,5149414.52
+2020,Rare Earth Elements,2846,HKG,Hong Kong,CHE,Switzerland,Import,89624455.66,4771606.02
+2021,Rare Earth Elements,2846,CHE,Switzerland,DEU,Germany,Export,170809148.39,8267162.78
+2021,Rare Earth Elements,2846,CHE,Switzerland,JPN,Japan,Export,140736556.48,6811649.33
+2021,Rare Earth Elements,2846,CHE,Switzerland,HKG,Hong Kong,Import,151853575.9,7349713.07
+2021,Rare Earth Elements,2846,CHE,Switzerland,JPN,Japan,Import,222382336.33,10763305.08
+2021,Rare Earth Elements,2846,CHN,China,JPN,Japan,Export,97766813.53,4731913.77
+2021,Rare Earth Elements,2846,CHN,China,ARE,United Arab Emirates,Export,128354245.71,6212345.49
+2021,Rare Earth Elements,2846,CHN,China,KOR,KOR,Import,152549845.41,7383412.52
+2021,Rare Earth Elements,2846,CHN,China,CHE,Switzerland,Import,164798832.85,7976263.51
+2021,Rare Earth Elements,2846,USA,United States,IND,India,Export,81363274.03,3937982.46
+2021,Rare Earth Elements,2846,USA,United States,CHE,Switzerland,Export,131345256.13,6357110.4
+2021,Rare Earth Elements,2846,USA,United States,HKG,Hong Kong,Import,61767743.49,2989558.78
+2021,Rare Earth Elements,2846,USA,United States,KOR,KOR,Import,89399524.22,4326936.97
+2021,Rare Earth Elements,2846,ARE,United Arab Emirates,CHN,China,Export,68763102.19,3328134.15
+2021,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Export,91984645.32,4452056.83
+2021,Rare Earth Elements,2846,ARE,United Arab Emirates,GBR,United Kingdom,Import,91142606.55,4411302.16
+2021,Rare Earth Elements,2846,ARE,United Arab Emirates,USA,United States,Import,95045206.97,4600188.02
+2021,Rare Earth Elements,2846,ZAF,South Africa,IND,India,Export,120020442.01,5808989.39
+2021,Rare Earth Elements,2846,ZAF,South Africa,CHE,Switzerland,Export,77431635.2,3747691.14
+2021,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Import,71650648.61,3467891.39
+2021,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Import,60479733.11,2927219.08
+2021,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Export,85721356.64,4148913.66
+2021,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Export,129770374.86,6280886.14
+2021,Rare Earth Elements,2846,AUS,Australia,ARE,United Arab Emirates,Import,66447781.32,3216072.62
+2021,Rare Earth Elements,2846,AUS,Australia,GBR,United Kingdom,Import,73496419.14,3557226.69
+2021,Rare Earth Elements,2846,CHL,Chile,USA,United States,Export,61602705.72,2981570.96
+2021,Rare Earth Elements,2846,CHL,Chile,IND,India,Export,54040500.0,2615560.2
+2021,Rare Earth Elements,2846,CHL,Chile,CHE,Switzerland,Import,58259706.62,2819769.8
+2021,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Import,77117271.58,3732475.94
+2021,Rare Earth Elements,2846,PER,Peru,HKG,Hong Kong,Export,62693045.64,3034343.41
+2021,Rare Earth Elements,2846,PER,Peru,ARE,United Arab Emirates,Export,70530250.26,3413664.11
+2021,Rare Earth Elements,2846,PER,Peru,JPN,Japan,Import,55407455.15,2681720.83
+2021,Rare Earth Elements,2846,PER,Peru,USA,United States,Import,35666097.89,1726239.14
+2021,Rare Earth Elements,2846,RUS,Russia,JPN,Japan,Export,101379936.65,4906788.93
+2021,Rare Earth Elements,2846,RUS,Russia,IND,India,Export,97321043.08,4710338.48
+2021,Rare Earth Elements,2846,RUS,Russia,CHE,Switzerland,Import,57333302.94,2774931.86
+2021,Rare Earth Elements,2846,RUS,Russia,USA,United States,Import,77558992.38,3753855.23
+2021,Rare Earth Elements,2846,CAN,Canada,CHN,China,Export,97184150.62,4703712.89
+2021,Rare Earth Elements,2846,CAN,Canada,USA,United States,Export,49938260.49,2417011.81
+2021,Rare Earth Elements,2846,CAN,Canada,CHE,Switzerland,Import,77238790.2,3738357.45
+2021,Rare Earth Elements,2846,CAN,Canada,ARE,United Arab Emirates,Import,64467704.89,3120236.92
+2021,Rare Earth Elements,2846,GBR,United Kingdom,JPN,Japan,Export,59005458.49,2855864.19
+2021,Rare Earth Elements,2846,GBR,United Kingdom,CHE,Switzerland,Import,64548077.35,3124126.94
+2021,Rare Earth Elements,2846,GBR,United Kingdom,IND,India,Import,52433919.73,2537801.71
+2021,Rare Earth Elements,2846,IND,India,GBR,United Kingdom,Export,43275175.62,2094518.5
+2021,Rare Earth Elements,2846,IND,India,DEU,Germany,Export,25175211.5,1218480.24
+2021,Rare Earth Elements,2846,IND,India,GBR,United Kingdom,Import,23318911.54,1128635.32
+2021,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Export,49251112.74,2383753.86
+2021,Rare Earth Elements,2846,JPN,Japan,CHN,China,Export,39581745.62,1915756.49
+2021,Rare Earth Elements,2846,JPN,Japan,HKG,Hong Kong,Import,27425769.31,1327407.23
+2021,Rare Earth Elements,2846,DEU,Germany,USA,United States,Export,36485760.56,1765910.81
+2021,Rare Earth Elements,2846,DEU,Germany,CHN,China,Export,28267395.23,1368141.93
+2021,Rare Earth Elements,2846,DEU,Germany,CHE,Switzerland,Import,31169872.89,1508621.85
+2021,Rare Earth Elements,2846,DEU,Germany,CHN,China,Import,48727481.66,2358410.11
+2021,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Export,179821054.08,8703339.02
+2021,Rare Earth Elements,2846,HKG,Hong Kong,KOR,KOR,Export,140592057.38,6804655.58
+2021,Rare Earth Elements,2846,HKG,Hong Kong,CHN,China,Import,108931533.54,5272286.22
+2021,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Import,104625754.98,5063886.54
+2022,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Export,109515491.65,4818681.63
+2022,Rare Earth Elements,2846,CHE,Switzerland,USA,United States,Import,169597120.94,7462273.32
+2022,Rare Earth Elements,2846,CHE,Switzerland,JPN,Japan,Import,177053374.59,7790348.48
+2022,Rare Earth Elements,2846,CHN,China,DEU,Germany,Export,120641370.72,5308220.31
+2022,Rare Earth Elements,2846,CHN,China,IND,India,Export,145183702.76,6388082.92
+2022,Rare Earth Elements,2846,CHN,China,HKG,Hong Kong,Import,188790137.2,8306766.04
+2022,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Export,84983901.08,3739291.65
+2022,Rare Earth Elements,2846,USA,United States,CHE,Switzerland,Export,96839133.68,4260921.88
+2022,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Import,89390602.02,3933186.49
+2022,Rare Earth Elements,2846,USA,United States,CHE,Switzerland,Import,82565431.29,3632878.98
+2022,Rare Earth Elements,2846,ARE,United Arab Emirates,CHN,China,Export,99957567.44,4398132.97
+2022,Rare Earth Elements,2846,ARE,United Arab Emirates,HKG,Hong Kong,Import,57021425.75,2508942.73
+2022,Rare Earth Elements,2846,ARE,United Arab Emirates,USA,United States,Import,84812624.38,3731755.47
+2022,Rare Earth Elements,2846,ZAF,South Africa,ARE,United Arab Emirates,Export,113333889.77,4986691.15
+2022,Rare Earth Elements,2846,ZAF,South Africa,USA,United States,Export,77870112.81,3426284.96
+2022,Rare Earth Elements,2846,ZAF,South Africa,CHN,China,Import,94898801.94,4175547.29
+2022,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Import,81724523.66,3595879.04
+2022,Rare Earth Elements,2846,AUS,Australia,IND,India,Export,167008650.89,7348380.64
+2022,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Export,88896456.26,3911444.08
+2022,Rare Earth Elements,2846,AUS,Australia,KOR,KOR,Import,78158903.49,3438991.75
+2022,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Import,96870029.01,4262281.28
+2022,Rare Earth Elements,2846,CHL,Chile,DEU,Germany,Export,93632658.38,4119836.97
+2022,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Export,119883475.0,5274872.9
+2022,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,59652725.03,2624719.9
+2022,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Import,78040117.98,3433765.19
+2022,Rare Earth Elements,2846,PER,Peru,HKG,Hong Kong,Export,64088199.5,2819880.78
+2022,Rare Earth Elements,2846,PER,Peru,KOR,KOR,Export,64994723.13,2859767.82
+2022,Rare Earth Elements,2846,PER,Peru,CHE,Switzerland,Import,33850944.32,1489441.55
+2022,Rare Earth Elements,2846,PER,Peru,ARE,United Arab Emirates,Import,47235269.97,2078351.88
+2022,Rare Earth Elements,2846,RUS,Russia,ARE,United Arab Emirates,Export,96496379.79,4245840.71
+2022,Rare Earth Elements,2846,RUS,Russia,KOR,KOR,Export,90239231.04,3970526.17
+2022,Rare Earth Elements,2846,RUS,Russia,CHN,China,Import,108402487.3,4769709.44
+2022,Rare Earth Elements,2846,RUS,Russia,IND,India,Import,58463517.52,2572394.77
+2022,Rare Earth Elements,2846,CAN,Canada,GBR,United Kingdom,Export,72958828.99,3210188.48
+2022,Rare Earth Elements,2846,CAN,Canada,JPN,Japan,Export,57668944.11,2537433.54
+2022,Rare Earth Elements,2846,CAN,Canada,HKG,Hong Kong,Import,61441738.07,2703436.48
+2022,Rare Earth Elements,2846,CAN,Canada,DEU,Germany,Import,35830603.38,1576546.55
+2022,Rare Earth Elements,2846,GBR,United Kingdom,DEU,Germany,Export,49504153.68,2178182.76
+2022,Rare Earth Elements,2846,GBR,United Kingdom,JPN,Japan,Export,75652558.09,3328712.56
+2022,Rare Earth Elements,2846,GBR,United Kingdom,CHN,China,Import,53171035.43,2339525.56
+2022,Rare Earth Elements,2846,IND,India,KOR,KOR,Export,36823528.38,1620235.25
+2022,Rare Earth Elements,2846,IND,India,CHN,China,Export,56402592.15,2481714.05
+2022,Rare Earth Elements,2846,IND,India,DEU,Germany,Import,41116356.4,1809119.68
+2022,Rare Earth Elements,2846,IND,India,KOR,KOR,Import,26196627.2,1152651.6
+2022,Rare Earth Elements,2846,JPN,Japan,HKG,Hong Kong,Export,28169313.31,1239449.79
+2022,Rare Earth Elements,2846,JPN,Japan,KOR,KOR,Import,34437042.01,1515229.85
+2022,Rare Earth Elements,2846,JPN,Japan,CHE,Switzerland,Import,31361901.04,1379923.65
+2022,Rare Earth Elements,2846,DEU,Germany,IND,India,Export,43931866.47,1933002.12
+2022,Rare Earth Elements,2846,DEU,Germany,ARE,United Arab Emirates,Export,26634685.38,1171926.16
+2022,Rare Earth Elements,2846,DEU,Germany,USA,United States,Import,42784992.57,1882539.67
+2022,Rare Earth Elements,2846,DEU,Germany,JPN,Japan,Import,23434756.42,1031129.28
+2022,Rare Earth Elements,2846,HKG,Hong Kong,CHE,Switzerland,Export,117988741.66,5191504.63
+2022,Rare Earth Elements,2846,HKG,Hong Kong,ARE,United Arab Emirates,Export,110802491.46,4875309.62
+2022,Rare Earth Elements,2846,HKG,Hong Kong,IND,India,Import,123301944.07,5425285.54
+2022,Rare Earth Elements,2846,HKG,Hong Kong,CHN,China,Import,136653916.42,6012772.32
+2023,Rare Earth Elements,2846,CHE,Switzerland,DEU,Germany,Export,304854772.55,12194190.9
+2023,Rare Earth Elements,2846,CHE,Switzerland,GBR,United Kingdom,Export,266035405.57,10641416.22
+2023,Rare Earth Elements,2846,CHE,Switzerland,JPN,Japan,Import,134276682.88,5371067.32
+2023,Rare Earth Elements,2846,CHE,Switzerland,IND,India,Import,183609858.32,7344394.33
+2023,Rare Earth Elements,2846,CHN,China,DEU,Germany,Export,134292896.69,5371715.87
+2023,Rare Earth Elements,2846,CHN,China,IND,India,Import,199005716.95,7960228.68
+2023,Rare Earth Elements,2846,CHN,China,DEU,Germany,Import,188798561.02,7551942.44
+2023,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Export,116207782.22,4648311.29
+2023,Rare Earth Elements,2846,USA,United States,DEU,Germany,Export,154608000.45,6184320.02
+2023,Rare Earth Elements,2846,USA,United States,ARE,United Arab Emirates,Import,65228641.91,2609145.68
+2023,Rare Earth Elements,2846,USA,United States,GBR,United Kingdom,Import,80749870.5,3229994.82
+2023,Rare Earth Elements,2846,ARE,United Arab Emirates,IND,India,Export,95452616.01,3818104.64
+2023,Rare Earth Elements,2846,ARE,United Arab Emirates,JPN,Japan,Export,107339246.26,4293569.85
+2023,Rare Earth Elements,2846,ARE,United Arab Emirates,IND,India,Import,107114252.89,4284570.12
+2023,Rare Earth Elements,2846,ARE,United Arab Emirates,DEU,Germany,Import,60080439.95,2403217.6
+2023,Rare Earth Elements,2846,ZAF,South Africa,HKG,Hong Kong,Export,135792741.32,5431709.65
+2023,Rare Earth Elements,2846,ZAF,South Africa,CHE,Switzerland,Export,71380744.6,2855229.78
+2023,Rare Earth Elements,2846,ZAF,South Africa,ARE,United Arab Emirates,Import,65891777.39,2635671.1
+2023,Rare Earth Elements,2846,ZAF,South Africa,GBR,United Kingdom,Import,99489833.29,3979593.33
+2023,Rare Earth Elements,2846,AUS,Australia,CHE,Switzerland,Export,131608494.12,5264339.76
+2023,Rare Earth Elements,2846,AUS,Australia,CHN,China,Export,88488884.98,3539555.4
+2023,Rare Earth Elements,2846,AUS,Australia,CHE,Switzerland,Import,137855507.06,5514220.28
+2023,Rare Earth Elements,2846,AUS,Australia,HKG,Hong Kong,Import,89227824.8,3569112.99
+2023,Rare Earth Elements,2846,CHL,Chile,KOR,KOR,Export,67974503.34,2718980.13
+2023,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Export,99314871.48,3972594.86
+2023,Rare Earth Elements,2846,CHL,Chile,JPN,Japan,Import,93797282.53,3751891.3
+2023,Rare Earth Elements,2846,CHL,Chile,HKG,Hong Kong,Import,83415440.22,3336617.61
+2023,Rare Earth Elements,2846,PER,Peru,KOR,KOR,Export,105032043.31,4201281.73
+2023,Rare Earth Elements,2846,PER,Peru,JPN,Japan,Export,97537894.54,3901515.78
+2023,Rare Earth Elements,2846,PER,Peru,IND,India,Import,83014310.57,3320572.42
+2023,Rare Earth Elements,2846,PER,Peru,ARE,United Arab Emirates,Import,79993477.01,3199739.08
+2023,Rare Earth Elements,2846,RUS,Russia,CHN,China,Export,110146859.74,4405874.39
+2023,Rare Earth Elements,2846,RUS,Russia,USA,United States,Export,113361572.32,4534462.89
+2023,Rare Earth Elements,2846,RUS,Russia,CHE,Switzerland,Import,108810052.92,4352402.12
+2023,Rare Earth Elements,2846,RUS,Russia,IND,India,Import,52035408.98,2081416.36
+2023,Rare Earth Elements,2846,CAN,Canada,DEU,Germany,Export,79464552.65,3178582.11
+2023,Rare Earth Elements,2846,CAN,Canada,IND,India,Export,59139083.38,2365563.34
+2023,Rare Earth Elements,2846,CAN,Canada,ARE,United Arab Emirates,Import,38237759.17,1529510.37
+2023,Rare Earth Elements,2846,CAN,Canada,KOR,KOR,Import,57541341.79,2301653.67
+2023,Rare Earth Elements,2846,GBR,United Kingdom,HKG,Hong Kong,Export,65722292.56,2628891.7
+2023,Rare Earth Elements,2846,GBR,United Kingdom,IND,India,Export,54344347.66,2173773.91
+2023,Rare Earth Elements,2846,GBR,United Kingdom,USA,United States,Import,31912150.87,1276486.03
+2023,Rare Earth Elements,2846,GBR,United Kingdom,JPN,Japan,Import,57897357.02,2315894.28
+2023,Rare Earth Elements,2846,IND,India,USA,United States,Export,44986780.38,1799471.22
+2023,Rare Earth Elements,2846,IND,India,KOR,KOR,Export,47245362.83,1889814.51
+2023,Rare Earth Elements,2846,IND,India,CHE,Switzerland,Import,26879007.81,1075160.31
+2023,Rare Earth Elements,2846,IND,India,JPN,Japan,Import,36337620.98,1453504.84
+2023,Rare Earth Elements,2846,JPN,Japan,DEU,Germany,Export,54024764.63,2160990.59
+2023,Rare Earth Elements,2846,JPN,Japan,CHE,Switzerland,Export,62531053.01,2501242.12
+2023,Rare Earth Elements,2846,JPN,Japan,ARE,United Arab Emirates,Import,52637945.54,2105517.82
+2023,Rare Earth Elements,2846,JPN,Japan,GBR,United Kingdom,Import,38455667.97,1538226.72
+2023,Rare Earth Elements,2846,DEU,Germany,ARE,United Arab Emirates,Export,61159947.88,2446397.92
+2023,Rare Earth Elements,2846,DEU,Germany,JPN,Japan,Export,52602144.61,2104085.78
+2023,Rare Earth Elements,2846,DEU,Germany,CHN,China,Import,27304234.92,1092169.4
+2023,Rare Earth Elements,2846,DEU,Germany,CHE,Switzerland,Import,21652683.47,866107.34
+2023,Rare Earth Elements,2846,HKG,Hong Kong,USA,United States,Export,87122037.06,3484881.48
+2023,Rare Earth Elements,2846,HKG,Hong Kong,JPN,Japan,Export,152982188.97,6119287.56
+2023,Rare Earth Elements,2846,HKG,Hong Kong,ARE,United Arab Emirates,Import,79226469.68,3169058.79
+2023,Rare Earth Elements,2846,HKG,Hong Kong,DEU,Germany,Import,126241992.92,5049679.72

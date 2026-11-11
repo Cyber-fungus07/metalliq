@@ -1,36 +1,51 @@
-# Python
+# Python artifacts
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+
+# Virtual environments
 .venv/
 venv/
 ENV/
 env/
 
-# Distribution
+# Packaging / Distribution
 build/
 dist/
 *.egg-info/
+*.egg
 
-# Streamlit secrets (API keys - never commit)
+# Streamlit
 .streamlit/secrets.toml
 
-# Jupyter
+# Jupyter Notebooks
 .ipynb_checkpoints/
 *.ipynb
 
-# OS
+# Operating System files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
 
-# IDE
+# IDE & Editor settings
 .vscode/
 .idea/
+.jbeval/
 *.swp
 *.swo
+*~
 
-# Env files
+# Environment & Secret files
 .env
-.env.local
+.env.*
+!.env.example
+
+# Large raw data files (keep processed/parquet and geojson if small)
+# Un-comment the line below if you don't want raw excel/csv trade data in git:
+# data/raw/*.xlsx

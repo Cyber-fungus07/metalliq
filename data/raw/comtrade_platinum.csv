@@ -1,0 +1,793 @@
+year,metal,hs_code,reporter_iso3,reporter,partner_iso3,partner,flow,trade_value_usd,net_weight_kg
+2010,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Export,368417896.29,13102.94
+2010,Platinum,711011,CHE,Switzerland,USA,United States,Import,151795516.13,5398.67
+2010,Platinum,711011,CHE,Switzerland,ARE,United Arab Emirates,Import,147492015.09,5245.61
+2010,Platinum,711011,CHN,China,DEU,Germany,Export,264581170.96,9409.94
+2010,Platinum,711011,CHN,China,HKG,Hong Kong,Export,286612088.11,10193.48
+2010,Platinum,711011,CHN,China,CHE,Switzerland,Import,156782466.77,5576.03
+2010,Platinum,711011,CHN,China,USA,United States,Import,205910005.88,7323.27
+2010,Platinum,711011,USA,United States,JPN,Japan,Export,201496380.09,7166.3
+2010,Platinum,711011,USA,United States,KOR,KOR,Export,232738635.51,8277.45
+2010,Platinum,711011,USA,United States,JPN,Japan,Import,189613309.71,6743.68
+2010,Platinum,711011,USA,United States,DEU,Germany,Import,177378701.8,6308.55
+2010,Platinum,711011,ARE,United Arab Emirates,JPN,Japan,Export,180262084.99,6411.1
+2010,Platinum,711011,ARE,United Arab Emirates,KOR,KOR,Export,164246058.4,5841.48
+2010,Platinum,711011,ARE,United Arab Emirates,CHN,China,Import,169021413.02,6011.32
+2010,Platinum,711011,ZAF,South Africa,JPN,Japan,Export,189396658.09,6735.97
+2010,Platinum,711011,ZAF,South Africa,KOR,KOR,Export,195534188.83,6954.25
+2010,Platinum,711011,ZAF,South Africa,USA,United States,Import,145808704.38,5185.75
+2010,Platinum,711011,ZAF,South Africa,KOR,KOR,Import,146428649.08,5207.8
+2010,Platinum,711011,AUS,Australia,KOR,KOR,Export,180643573.86,6424.66
+2010,Platinum,711011,AUS,Australia,HKG,Hong Kong,Export,189347715.63,6734.23
+2010,Platinum,711011,AUS,Australia,HKG,Hong Kong,Import,102694001.4,3652.35
+2010,Platinum,711011,AUS,Australia,USA,United States,Import,175702303.67,6248.93
+2010,Platinum,711011,CHL,Chile,KOR,KOR,Export,102402365.42,3641.98
+2010,Platinum,711011,CHL,Chile,CHE,Switzerland,Export,166518186.19,5922.29
+2010,Platinum,711011,CHL,Chile,GBR,United Kingdom,Import,65728195.97,2337.65
+2010,Platinum,711011,CHL,Chile,HKG,Hong Kong,Import,99320030.14,3532.36
+2010,Platinum,711011,PER,Peru,CHN,China,Export,91650178.41,3259.58
+2010,Platinum,711011,PER,Peru,JPN,Japan,Export,84765953.45,3014.74
+2010,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Import,59436301.49,2113.88
+2010,Platinum,711011,PER,Peru,CHE,Switzerland,Import,112898255.71,4015.27
+2010,Platinum,711011,RUS,Russia,CHE,Switzerland,Export,78219246.32,2781.9
+2010,Platinum,711011,RUS,Russia,IND,India,Export,149007700.63,5299.52
+2010,Platinum,711011,RUS,Russia,KOR,KOR,Import,118350125.66,4209.17
+2010,Platinum,711011,RUS,Russia,USA,United States,Import,115718094.68,4115.56
+2010,Platinum,711011,CAN,Canada,KOR,KOR,Export,150932251.25,5367.97
+2010,Platinum,711011,CAN,Canada,IND,India,Export,148487898.82,5281.03
+2010,Platinum,711011,CAN,Canada,HKG,Hong Kong,Import,57482644.04,2044.39
+2010,Platinum,711011,CAN,Canada,ARE,United Arab Emirates,Import,104659337.62,3722.25
+2010,Platinum,711011,GBR,United Kingdom,CHE,Switzerland,Export,130369587.78,4636.65
+2010,Platinum,711011,GBR,United Kingdom,JPN,Japan,Import,85728497.56,3048.97
+2010,Platinum,711011,GBR,United Kingdom,IND,India,Import,87382297.05,3107.79
+2010,Platinum,711011,IND,India,DEU,Germany,Export,44041974.34,1566.37
+2010,Platinum,711011,IND,India,CHE,Switzerland,Import,35739017.03,1271.07
+2010,Platinum,711011,IND,India,HKG,Hong Kong,Import,51909508.24,1846.18
+2010,Platinum,711011,JPN,Japan,HKG,Hong Kong,Export,62192601.77,2211.91
+2010,Platinum,711011,JPN,Japan,ARE,United Arab Emirates,Export,54625045.75,1942.76
+2010,Platinum,711011,JPN,Japan,USA,United States,Import,37908799.11,1348.24
+2010,Platinum,711011,DEU,Germany,CHE,Switzerland,Export,65284521.82,2321.87
+2010,Platinum,711011,DEU,Germany,USA,United States,Export,63601159.96,2262.0
+2010,Platinum,711011,DEU,Germany,CHN,China,Import,62207211.85,2212.43
+2010,Platinum,711011,DEU,Germany,USA,United States,Import,41898804.36,1490.15
+2010,Platinum,711011,HKG,Hong Kong,CHN,China,Export,177909746.77,6327.43
+2010,Platinum,711011,HKG,Hong Kong,CHE,Switzerland,Export,183769323.24,6535.83
+2010,Platinum,711011,HKG,Hong Kong,IND,India,Import,186103788.98,6618.86
+2010,Platinum,711011,HKG,Hong Kong,CHN,China,Import,177631445.82,6317.54
+2011,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Export,347085814.39,12222.03
+2011,Platinum,711011,CHE,Switzerland,CHN,China,Import,340302330.41,11983.16
+2011,Platinum,711011,CHE,Switzerland,HKG,Hong Kong,Import,277466060.65,9770.49
+2011,Platinum,711011,CHN,China,IND,India,Export,275127278.16,9688.13
+2011,Platinum,711011,CHN,China,HKG,Hong Kong,Export,234569425.02,8259.96
+2011,Platinum,711011,CHN,China,IND,India,Import,144143703.3,5075.77
+2011,Platinum,711011,CHN,China,JPN,Japan,Import,281927019.09,9927.58
+2011,Platinum,711011,USA,United States,IND,India,Export,198551070.33,6991.63
+2011,Platinum,711011,USA,United States,HKG,Hong Kong,Export,192251930.32,6769.82
+2011,Platinum,711011,USA,United States,GBR,United Kingdom,Import,208928823.3,7357.07
+2011,Platinum,711011,USA,United States,DEU,Germany,Import,205141600.72,7223.71
+2011,Platinum,711011,ARE,United Arab Emirates,CHE,Switzerland,Export,125384574.14,4415.2
+2011,Platinum,711011,ARE,United Arab Emirates,USA,United States,Export,136248554.88,4797.76
+2011,Platinum,711011,ARE,United Arab Emirates,IND,India,Import,101695951.78,3581.05
+2011,Platinum,711011,ZAF,South Africa,CHN,China,Export,120211736.94,4233.05
+2011,Platinum,711011,ZAF,South Africa,ARE,United Arab Emirates,Export,176385212.85,6211.1
+2011,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Import,101777205.84,3583.91
+2011,Platinum,711011,ZAF,South Africa,DEU,Germany,Import,158127100.66,5568.17
+2011,Platinum,711011,AUS,Australia,GBR,United Kingdom,Export,196509001.46,6919.73
+2011,Platinum,711011,AUS,Australia,USA,United States,Export,174554829.95,6146.65
+2011,Platinum,711011,AUS,Australia,DEU,Germany,Import,102586881.16,3612.42
+2011,Platinum,711011,AUS,Australia,USA,United States,Import,103582096.91,3647.47
+2011,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Export,222338270.01,7829.26
+2011,Platinum,711011,CHL,Chile,GBR,United Kingdom,Export,100530336.46,3540.0
+2011,Platinum,711011,CHL,Chile,CHE,Switzerland,Import,150886095.65,5313.19
+2011,Platinum,711011,CHL,Chile,IND,India,Import,132602007.15,4669.35
+2011,Platinum,711011,PER,Peru,KOR,KOR,Export,162575500.65,5724.82
+2011,Platinum,711011,PER,Peru,USA,United States,Export,149705250.49,5271.61
+2011,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Import,77992980.09,2746.39
+2011,Platinum,711011,PER,Peru,CHE,Switzerland,Import,123511315.39,4349.24
+2011,Platinum,711011,RUS,Russia,HKG,Hong Kong,Export,156327823.67,5504.82
+2011,Platinum,711011,RUS,Russia,GBR,United Kingdom,Export,121068616.69,4263.22
+2011,Platinum,711011,RUS,Russia,KOR,KOR,Import,84928768.78,2990.62
+2011,Platinum,711011,RUS,Russia,DEU,Germany,Import,80515749.86,2835.22
+2011,Platinum,711011,CAN,Canada,JPN,Japan,Export,116308304.2,4095.6
+2011,Platinum,711011,CAN,Canada,HKG,Hong Kong,Export,146733711.59,5166.98
+2011,Platinum,711011,CAN,Canada,ARE,United Arab Emirates,Import,109852262.19,3868.26
+2011,Platinum,711011,CAN,Canada,KOR,KOR,Import,132963202.98,4682.07
+2011,Platinum,711011,GBR,United Kingdom,CHE,Switzerland,Export,86323534.58,3039.73
+2011,Platinum,711011,GBR,United Kingdom,ARE,United Arab Emirates,Export,87048135.85,3065.25
+2011,Platinum,711011,GBR,United Kingdom,JPN,Japan,Import,75511789.31,2659.02
+2011,Platinum,711011,GBR,United Kingdom,ARE,United Arab Emirates,Import,82253884.29,2896.43
+2011,Platinum,711011,IND,India,ARE,United Arab Emirates,Export,60933918.26,2145.68
+2011,Platinum,711011,IND,India,USA,United States,Export,93009960.71,3275.19
+2011,Platinum,711011,IND,India,JPN,Japan,Import,54524295.5,1919.98
+2011,Platinum,711011,JPN,Japan,CHN,China,Export,79933771.16,2814.73
+2011,Platinum,711011,JPN,Japan,CHE,Switzerland,Export,83344711.83,2934.84
+2011,Platinum,711011,JPN,Japan,DEU,Germany,Import,58112432.87,2046.33
+2011,Platinum,711011,DEU,Germany,IND,India,Export,65819397.18,2317.72
+2011,Platinum,711011,DEU,Germany,ARE,United Arab Emirates,Export,44482040.66,1566.36
+2011,Platinum,711011,DEU,Germany,KOR,KOR,Import,38111667.81,1342.04
+2011,Platinum,711011,DEU,Germany,GBR,United Kingdom,Import,55019581.74,1937.42
+2011,Platinum,711011,HKG,Hong Kong,DEU,Germany,Export,129430647.44,4557.68
+2011,Platinum,711011,HKG,Hong Kong,CHN,China,Export,250164656.91,8809.12
+2011,Platinum,711011,HKG,Hong Kong,KOR,KOR,Import,223562145.77,7872.36
+2011,Platinum,711011,HKG,Hong Kong,CHN,China,Import,221644804.26,7804.84
+2012,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Export,400813140.56,13974.2
+2012,Platinum,711011,CHE,Switzerland,DEU,Germany,Import,208550318.43,7271.03
+2012,Platinum,711011,CHN,China,HKG,Hong Kong,Export,226307085.8,7890.11
+2012,Platinum,711011,CHN,China,ARE,United Arab Emirates,Import,151545906.14,5283.59
+2012,Platinum,711011,CHN,China,USA,United States,Import,197255344.04,6877.24
+2012,Platinum,711011,USA,United States,GBR,United Kingdom,Export,176070025.43,6138.62
+2012,Platinum,711011,USA,United States,KOR,KOR,Export,131092417.61,4570.49
+2012,Platinum,711011,USA,United States,HKG,Hong Kong,Import,89099784.27,3106.43
+2012,Platinum,711011,USA,United States,CHN,China,Import,98468768.11,3433.08
+2012,Platinum,711011,ARE,United Arab Emirates,HKG,Hong Kong,Export,161235595.8,5621.42
+2012,Platinum,711011,ARE,United Arab Emirates,DEU,Germany,Export,180219185.98,6283.28
+2012,Platinum,711011,ARE,United Arab Emirates,KOR,KOR,Import,83934539.53,2926.35
+2012,Platinum,711011,ARE,United Arab Emirates,CHE,Switzerland,Import,99080129.72,3454.39
+2012,Platinum,711011,ZAF,South Africa,KOR,KOR,Export,232268230.02,8097.95
+2012,Platinum,711011,ZAF,South Africa,CHE,Switzerland,Export,157531962.96,5492.29
+2012,Platinum,711011,ZAF,South Africa,KOR,KOR,Import,95826623.95,3340.96
+2012,Platinum,711011,ZAF,South Africa,DEU,Germany,Import,74134458.07,2584.67
+2012,Platinum,711011,AUS,Australia,JPN,Japan,Export,126709331.65,4417.67
+2012,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Export,199675180.63,6961.6
+2012,Platinum,711011,AUS,Australia,IND,India,Import,120301380.62,4194.26
+2012,Platinum,711011,AUS,Australia,KOR,KOR,Import,156406748.66,5453.06
+2012,Platinum,711011,CHL,Chile,CHE,Switzerland,Export,95940962.1,3344.95
+2012,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Export,143369993.44,4998.54
+2012,Platinum,711011,CHL,Chile,KOR,KOR,Import,148464884.94,5176.17
+2012,Platinum,711011,CHL,Chile,CHN,China,Import,70088916.36,2443.62
+2012,Platinum,711011,PER,Peru,USA,United States,Export,118810133.23,4142.27
+2012,Platinum,711011,PER,Peru,GBR,United Kingdom,Export,82751975.2,2885.12
+2012,Platinum,711011,PER,Peru,DEU,Germany,Import,79747206.79,2780.36
+2012,Platinum,711011,PER,Peru,USA,United States,Import,90017386.14,3138.42
+2012,Platinum,711011,RUS,Russia,JPN,Japan,Export,182673406.89,6368.84
+2012,Platinum,711011,RUS,Russia,HKG,Hong Kong,Export,184101368.21,6418.63
+2012,Platinum,711011,RUS,Russia,DEU,Germany,Import,119222548.12,4156.65
+2012,Platinum,711011,RUS,Russia,HKG,Hong Kong,Import,104489226.05,3642.98
+2012,Platinum,711011,CAN,Canada,CHN,China,Export,115377360.72,4022.59
+2012,Platinum,711011,CAN,Canada,GBR,United Kingdom,Export,107360594.26,3743.09
+2012,Platinum,711011,CAN,Canada,GBR,United Kingdom,Import,137541062.55,4795.32
+2012,Platinum,711011,CAN,Canada,CHN,China,Import,104356836.03,3638.36
+2012,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Export,102633554.52,3578.28
+2012,Platinum,711011,GBR,United Kingdom,CHN,China,Export,84221161.5,2936.34
+2012,Platinum,711011,GBR,United Kingdom,IND,India,Import,65326772.64,2277.59
+2012,Platinum,711011,GBR,United Kingdom,DEU,Germany,Import,85847801.26,2993.05
+2012,Platinum,711011,IND,India,HKG,Hong Kong,Export,79074986.96,2756.92
+2012,Platinum,711011,IND,India,CHN,China,Export,104118083.7,3630.04
+2012,Platinum,711011,IND,India,CHN,China,Import,89517685.58,3121.0
+2012,Platinum,711011,IND,India,ARE,United Arab Emirates,Import,60177796.47,2098.08
+2012,Platinum,711011,JPN,Japan,ARE,United Arab Emirates,Export,57760644.3,2013.8
+2012,Platinum,711011,JPN,Japan,KOR,KOR,Export,84664658.99,2951.8
+2012,Platinum,711011,JPN,Japan,HKG,Hong Kong,Import,43442063.66,1514.59
+2012,Platinum,711011,JPN,Japan,CHN,China,Import,60876748.38,2122.45
+2012,Platinum,711011,DEU,Germany,JPN,Japan,Export,91209242.93,3179.98
+2012,Platinum,711011,DEU,Germany,CHN,China,Export,76359773.87,2662.26
+2012,Platinum,711011,DEU,Germany,CHE,Switzerland,Import,49644226.08,1730.83
+2012,Platinum,711011,DEU,Germany,IND,India,Import,60057721.54,2093.89
+2012,Platinum,711011,HKG,Hong Kong,CHE,Switzerland,Export,199564524.69,6957.74
+2012,Platinum,711011,HKG,Hong Kong,CHN,China,Export,182581288.1,6365.63
+2012,Platinum,711011,HKG,Hong Kong,CHN,China,Import,196749125.6,6859.59
+2012,Platinum,711011,HKG,Hong Kong,ARE,United Arab Emirates,Import,255169802.76,8896.4
+2013,Platinum,711011,CHE,Switzerland,CHN,China,Export,234785388.73,8104.66
+2013,Platinum,711011,CHE,Switzerland,CHN,China,Import,220454091.0,7609.95
+2013,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Import,228179523.71,7876.63
+2013,Platinum,711011,CHN,China,GBR,United Kingdom,Export,310848996.36,10730.33
+2013,Platinum,711011,CHN,China,ARE,United Arab Emirates,Import,295353842.01,10195.45
+2013,Platinum,711011,CHN,China,GBR,United Kingdom,Import,274590385.89,9478.71
+2013,Platinum,711011,USA,United States,KOR,KOR,Export,209713803.81,7239.2
+2013,Platinum,711011,USA,United States,CHE,Switzerland,Import,168899956.03,5830.33
+2013,Platinum,711011,USA,United States,GBR,United Kingdom,Import,142676757.71,4925.12
+2013,Platinum,711011,ARE,United Arab Emirates,DEU,Germany,Export,222183575.39,7669.65
+2013,Platinum,711011,ARE,United Arab Emirates,JPN,Japan,Export,148996370.94,5143.27
+2013,Platinum,711011,ARE,United Arab Emirates,IND,India,Import,119584202.08,4127.98
+2013,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Export,217100939.78,7494.2
+2013,Platinum,711011,ZAF,South Africa,KOR,KOR,Export,150554263.36,5197.05
+2013,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Import,158959275.46,5487.19
+2013,Platinum,711011,ZAF,South Africa,JPN,Japan,Import,154010826.53,5316.37
+2013,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Export,228485269.19,7887.18
+2013,Platinum,711011,AUS,Australia,KOR,KOR,Export,195396610.35,6744.98
+2013,Platinum,711011,AUS,Australia,HKG,Hong Kong,Import,96301879.56,3324.29
+2013,Platinum,711011,AUS,Australia,CHN,China,Import,156640192.72,5407.13
+2013,Platinum,711011,CHL,Chile,JPN,Japan,Export,144198160.71,4977.64
+2013,Platinum,711011,CHL,Chile,HKG,Hong Kong,Export,161708036.51,5582.07
+2013,Platinum,711011,CHL,Chile,CHE,Switzerland,Import,98424786.47,3397.57
+2013,Platinum,711011,CHL,Chile,JPN,Japan,Import,80803801.71,2789.3
+2013,Platinum,711011,PER,Peru,CHE,Switzerland,Export,95363725.23,3291.9
+2013,Platinum,711011,PER,Peru,HKG,Hong Kong,Export,81808566.55,2823.99
+2013,Platinum,711011,PER,Peru,KOR,KOR,Import,96416202.36,3328.23
+2013,Platinum,711011,PER,Peru,IND,India,Import,104835938.75,3618.88
+2013,Platinum,711011,RUS,Russia,KOR,KOR,Export,116871203.99,4034.33
+2013,Platinum,711011,RUS,Russia,IND,India,Export,93169302.11,3216.15
+2013,Platinum,711011,RUS,Russia,HKG,Hong Kong,Import,151554714.66,5231.58
+2013,Platinum,711011,RUS,Russia,CHE,Switzerland,Import,107910271.01,3725.0
+2013,Platinum,711011,CAN,Canada,CHE,Switzerland,Export,114445636.86,3950.6
+2013,Platinum,711011,CAN,Canada,USA,United States,Export,127567635.94,4403.56
+2013,Platinum,711011,CAN,Canada,CHE,Switzerland,Import,112093865.56,3869.42
+2013,Platinum,711011,CAN,Canada,DEU,Germany,Import,134317417.77,4636.56
+2013,Platinum,711011,GBR,United Kingdom,JPN,Japan,Export,97332186.6,3359.85
+2013,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Export,124070573.11,4282.85
+2013,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Import,96203081.17,3320.88
+2013,Platinum,711011,IND,India,HKG,Hong Kong,Export,84663597.65,2922.54
+2013,Platinum,711011,IND,India,JPN,Japan,Export,78983319.61,2726.46
+2013,Platinum,711011,IND,India,KOR,KOR,Import,33754093.1,1165.17
+2013,Platinum,711011,IND,India,ARE,United Arab Emirates,Import,51200634.4,1767.42
+2013,Platinum,711011,JPN,Japan,IND,India,Export,79190411.37,2733.61
+2013,Platinum,711011,JPN,Japan,ARE,United Arab Emirates,Import,37861861.71,1306.97
+2013,Platinum,711011,JPN,Japan,KOR,KOR,Import,71343892.98,2462.75
+2013,Platinum,711011,DEU,Germany,CHN,China,Export,80222568.69,2769.24
+2013,Platinum,711011,DEU,Germany,CHN,China,Import,61652568.55,2128.21
+2013,Platinum,711011,DEU,Germany,CHE,Switzerland,Import,61854475.19,2135.18
+2013,Platinum,711011,HKG,Hong Kong,CHE,Switzerland,Export,148036915.86,5110.15
+2013,Platinum,711011,HKG,Hong Kong,USA,United States,Import,178200579.65,6151.38
+2013,Platinum,711011,HKG,Hong Kong,ARE,United Arab Emirates,Import,128297002.52,4428.74
+2014,Platinum,711011,CHE,Switzerland,HKG,Hong Kong,Export,422696631.87,14446.78
+2014,Platinum,711011,CHE,Switzerland,ARE,United Arab Emirates,Import,178421618.08,6098.03
+2014,Platinum,711011,CHN,China,ARE,United Arab Emirates,Export,357465420.81,12217.33
+2014,Platinum,711011,CHN,China,DEU,Germany,Import,255480927.59,8731.74
+2014,Platinum,711011,USA,United States,HKG,Hong Kong,Export,212280105.02,7255.24
+2014,Platinum,711011,USA,United States,KOR,KOR,Export,218105613.37,7454.34
+2014,Platinum,711011,USA,United States,GBR,United Kingdom,Import,124791913.88,4265.1
+2014,Platinum,711011,USA,United States,CHE,Switzerland,Import,178022967.72,6084.41
+2014,Platinum,711011,ARE,United Arab Emirates,GBR,United Kingdom,Export,215752355.49,7373.91
+2014,Platinum,711011,ARE,United Arab Emirates,HKG,Hong Kong,Export,167650946.19,5729.92
+2014,Platinum,711011,ARE,United Arab Emirates,JPN,Japan,Import,112401163.97,3841.61
+2014,Platinum,711011,ARE,United Arab Emirates,GBR,United Kingdom,Import,177971948.36,6082.67
+2014,Platinum,711011,ZAF,South Africa,DEU,Germany,Export,126224461.42,4314.06
+2014,Platinum,711011,ZAF,South Africa,CHN,China,Export,104177995.12,3560.56
+2014,Platinum,711011,ZAF,South Africa,JPN,Japan,Import,159990288.93,5468.09
+2014,Platinum,711011,ZAF,South Africa,ARE,United Arab Emirates,Import,82256399.23,2811.33
+2014,Platinum,711011,AUS,Australia,GBR,United Kingdom,Export,136614944.77,4669.18
+2014,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Export,226915465.74,7755.44
+2014,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Import,221156467.29,7558.61
+2014,Platinum,711011,AUS,Australia,DEU,Germany,Import,202655944.62,6926.31
+2014,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Export,179473255.11,6133.98
+2014,Platinum,711011,CHL,Chile,USA,United States,Export,175269505.72,5990.3
+2014,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Import,169703586.16,5800.07
+2014,Platinum,711011,CHL,Chile,JPN,Japan,Import,175759087.23,6007.04
+2014,Platinum,711011,PER,Peru,JPN,Japan,Export,141754461.8,4844.84
+2014,Platinum,711011,PER,Peru,CHE,Switzerland,Export,91674963.18,3133.24
+2014,Platinum,711011,PER,Peru,KOR,KOR,Import,92588071.9,3164.44
+2014,Platinum,711011,PER,Peru,IND,India,Import,114379071.93,3909.21
+2014,Platinum,711011,RUS,Russia,CHE,Switzerland,Export,170999211.63,5844.35
+2014,Platinum,711011,RUS,Russia,DEU,Germany,Export,99561665.61,3402.79
+2014,Platinum,711011,RUS,Russia,CHN,China,Import,90848646.76,3104.99
+2014,Platinum,711011,RUS,Russia,KOR,KOR,Import,88772441.69,3034.03
+2014,Platinum,711011,CAN,Canada,HKG,Hong Kong,Export,97154211.71,3320.5
+2014,Platinum,711011,CAN,Canada,GBR,United Kingdom,Export,100682634.49,3441.1
+2014,Platinum,711011,CAN,Canada,JPN,Japan,Import,116680972.67,3987.88
+2014,Platinum,711011,CAN,Canada,KOR,KOR,Import,99132841.75,3388.13
+2014,Platinum,711011,GBR,United Kingdom,KOR,KOR,Export,62670990.21,2141.95
+2014,Platinum,711011,GBR,United Kingdom,CHN,China,Export,71995769.34,2460.65
+2014,Platinum,711011,GBR,United Kingdom,CHN,China,Import,108550432.59,3710.0
+2014,Platinum,711011,GBR,United Kingdom,IND,India,Import,88475685.79,3023.89
+2014,Platinum,711011,IND,India,KOR,KOR,Export,91519822.06,3127.93
+2014,Platinum,711011,IND,India,JPN,Japan,Export,43905412.62,1500.58
+2014,Platinum,711011,IND,India,USA,United States,Import,75531769.12,2581.5
+2014,Platinum,711011,IND,India,ARE,United Arab Emirates,Import,78762261.41,2691.91
+2014,Platinum,711011,JPN,Japan,GBR,United Kingdom,Export,76853551.26,2626.67
+2014,Platinum,711011,JPN,Japan,DEU,Germany,Export,45426517.13,1552.57
+2014,Platinum,711011,JPN,Japan,ARE,United Arab Emirates,Import,34913943.12,1193.28
+2014,Platinum,711011,JPN,Japan,DEU,Germany,Import,64382073.28,2200.43
+2014,Platinum,711011,DEU,Germany,USA,United States,Export,107906351.8,3687.99
+2014,Platinum,711011,DEU,Germany,KOR,KOR,Export,52213608.9,1784.54
+2014,Platinum,711011,DEU,Germany,CHE,Switzerland,Import,38590366.61,1318.93
+2014,Platinum,711011,DEU,Germany,KOR,KOR,Import,36140334.26,1235.19
+2014,Platinum,711011,HKG,Hong Kong,JPN,Japan,Export,130798311.67,4470.38
+2014,Platinum,711011,HKG,Hong Kong,GBR,United Kingdom,Export,130378467.37,4456.03
+2014,Platinum,711011,HKG,Hong Kong,CHE,Switzerland,Import,214871910.09,7343.82
+2014,Platinum,711011,HKG,Hong Kong,JPN,Japan,Import,246723762.69,8432.44
+2015,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Export,292548516.79,9899.63
+2015,Platinum,711011,CHE,Switzerland,HKG,Hong Kong,Export,256625195.05,8684.01
+2015,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Import,396291524.12,13410.22
+2015,Platinum,711011,CHE,Switzerland,JPN,Japan,Import,347812573.95,11769.72
+2015,Platinum,711011,CHN,China,ARE,United Arab Emirates,Export,409059915.2,13842.29
+2015,Platinum,711011,CHN,China,IND,India,Export,272245565.91,9212.59
+2015,Platinum,711011,CHN,China,ARE,United Arab Emirates,Import,345839862.4,11702.97
+2015,Platinum,711011,CHN,China,KOR,KOR,Import,299008210.24,10118.22
+2015,Platinum,711011,USA,United States,IND,India,Export,127801892.25,4324.72
+2015,Platinum,711011,USA,United States,ARE,United Arab Emirates,Export,168473789.53,5701.03
+2015,Platinum,711011,USA,United States,DEU,Germany,Import,155452419.45,5260.4
+2015,Platinum,711011,USA,United States,GBR,United Kingdom,Import,112783398.07,3816.51
+2015,Platinum,711011,ARE,United Arab Emirates,KOR,KOR,Export,136759679.23,4627.85
+2015,Platinum,711011,ARE,United Arab Emirates,CHN,China,Export,238188222.79,8060.12
+2015,Platinum,711011,ARE,United Arab Emirates,HKG,Hong Kong,Import,105796325.1,3580.07
+2015,Platinum,711011,ARE,United Arab Emirates,KOR,KOR,Import,96401321.07,3262.15
+2015,Platinum,711011,ZAF,South Africa,CHE,Switzerland,Export,147092944.6,4977.52
+2015,Platinum,711011,ZAF,South Africa,DEU,Germany,Export,126283438.42,4273.34
+2015,Platinum,711011,ZAF,South Africa,DEU,Germany,Import,116839235.49,3953.75
+2015,Platinum,711011,ZAF,South Africa,CHN,China,Import,185550797.94,6278.9
+2015,Platinum,711011,AUS,Australia,HKG,Hong Kong,Export,192506542.54,6514.28
+2015,Platinum,711011,AUS,Australia,USA,United States,Export,150615850.68,5096.73
+2015,Platinum,711011,AUS,Australia,KOR,KOR,Import,216782990.32,7335.78
+2015,Platinum,711011,AUS,Australia,IND,India,Import,219578094.66,7430.36
+2015,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Export,157976992.01,5345.83
+2015,Platinum,711011,CHL,Chile,CHE,Switzerland,Export,174471368.73,5903.98
+2015,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Import,180712262.74,6115.17
+2015,Platinum,711011,CHL,Chile,USA,United States,Import,101578772.2,3437.35
+2015,Platinum,711011,PER,Peru,GBR,United Kingdom,Export,87117002.54,2947.98
+2015,Platinum,711011,PER,Peru,CHE,Switzerland,Export,97405536.75,3296.13
+2015,Platinum,711011,PER,Peru,HKG,Hong Kong,Import,68081989.47,2303.84
+2015,Platinum,711011,PER,Peru,KOR,KOR,Import,67035992.24,2268.45
+2015,Platinum,711011,RUS,Russia,USA,United States,Export,165158767.23,5588.85
+2015,Platinum,711011,RUS,Russia,IND,India,Export,118508418.83,4010.24
+2015,Platinum,711011,RUS,Russia,USA,United States,Import,95093747.51,3217.9
+2015,Platinum,711011,RUS,Russia,CHN,China,Import,90155910.01,3050.81
+2015,Platinum,711011,CAN,Canada,USA,United States,Export,153085402.61,5180.3
+2015,Platinum,711011,CAN,Canada,CHE,Switzerland,Export,146543642.6,4958.93
+2015,Platinum,711011,CAN,Canada,USA,United States,Import,104279281.41,3528.73
+2015,Platinum,711011,CAN,Canada,JPN,Japan,Import,124969291.81,4228.87
+2015,Platinum,711011,GBR,United Kingdom,KOR,KOR,Export,58620568.34,1983.68
+2015,Platinum,711011,GBR,United Kingdom,USA,United States,Export,78916393.92,2670.47
+2015,Platinum,711011,GBR,United Kingdom,USA,United States,Import,63029489.2,2132.87
+2015,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Import,88576293.64,2997.36
+2015,Platinum,711011,IND,India,KOR,KOR,Export,44843116.4,1517.46
+2015,Platinum,711011,IND,India,ARE,United Arab Emirates,Export,92697555.89,3136.82
+2015,Platinum,711011,IND,India,ARE,United Arab Emirates,Import,79563133.65,2692.36
+2015,Platinum,711011,IND,India,HKG,Hong Kong,Import,72090411.47,2439.49
+2015,Platinum,711011,JPN,Japan,HKG,Hong Kong,Export,45602375.51,1543.15
+2015,Platinum,711011,JPN,Japan,CHN,China,Export,90322452.72,3056.45
+2015,Platinum,711011,JPN,Japan,HKG,Hong Kong,Import,51940456.3,1757.63
+2015,Platinum,711011,JPN,Japan,GBR,United Kingdom,Import,82906091.29,2805.48
+2015,Platinum,711011,DEU,Germany,JPN,Japan,Export,76736216.45,2596.7
+2015,Platinum,711011,DEU,Germany,CHN,China,Export,94898010.75,3211.28
+2015,Platinum,711011,DEU,Germany,CHN,China,Import,46772891.08,1582.76
+2015,Platinum,711011,DEU,Germany,CHE,Switzerland,Import,63564814.43,2150.99
+2015,Platinum,711011,HKG,Hong Kong,ARE,United Arab Emirates,Export,200841155.47,6796.32
+2015,Platinum,711011,HKG,Hong Kong,DEU,Germany,Export,154236919.64,5219.27
+2015,Platinum,711011,HKG,Hong Kong,GBR,United Kingdom,Import,196828107.67,6660.52
+2015,Platinum,711011,HKG,Hong Kong,ARE,United Arab Emirates,Import,225594398.9,7633.95
+2016,Platinum,711011,CHE,Switzerland,IND,India,Export,401973614.67,13467.82
+2016,Platinum,711011,CHE,Switzerland,DEU,Germany,Export,227116364.32,7609.36
+2016,Platinum,711011,CHE,Switzerland,USA,United States,Import,278996373.22,9347.56
+2016,Platinum,711011,CHE,Switzerland,JPN,Japan,Import,350228847.36,11734.15
+2016,Platinum,711011,CHN,China,HKG,Hong Kong,Export,311490061.02,10436.23
+2016,Platinum,711011,CHN,China,CHE,Switzerland,Import,319665518.1,10710.15
+2016,Platinum,711011,CHN,China,USA,United States,Import,302622258.32,10139.13
+2016,Platinum,711011,USA,United States,HKG,Hong Kong,Export,169019998.98,5662.88
+2016,Platinum,711011,USA,United States,ARE,United Arab Emirates,Export,122973564.9,4120.13
+2016,Platinum,711011,USA,United States,JPN,Japan,Import,121357122.64,4065.98
+2016,Platinum,711011,USA,United States,GBR,United Kingdom,Import,194942938.3,6531.41
+2016,Platinum,711011,ARE,United Arab Emirates,HKG,Hong Kong,Export,219940609.51,7368.94
+2016,Platinum,711011,ARE,United Arab Emirates,GBR,United Kingdom,Export,117849517.23,3948.46
+2016,Platinum,711011,ARE,United Arab Emirates,USA,United States,Import,122035985.51,4088.72
+2016,Platinum,711011,ZAF,South Africa,GBR,United Kingdom,Export,111999204.8,3752.45
+2016,Platinum,711011,ZAF,South Africa,JPN,Japan,Export,156143503.84,5231.47
+2016,Platinum,711011,ZAF,South Africa,USA,United States,Import,187518719.84,6282.67
+2016,Platinum,711011,ZAF,South Africa,KOR,KOR,Import,165337976.48,5539.52
+2016,Platinum,711011,AUS,Australia,DEU,Germany,Export,226557192.04,7590.62
+2016,Platinum,711011,AUS,Australia,HKG,Hong Kong,Export,264849221.99,8873.57
+2016,Platinum,711011,AUS,Australia,USA,United States,Import,155411647.78,5206.95
+2016,Platinum,711011,AUS,Australia,HKG,Hong Kong,Import,158147444.0,5298.61
+2016,Platinum,711011,CHL,Chile,HKG,Hong Kong,Export,95690480.76,3206.04
+2016,Platinum,711011,CHL,Chile,CHE,Switzerland,Export,119808098.31,4014.08
+2016,Platinum,711011,CHL,Chile,CHN,China,Import,150626807.14,5046.64
+2016,Platinum,711011,CHL,Chile,JPN,Japan,Import,107664891.37,3607.23
+2016,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Export,97796636.59,3276.6
+2016,Platinum,711011,PER,Peru,USA,United States,Export,143995215.35,4824.45
+2016,Platinum,711011,PER,Peru,USA,United States,Import,111851672.51,3747.5
+2016,Platinum,711011,PER,Peru,DEU,Germany,Import,58656623.97,1965.25
+2016,Platinum,711011,RUS,Russia,USA,United States,Export,195821352.52,6560.84
+2016,Platinum,711011,RUS,Russia,IND,India,Export,189940214.83,6363.8
+2016,Platinum,711011,RUS,Russia,HKG,Hong Kong,Import,149404660.48,5005.69
+2016,Platinum,711011,RUS,Russia,IND,India,Import,85224394.43,2855.38
+2016,Platinum,711011,CAN,Canada,DEU,Germany,Export,134132229.16,4494.0
+2016,Platinum,711011,CAN,Canada,JPN,Japan,Export,143112774.14,4794.88
+2016,Platinum,711011,CAN,Canada,CHN,China,Import,95284638.55,3192.44
+2016,Platinum,711011,CAN,Canada,HKG,Hong Kong,Import,75706046.74,2536.47
+2016,Platinum,711011,GBR,United Kingdom,JPN,Japan,Export,145176984.94,4864.04
+2016,Platinum,711011,GBR,United Kingdom,CHN,China,Export,85420875.76,2861.96
+2016,Platinum,711011,GBR,United Kingdom,KOR,KOR,Import,90710409.19,3039.18
+2016,Platinum,711011,GBR,United Kingdom,IND,India,Import,60413432.9,2024.11
+2016,Platinum,711011,IND,India,GBR,United Kingdom,Export,111605949.44,3739.27
+2016,Platinum,711011,IND,India,JPN,Japan,Export,91670349.04,3071.34
+2016,Platinum,711011,IND,India,JPN,Japan,Import,89976495.35,3014.59
+2016,Platinum,711011,IND,India,CHE,Switzerland,Import,75421129.17,2526.93
+2016,Platinum,711011,JPN,Japan,USA,United States,Export,100983872.86,3383.39
+2016,Platinum,711011,JPN,Japan,KOR,KOR,Import,78809451.36,2640.45
+2016,Platinum,711011,JPN,Japan,ARE,United Arab Emirates,Import,54025569.18,1810.09
+2016,Platinum,711011,DEU,Germany,IND,India,Export,76009977.62,2546.66
+2016,Platinum,711011,DEU,Germany,IND,India,Import,79092387.37,2649.93
+2016,Platinum,711011,DEU,Germany,HKG,Hong Kong,Import,81813456.91,2741.1
+2016,Platinum,711011,HKG,Hong Kong,DEU,Germany,Export,148824415.24,4986.25
+2016,Platinum,711011,HKG,Hong Kong,KOR,KOR,Export,299472629.66,10033.6
+2016,Platinum,711011,HKG,Hong Kong,ARE,United Arab Emirates,Import,237469160.45,7956.22
+2016,Platinum,711011,HKG,Hong Kong,CHN,China,Import,202785760.52,6794.18
+2017,Platinum,711011,CHE,Switzerland,CHN,China,Export,299997148.41,9951.66
+2017,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Export,316441061.54,10497.14
+2017,Platinum,711011,CHE,Switzerland,ARE,United Arab Emirates,Import,278315462.42,9232.42
+2017,Platinum,711011,CHE,Switzerland,HKG,Hong Kong,Import,330629612.94,10967.81
+2017,Platinum,711011,CHN,China,HKG,Hong Kong,Export,219067895.79,7267.03
+2017,Platinum,711011,CHN,China,GBR,United Kingdom,Export,191550138.69,6354.2
+2017,Platinum,711011,CHN,China,IND,India,Import,209025975.53,6933.92
+2017,Platinum,711011,CHN,China,JPN,Japan,Import,187858783.96,6231.75
+2017,Platinum,711011,USA,United States,HKG,Hong Kong,Export,155431780.55,5156.06
+2017,Platinum,711011,USA,United States,KOR,KOR,Export,205237202.58,6808.23
+2017,Platinum,711011,USA,United States,KOR,KOR,Import,107470285.01,3565.06
+2017,Platinum,711011,USA,United States,CHE,Switzerland,Import,84890160.81,2816.02
+2017,Platinum,711011,ARE,United Arab Emirates,CHE,Switzerland,Export,231826855.74,7690.28
+2017,Platinum,711011,ARE,United Arab Emirates,IND,India,Export,221674855.95,7353.51
+2017,Platinum,711011,ARE,United Arab Emirates,JPN,Japan,Import,121620235.87,4034.45
+2017,Platinum,711011,ARE,United Arab Emirates,USA,United States,Import,159769481.34,5299.95
+2017,Platinum,711011,ZAF,South Africa,ARE,United Arab Emirates,Export,170436408.17,5653.8
+2017,Platinum,711011,ZAF,South Africa,CHN,China,Export,236663757.4,7850.73
+2017,Platinum,711011,ZAF,South Africa,KOR,KOR,Import,161738273.83,5365.26
+2017,Platinum,711011,ZAF,South Africa,CHN,China,Import,110611374.32,3669.26
+2017,Platinum,711011,AUS,Australia,KOR,KOR,Export,134625159.79,4465.85
+2017,Platinum,711011,AUS,Australia,JPN,Japan,Export,214805855.99,7125.65
+2017,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Import,132790859.2,4405.01
+2017,Platinum,711011,AUS,Australia,HKG,Hong Kong,Import,197892961.82,6564.61
+2017,Platinum,711011,CHL,Chile,CHN,China,Export,83983122.33,2785.93
+2017,Platinum,711011,CHL,Chile,HKG,Hong Kong,Export,110339551.19,3660.24
+2017,Platinum,711011,CHL,Chile,HKG,Hong Kong,Import,84784148.75,2812.5
+2017,Platinum,711011,CHL,Chile,USA,United States,Import,86853178.57,2881.14
+2017,Platinum,711011,PER,Peru,JPN,Japan,Export,66540476.39,2207.31
+2017,Platinum,711011,PER,Peru,DEU,Germany,Export,126143354.48,4184.49
+2017,Platinum,711011,PER,Peru,DEU,Germany,Import,92038590.89,3053.15
+2017,Platinum,711011,PER,Peru,JPN,Japan,Import,86810579.58,2879.72
+2017,Platinum,711011,RUS,Russia,IND,India,Export,138255664.79,4586.29
+2017,Platinum,711011,RUS,Russia,DEU,Germany,Export,112558338.75,3733.84
+2017,Platinum,711011,RUS,Russia,HKG,Hong Kong,Import,115357227.01,3826.69
+2017,Platinum,711011,RUS,Russia,JPN,Japan,Import,142305237.72,4720.62
+2017,Platinum,711011,CAN,Canada,ARE,United Arab Emirates,Export,141578460.48,4696.51
+2017,Platinum,711011,CAN,Canada,CHN,China,Export,160302483.88,5317.63
+2017,Platinum,711011,CAN,Canada,JPN,Japan,Import,86470694.57,2868.45
+2017,Platinum,711011,CAN,Canada,ARE,United Arab Emirates,Import,68023418.94,2256.51
+2017,Platinum,711011,GBR,United Kingdom,JPN,Japan,Export,65925330.33,2186.91
+2017,Platinum,711011,GBR,United Kingdom,CHE,Switzerland,Export,78792613.66,2613.75
+2017,Platinum,711011,GBR,United Kingdom,ARE,United Arab Emirates,Import,92781621.67,3077.8
+2017,Platinum,711011,GBR,United Kingdom,IND,India,Import,112489826.56,3731.57
+2017,Platinum,711011,IND,India,CHE,Switzerland,Export,78474738.17,2603.2
+2017,Platinum,711011,IND,India,CHN,China,Export,73570945.71,2440.53
+2017,Platinum,711011,IND,India,ARE,United Arab Emirates,Import,54320599.43,1801.95
+2017,Platinum,711011,JPN,Japan,DEU,Germany,Export,58012354.28,1924.42
+2017,Platinum,711011,JPN,Japan,HKG,Hong Kong,Export,82980558.27,2752.67
+2017,Platinum,711011,JPN,Japan,CHE,Switzerland,Import,50540347.18,1676.55
+2017,Platinum,711011,JPN,Japan,KOR,KOR,Import,46463694.18,1541.32
+2017,Platinum,711011,DEU,Germany,CHN,China,Export,107124189.44,3553.58
+2017,Platinum,711011,DEU,Germany,IND,India,Export,96577894.0,3203.73
+2017,Platinum,711011,DEU,Germany,CHN,China,Import,43637665.62,1447.57
+2017,Platinum,711011,DEU,Germany,USA,United States,Import,68751218.85,2280.65
+2017,Platinum,711011,HKG,Hong Kong,USA,United States,Export,162821259.99,5401.19
+2017,Platinum,711011,HKG,Hong Kong,CHE,Switzerland,Export,129132790.82,4283.66
+2017,Platinum,711011,HKG,Hong Kong,GBR,United Kingdom,Import,165813467.95,5500.45
+2017,Platinum,711011,HKG,Hong Kong,JPN,Japan,Import,196348009.35,6513.36
+2018,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Export,292489010.34,9606.53
+2018,Platinum,711011,CHE,Switzerland,USA,United States,Export,397280473.11,13048.31
+2018,Platinum,711011,CHE,Switzerland,ARE,United Arab Emirates,Import,376542273.92,12367.18
+2018,Platinum,711011,CHE,Switzerland,IND,India,Import,176472415.57,5796.07
+2018,Platinum,711011,CHN,China,USA,United States,Export,422632266.2,13880.96
+2018,Platinum,711011,CHN,China,GBR,United Kingdom,Export,317821183.13,10438.54
+2018,Platinum,711011,CHN,China,HKG,Hong Kong,Import,253164206.71,8314.94
+2018,Platinum,711011,CHN,China,ARE,United Arab Emirates,Import,237140067.08,7788.64
+2018,Platinum,711011,USA,United States,JPN,Japan,Export,156490103.64,5139.77
+2018,Platinum,711011,USA,United States,ARE,United Arab Emirates,Export,102896184.0,3379.53
+2018,Platinum,711011,USA,United States,KOR,KOR,Import,99081681.14,3254.25
+2018,Platinum,711011,USA,United States,GBR,United Kingdom,Import,141790337.1,4656.97
+2018,Platinum,711011,ARE,United Arab Emirates,HKG,Hong Kong,Export,120851039.1,3969.24
+2018,Platinum,711011,ARE,United Arab Emirates,USA,United States,Export,199510757.19,6552.74
+2018,Platinum,711011,ARE,United Arab Emirates,GBR,United Kingdom,Import,206267928.48,6774.68
+2018,Platinum,711011,ARE,United Arab Emirates,USA,United States,Import,194382848.52,6384.32
+2018,Platinum,711011,ZAF,South Africa,JPN,Japan,Export,177080278.25,5816.04
+2018,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Export,153198492.18,5031.66
+2018,Platinum,711011,ZAF,South Africa,JPN,Japan,Import,155731549.92,5114.86
+2018,Platinum,711011,ZAF,South Africa,CHN,China,Import,97329259.93,3196.69
+2018,Platinum,711011,AUS,Australia,CHN,China,Export,214884334.12,7057.67
+2018,Platinum,711011,AUS,Australia,DEU,Germany,Export,203463478.89,6682.57
+2018,Platinum,711011,AUS,Australia,CHN,China,Import,95323183.01,3130.8
+2018,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Import,145203967.49,4769.09
+2018,Platinum,711011,CHL,Chile,JPN,Japan,Export,164658125.8,5408.04
+2018,Platinum,711011,CHL,Chile,DEU,Germany,Export,145255254.53,4770.77
+2018,Platinum,711011,CHL,Chile,IND,India,Import,134097892.42,4404.32
+2018,Platinum,711011,CHL,Chile,CHN,China,Import,117861664.41,3871.06
+2018,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Export,104122547.98,3419.81
+2018,Platinum,711011,PER,Peru,GBR,United Kingdom,Export,132015274.04,4335.92
+2018,Platinum,711011,PER,Peru,CHE,Switzerland,Import,113082502.1,3714.09
+2018,Platinum,711011,PER,Peru,KOR,KOR,Import,79116185.68,2598.5
+2018,Platinum,711011,RUS,Russia,IND,India,Export,135286538.78,4443.36
+2018,Platinum,711011,RUS,Russia,JPN,Japan,Export,109073415.64,3582.41
+2018,Platinum,711011,RUS,Russia,IND,India,Import,147946078.39,4859.15
+2018,Platinum,711011,RUS,Russia,DEU,Germany,Import,119822505.77,3935.46
+2018,Platinum,711011,CAN,Canada,CHE,Switzerland,Export,94828713.89,3114.56
+2018,Platinum,711011,CAN,Canada,HKG,Hong Kong,Export,138144742.9,4537.23
+2018,Platinum,711011,CAN,Canada,ARE,United Arab Emirates,Import,58077351.47,1907.5
+2018,Platinum,711011,CAN,Canada,HKG,Hong Kong,Import,60275288.59,1979.69
+2018,Platinum,711011,GBR,United Kingdom,IND,India,Export,97944038.99,3216.88
+2018,Platinum,711011,GBR,United Kingdom,ARE,United Arab Emirates,Export,95100252.32,3123.48
+2018,Platinum,711011,GBR,United Kingdom,USA,United States,Import,80689318.98,2650.17
+2018,Platinum,711011,IND,India,JPN,Japan,Export,73836382.23,2425.09
+2018,Platinum,711011,IND,India,HKG,Hong Kong,Export,77535490.08,2546.58
+2018,Platinum,711011,IND,India,DEU,Germany,Import,69046821.16,2267.78
+2018,Platinum,711011,IND,India,CHN,China,Import,49281223.71,1618.6
+2018,Platinum,711011,JPN,Japan,GBR,United Kingdom,Export,72973347.93,2396.74
+2018,Platinum,711011,JPN,Japan,CHE,Switzerland,Export,95109567.74,3123.78
+2018,Platinum,711011,JPN,Japan,USA,United States,Import,60205887.35,1977.41
+2018,Platinum,711011,JPN,Japan,KOR,KOR,Import,36888484.26,1211.57
+2018,Platinum,711011,DEU,Germany,USA,United States,Export,72694424.17,2387.58
+2018,Platinum,711011,DEU,Germany,IND,India,Export,62099105.77,2039.59
+2018,Platinum,711011,DEU,Germany,IND,India,Import,56398608.84,1852.36
+2018,Platinum,711011,DEU,Germany,GBR,United Kingdom,Import,53644877.61,1761.92
+2018,Platinum,711011,HKG,Hong Kong,JPN,Japan,Export,194018762.61,6372.36
+2018,Platinum,711011,HKG,Hong Kong,USA,United States,Export,189919601.66,6237.73
+2018,Platinum,711011,HKG,Hong Kong,KOR,KOR,Import,166220033.51,5459.34
+2019,Platinum,711011,CHE,Switzerland,CHN,China,Export,438681231.45,14265.42
+2019,Platinum,711011,CHE,Switzerland,DEU,Germany,Export,347242567.15,11291.94
+2019,Platinum,711011,CHE,Switzerland,IND,India,Import,265656897.25,8638.86
+2019,Platinum,711011,CHN,China,ARE,United Arab Emirates,Export,284064680.85,9237.46
+2019,Platinum,711011,CHN,China,USA,United States,Export,224056031.18,7286.05
+2019,Platinum,711011,CHN,China,HKG,Hong Kong,Import,296945016.15,9656.32
+2019,Platinum,711011,CHN,China,KOR,KOR,Import,240426978.57,7818.41
+2019,Platinum,711011,USA,United States,DEU,Germany,Export,214112460.88,6962.7
+2019,Platinum,711011,USA,United States,CHN,China,Export,193876214.2,6304.64
+2019,Platinum,711011,USA,United States,GBR,United Kingdom,Import,204394762.83,6646.69
+2019,Platinum,711011,USA,United States,JPN,Japan,Import,137935365.9,4485.5
+2019,Platinum,711011,ARE,United Arab Emirates,CHN,China,Export,205316742.84,6676.67
+2019,Platinum,711011,ARE,United Arab Emirates,IND,India,Import,159132085.26,5174.8
+2019,Platinum,711011,ARE,United Arab Emirates,CHE,Switzerland,Import,150542512.32,4895.47
+2019,Platinum,711011,ZAF,South Africa,CHE,Switzerland,Export,140538587.31,4570.16
+2019,Platinum,711011,ZAF,South Africa,ARE,United Arab Emirates,Export,158251891.69,5146.17
+2019,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Import,136267343.63,4431.26
+2019,Platinum,711011,ZAF,South Africa,IND,India,Import,120629607.95,3922.74
+2019,Platinum,711011,AUS,Australia,JPN,Japan,Export,234998585.45,7641.89
+2019,Platinum,711011,AUS,Australia,USA,United States,Export,215059111.45,6993.48
+2019,Platinum,711011,AUS,Australia,KOR,KOR,Import,192175995.51,6249.35
+2019,Platinum,711011,AUS,Australia,USA,United States,Import,125758644.15,4089.53
+2019,Platinum,711011,CHL,Chile,JPN,Japan,Export,105630831.5,3435.0
+2019,Platinum,711011,CHL,Chile,KOR,KOR,Export,181146911.47,5890.69
+2019,Platinum,711011,CHL,Chile,GBR,United Kingdom,Import,144259778.5,4691.17
+2019,Platinum,711011,CHL,Chile,USA,United States,Import,106625564.03,3467.34
+2019,Platinum,711011,PER,Peru,GBR,United Kingdom,Export,149953373.25,4876.32
+2019,Platinum,711011,PER,Peru,CHE,Switzerland,Export,153744670.28,4999.6
+2019,Platinum,711011,PER,Peru,JPN,Japan,Import,72637643.94,2362.09
+2019,Platinum,711011,PER,Peru,USA,United States,Import,127248075.76,4137.96
+2019,Platinum,711011,RUS,Russia,USA,United States,Export,107081761.05,3482.18
+2019,Platinum,711011,RUS,Russia,DEU,Germany,Export,119797705.12,3895.69
+2019,Platinum,711011,RUS,Russia,USA,United States,Import,92965190.99,3023.12
+2019,Platinum,711011,RUS,Russia,JPN,Japan,Import,126434790.59,4111.52
+2019,Platinum,711011,CAN,Canada,USA,United States,Export,101212657.91,3291.32
+2019,Platinum,711011,CAN,Canada,CHN,China,Export,96497404.97,3137.99
+2019,Platinum,711011,CAN,Canada,CHE,Switzerland,Import,94718092.51,3080.13
+2019,Platinum,711011,CAN,Canada,HKG,Hong Kong,Import,56473586.15,1836.46
+2019,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Export,85972522.76,2795.73
+2019,Platinum,711011,GBR,United Kingdom,DEU,Germany,Export,89903313.76,2923.55
+2019,Platinum,711011,GBR,United Kingdom,JPN,Japan,Import,97254370.77,3162.6
+2019,Platinum,711011,IND,India,HKG,Hong Kong,Export,60053186.75,1952.86
+2019,Platinum,711011,IND,India,USA,United States,Export,69719645.58,2267.2
+2019,Platinum,711011,IND,India,USA,United States,Import,42875206.21,1394.25
+2019,Platinum,711011,IND,India,HKG,Hong Kong,Import,76173057.0,2477.06
+2019,Platinum,711011,JPN,Japan,CHE,Switzerland,Export,75193054.47,2445.19
+2019,Platinum,711011,JPN,Japan,ARE,United Arab Emirates,Export,57172314.7,1859.18
+2019,Platinum,711011,JPN,Japan,IND,India,Import,45382159.48,1475.78
+2019,Platinum,711011,DEU,Germany,IND,India,Export,56351794.56,1832.5
+2019,Platinum,711011,DEU,Germany,GBR,United Kingdom,Import,46186246.24,1501.92
+2019,Platinum,711011,DEU,Germany,USA,United States,Import,39999878.29,1300.75
+2019,Platinum,711011,HKG,Hong Kong,GBR,United Kingdom,Export,251101895.46,8165.55
+2019,Platinum,711011,HKG,Hong Kong,JPN,Japan,Export,199382731.64,6483.7
+2019,Platinum,711011,HKG,Hong Kong,GBR,United Kingdom,Import,126602634.73,4116.98
+2020,Platinum,711011,CHE,Switzerland,USA,United States,Export,330846892.25,10652.25
+2020,Platinum,711011,CHE,Switzerland,KOR,KOR,Import,414120105.62,13333.39
+2020,Platinum,711011,CHE,Switzerland,ARE,United Arab Emirates,Import,394390058.03,12698.14
+2020,Platinum,711011,CHN,China,HKG,Hong Kong,Export,381829964.62,12293.74
+2020,Platinum,711011,CHN,China,ARE,United Arab Emirates,Export,332861030.68,10717.1
+2020,Platinum,711011,CHN,China,GBR,United Kingdom,Import,151508191.89,4878.1
+2020,Platinum,711011,CHN,China,JPN,Japan,Import,147976973.82,4764.4
+2020,Platinum,711011,USA,United States,CHE,Switzerland,Export,253745815.14,8169.83
+2020,Platinum,711011,USA,United States,KOR,KOR,Export,176261273.6,5675.07
+2020,Platinum,711011,USA,United States,JPN,Japan,Import,251578865.44,8100.06
+2020,Platinum,711011,USA,United States,ARE,United Arab Emirates,Import,232874203.25,7497.83
+2020,Platinum,711011,ARE,United Arab Emirates,KOR,KOR,Export,155769148.66,5015.28
+2020,Platinum,711011,ARE,United Arab Emirates,CHN,China,Export,135121263.81,4350.49
+2020,Platinum,711011,ARE,United Arab Emirates,GBR,United Kingdom,Import,218764060.76,7043.53
+2020,Platinum,711011,ARE,United Arab Emirates,USA,United States,Import,125824312.27,4051.15
+2020,Platinum,711011,ZAF,South Africa,JPN,Japan,Export,220278057.52,7092.27
+2020,Platinum,711011,ZAF,South Africa,USA,United States,Export,146500161.28,4716.85
+2020,Platinum,711011,ZAF,South Africa,GBR,United Kingdom,Import,171278928.52,5514.65
+2020,Platinum,711011,ZAF,South Africa,IND,India,Import,171326901.59,5516.2
+2020,Platinum,711011,AUS,Australia,ARE,United Arab Emirates,Export,157941204.89,5085.22
+2020,Platinum,711011,AUS,Australia,CHE,Switzerland,Export,182356955.74,5871.33
+2020,Platinum,711011,AUS,Australia,CHN,China,Import,155250805.54,4998.6
+2020,Platinum,711011,AUS,Australia,USA,United States,Import,168849041.28,5436.42
+2020,Platinum,711011,CHL,Chile,USA,United States,Export,126076508.33,4059.27
+2020,Platinum,711011,CHL,Chile,IND,India,Export,132031050.73,4250.99
+2020,Platinum,711011,CHL,Chile,ARE,United Arab Emirates,Import,176422135.48,5680.25
+2020,Platinum,711011,CHL,Chile,KOR,KOR,Import,99010702.99,3187.84
+2020,Platinum,711011,PER,Peru,CHN,China,Export,153655114.56,4947.22
+2020,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Export,96808627.37,3116.94
+2020,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Import,70609418.43,2273.4
+2020,Platinum,711011,PER,Peru,IND,India,Import,148258478.9,4773.46
+2020,Platinum,711011,RUS,Russia,ARE,United Arab Emirates,Export,207290048.61,6674.1
+2020,Platinum,711011,RUS,Russia,JPN,Japan,Export,127820444.42,4115.42
+2020,Platinum,711011,RUS,Russia,IND,India,Import,109880863.07,3537.82
+2020,Platinum,711011,RUS,Russia,CHE,Switzerland,Import,111959564.91,3604.75
+2020,Platinum,711011,CAN,Canada,GBR,United Kingdom,Export,168190116.29,5415.2
+2020,Platinum,711011,CAN,Canada,CHE,Switzerland,Export,190454566.54,6132.05
+2020,Platinum,711011,CAN,Canada,HKG,Hong Kong,Import,99570395.12,3205.86
+2020,Platinum,711011,CAN,Canada,USA,United States,Import,73665768.5,2371.81
+2020,Platinum,711011,GBR,United Kingdom,DEU,Germany,Export,79546530.46,2561.15
+2020,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Export,90275798.51,2906.6
+2020,Platinum,711011,GBR,United Kingdom,ARE,United Arab Emirates,Import,63598703.64,2047.68
+2020,Platinum,711011,GBR,United Kingdom,HKG,Hong Kong,Import,93984996.55,3026.03
+2020,Platinum,711011,IND,India,KOR,KOR,Export,113746386.02,3662.28
+2020,Platinum,711011,IND,India,CHN,China,Import,42731935.0,1375.84
+2020,Platinum,711011,IND,India,DEU,Germany,Import,66781948.59,2150.17
+2020,Platinum,711011,JPN,Japan,IND,India,Export,85273245.41,2745.53
+2020,Platinum,711011,JPN,Japan,GBR,United Kingdom,Export,85158820.0,2741.85
+2020,Platinum,711011,JPN,Japan,HKG,Hong Kong,Import,42892271.23,1381.0
+2020,Platinum,711011,JPN,Japan,IND,India,Import,74172017.82,2388.11
+2020,Platinum,711011,DEU,Germany,CHN,China,Export,69876573.72,2249.81
+2020,Platinum,711011,DEU,Germany,USA,United States,Export,88489689.18,2849.09
+2020,Platinum,711011,DEU,Germany,CHN,China,Import,46221588.07,1488.19
+2020,Platinum,711011,DEU,Germany,KOR,KOR,Import,45331669.74,1459.54
+2020,Platinum,711011,HKG,Hong Kong,IND,India,Export,228067332.07,7343.06
+2020,Platinum,711011,HKG,Hong Kong,DEU,Germany,Export,185685353.38,5978.49
+2020,Platinum,711011,HKG,Hong Kong,USA,United States,Import,276922549.16,8916.05
+2020,Platinum,711011,HKG,Hong Kong,GBR,United Kingdom,Import,287573364.86,9258.97
+2021,Platinum,711011,CHE,Switzerland,USA,United States,Export,268071378.6,8545.61
+2021,Platinum,711011,CHE,Switzerland,HKG,Hong Kong,Export,391546451.34,12481.77
+2021,Platinum,711011,CHE,Switzerland,CHN,China,Import,161454761.23,5146.88
+2021,Platinum,711011,CHE,Switzerland,GBR,United Kingdom,Import,230221538.85,7339.03
+2021,Platinum,711011,CHN,China,ARE,United Arab Emirates,Export,438414381.01,13975.83
+2021,Platinum,711011,CHN,China,USA,United States,Export,425403205.56,13561.06
+2021,Platinum,711011,CHN,China,DEU,Germany,Import,249120527.45,7941.5
+2021,Platinum,711011,CHN,China,USA,United States,Import,264194745.66,8422.03
+2021,Platinum,711011,USA,United States,JPN,Japan,Export,169752931.74,5411.41
+2021,Platinum,711011,USA,United States,CHN,China,Import,226068104.82,7206.63
+2021,Platinum,711011,USA,United States,DEU,Germany,Import,113497226.29,3618.08
+2021,Platinum,711011,ARE,United Arab Emirates,CHE,Switzerland,Export,97349926.63,3103.33
+2021,Platinum,711011,ARE,United Arab Emirates,DEU,Germany,Export,161872018.19,5160.18
+2021,Platinum,711011,ARE,United Arab Emirates,CHN,China,Import,133945358.67,4269.93
+2021,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Export,196715921.01,6270.93
+2021,Platinum,711011,ZAF,South Africa,USA,United States,Export,94045366.7,2997.99
+2021,Platinum,711011,ZAF,South Africa,CHE,Switzerland,Import,156184029.97,4978.85
+2021,Platinum,711011,ZAF,South Africa,ARE,United Arab Emirates,Import,160426974.81,5114.11
+2021,Platinum,711011,AUS,Australia,CHN,China,Export,281032025.0,8958.77
+2021,Platinum,711011,AUS,Australia,HKG,Hong Kong,Export,297212145.37,9474.57
+2021,Platinum,711011,AUS,Australia,USA,United States,Import,197627994.94,6300.01
+2021,Platinum,711011,AUS,Australia,HKG,Hong Kong,Import,169963759.03,5418.13
+2021,Platinum,711011,CHL,Chile,HKG,Hong Kong,Export,137453095.38,4381.75
+2021,Platinum,711011,CHL,Chile,CHN,China,Export,104595062.48,3334.29
+2021,Platinum,711011,CHL,Chile,KOR,KOR,Import,144229960.04,4597.78
+2021,Platinum,711011,CHL,Chile,CHN,China,Import,70657047.11,2252.41
+2021,Platinum,711011,PER,Peru,DEU,Germany,Export,152576416.54,4863.85
+2021,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Export,147969975.48,4717.01
+2021,Platinum,711011,PER,Peru,GBR,United Kingdom,Import,91362628.14,2912.47
+2021,Platinum,711011,PER,Peru,USA,United States,Import,63977109.2,2039.47
+2021,Platinum,711011,RUS,Russia,CHN,China,Export,150725707.83,4804.85
+2021,Platinum,711011,RUS,Russia,CHE,Switzerland,Export,97592824.9,3111.08
+2021,Platinum,711011,RUS,Russia,ARE,United Arab Emirates,Import,105351479.15,3358.41
+2021,Platinum,711011,RUS,Russia,CHE,Switzerland,Import,78432458.87,2500.28
+2021,Platinum,711011,CAN,Canada,CHN,China,Export,134839035.57,4298.42
+2021,Platinum,711011,CAN,Canada,IND,India,Export,144858136.71,4617.81
+2021,Platinum,711011,CAN,Canada,IND,India,Import,118801951.77,3787.18
+2021,Platinum,711011,CAN,Canada,USA,United States,Import,111851703.48,3565.62
+2021,Platinum,711011,GBR,United Kingdom,IND,India,Export,97283182.09,3101.21
+2021,Platinum,711011,GBR,United Kingdom,CHN,China,Export,65754820.94,2096.14
+2021,Platinum,711011,GBR,United Kingdom,CHN,China,Import,63434798.82,2022.18
+2021,Platinum,711011,GBR,United Kingdom,IND,India,Import,75946340.33,2421.03
+2021,Platinum,711011,IND,India,GBR,United Kingdom,Export,54686650.62,1743.31
+2021,Platinum,711011,IND,India,CHE,Switzerland,Export,100781329.12,3212.72
+2021,Platinum,711011,IND,India,HKG,Hong Kong,Import,50248509.28,1601.83
+2021,Platinum,711011,IND,India,CHN,China,Import,77458799.13,2469.24
+2021,Platinum,711011,JPN,Japan,GBR,United Kingdom,Export,77329654.57,2465.12
+2021,Platinum,711011,JPN,Japan,DEU,Germany,Export,77575511.59,2472.96
+2021,Platinum,711011,JPN,Japan,GBR,United Kingdom,Import,60813528.9,1938.62
+2021,Platinum,711011,JPN,Japan,KOR,KOR,Import,41217351.38,1313.93
+2021,Platinum,711011,DEU,Germany,IND,India,Export,73719609.33,2350.04
+2021,Platinum,711011,DEU,Germany,JPN,Japan,Export,110787009.84,3531.68
+2021,Platinum,711011,DEU,Germany,CHN,China,Import,96286793.14,3069.44
+2021,Platinum,711011,DEU,Germany,CHE,Switzerland,Import,91710519.23,2923.56
+2021,Platinum,711011,HKG,Hong Kong,DEU,Germany,Export,304073518.17,9693.29
+2021,Platinum,711011,HKG,Hong Kong,JPN,Japan,Export,267917000.84,8540.69
+2021,Platinum,711011,HKG,Hong Kong,JPN,Japan,Import,237588524.46,7573.88
+2021,Platinum,711011,HKG,Hong Kong,IND,India,Import,273866635.74,8730.35
+2022,Platinum,711011,CHE,Switzerland,CHN,China,Export,277203085.53,8749.22
+2022,Platinum,711011,CHE,Switzerland,IND,India,Export,493451204.28,15574.55
+2022,Platinum,711011,CHE,Switzerland,DEU,Germany,Import,316955324.42,10003.9
+2022,Platinum,711011,CHE,Switzerland,CHN,China,Import,252477190.68,7968.81
+2022,Platinum,711011,CHN,China,DEU,Germany,Export,358062473.8,11301.35
+2022,Platinum,711011,CHN,China,ARE,United Arab Emirates,Export,315705778.25,9964.46
+2022,Platinum,711011,CHN,China,KOR,KOR,Import,228533631.6,7213.09
+2022,Platinum,711011,CHN,China,HKG,Hong Kong,Import,190215089.87,6003.66
+2022,Platinum,711011,USA,United States,CHE,Switzerland,Export,176836244.41,5581.39
+2022,Platinum,711011,USA,United States,HKG,Hong Kong,Export,124183643.7,3919.55
+2022,Platinum,711011,USA,United States,HKG,Hong Kong,Import,142447628.95,4496.0
+2022,Platinum,711011,USA,United States,CHE,Switzerland,Import,127362817.15,4019.89
+2022,Platinum,711011,ARE,United Arab Emirates,IND,India,Export,143804852.78,4538.84
+2022,Platinum,711011,ARE,United Arab Emirates,HKG,Hong Kong,Import,136990253.35,4323.75
+2022,Platinum,711011,ARE,United Arab Emirates,USA,United States,Import,94433696.75,2980.56
+2022,Platinum,711011,ZAF,South Africa,CHE,Switzerland,Export,132052748.97,4167.91
+2022,Platinum,711011,ZAF,South Africa,ARE,United Arab Emirates,Export,218516021.57,6896.91
+2022,Platinum,711011,ZAF,South Africa,IND,India,Import,113968230.1,3597.12
+2022,Platinum,711011,ZAF,South Africa,USA,United States,Import,114110470.28,3601.61
+2022,Platinum,711011,AUS,Australia,USA,United States,Export,180736872.23,5704.51
+2022,Platinum,711011,AUS,Australia,KOR,KOR,Export,250472379.98,7905.53
+2022,Platinum,711011,AUS,Australia,USA,United States,Import,128166264.37,4045.25
+2022,Platinum,711011,AUS,Australia,IND,India,Import,155884677.22,4920.11
+2022,Platinum,711011,CHL,Chile,USA,United States,Export,205609497.58,6489.55
+2022,Platinum,711011,CHL,Chile,HKG,Hong Kong,Export,133711490.85,4220.27
+2022,Platinum,711011,CHL,Chile,HKG,Hong Kong,Import,151587990.74,4784.5
+2022,Platinum,711011,CHL,Chile,GBR,United Kingdom,Import,124775829.12,3938.24
+2022,Platinum,711011,PER,Peru,IND,India,Export,141076446.72,4452.73
+2022,Platinum,711011,PER,Peru,CHE,Switzerland,Export,133305164.88,4207.44
+2022,Platinum,711011,PER,Peru,HKG,Hong Kong,Import,112278931.42,3543.8
+2022,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Import,105152867.3,3318.89
+2022,Platinum,711011,RUS,Russia,KOR,KOR,Export,169123780.59,5337.97
+2022,Platinum,711011,RUS,Russia,JPN,Japan,Export,146630540.18,4628.03
+2022,Platinum,711011,RUS,Russia,DEU,Germany,Import,131588169.46,4153.25
+2022,Platinum,711011,RUS,Russia,USA,United States,Import,78056794.62,2463.67
+2022,Platinum,711011,CAN,Canada,KOR,KOR,Export,152216681.47,4804.34
+2022,Platinum,711011,CAN,Canada,JPN,Japan,Export,105350303.82,3325.12
+2022,Platinum,711011,CAN,Canada,JPN,Japan,Import,94811723.89,2992.5
+2022,Platinum,711011,CAN,Canada,CHE,Switzerland,Import,79655398.64,2514.12
+2022,Platinum,711011,GBR,United Kingdom,JPN,Japan,Export,128975166.54,4070.78
+2022,Platinum,711011,GBR,United Kingdom,CHE,Switzerland,Export,131883766.65,4162.58
+2022,Platinum,711011,GBR,United Kingdom,JPN,Japan,Import,58734279.2,1853.8
+2022,Platinum,711011,IND,India,CHN,China,Export,101287442.69,3196.88
+2022,Platinum,711011,IND,India,USA,United States,Export,62020723.55,1957.53
+2022,Platinum,711011,IND,India,HKG,Hong Kong,Import,37889121.12,1195.88
+2022,Platinum,711011,IND,India,CHE,Switzerland,Import,42637140.58,1345.73
+2022,Platinum,711011,JPN,Japan,KOR,KOR,Export,67483744.14,2129.96
+2022,Platinum,711011,JPN,Japan,USA,United States,Export,102521899.36,3235.85
+2022,Platinum,711011,JPN,Japan,CHN,China,Import,56517344.11,1783.83
+2022,Platinum,711011,JPN,Japan,GBR,United Kingdom,Import,51678121.95,1631.09
+2022,Platinum,711011,DEU,Germany,HKG,Hong Kong,Export,81578336.98,2574.82
+2022,Platinum,711011,DEU,Germany,IND,India,Export,54195260.96,1710.54
+2022,Platinum,711011,DEU,Germany,JPN,Japan,Import,61854216.6,1952.27
+2022,Platinum,711011,DEU,Germany,CHE,Switzerland,Import,70239101.52,2216.92
+2022,Platinum,711011,HKG,Hong Kong,CHN,China,Export,270488814.68,8537.3
+2022,Platinum,711011,HKG,Hong Kong,KOR,KOR,Export,175537486.4,5540.4
+2022,Platinum,711011,HKG,Hong Kong,USA,United States,Import,149940078.14,4732.48
+2023,Platinum,711011,CHE,Switzerland,IND,India,Export,269667305.62,8427.1
+2023,Platinum,711011,CHE,Switzerland,KOR,KOR,Import,293987328.63,9187.1
+2023,Platinum,711011,CHE,Switzerland,DEU,Germany,Import,364200578.56,11381.27
+2023,Platinum,711011,CHN,China,KOR,KOR,Export,376537471.92,11766.8
+2023,Platinum,711011,CHN,China,DEU,Germany,Export,347032771.53,10844.77
+2023,Platinum,711011,CHN,China,GBR,United Kingdom,Import,265708315.11,8303.38
+2023,Platinum,711011,USA,United States,HKG,Hong Kong,Export,252348709.92,7885.9
+2023,Platinum,711011,USA,United States,JPN,Japan,Export,143377986.81,4480.56
+2023,Platinum,711011,USA,United States,ARE,United Arab Emirates,Import,263934857.12,8247.96
+2023,Platinum,711011,USA,United States,IND,India,Import,141093561.56,4409.17
+2023,Platinum,711011,ARE,United Arab Emirates,DEU,Germany,Export,200614661.25,6269.21
+2023,Platinum,711011,ARE,United Arab Emirates,IND,India,Export,230498954.36,7203.09
+2023,Platinum,711011,ARE,United Arab Emirates,JPN,Japan,Import,127300901.32,3978.15
+2023,Platinum,711011,ARE,United Arab Emirates,USA,United States,Import,148712321.3,4647.26
+2023,Platinum,711011,ZAF,South Africa,KOR,KOR,Export,223347594.21,6979.61
+2023,Platinum,711011,ZAF,South Africa,CHE,Switzerland,Export,137893648.55,4309.18
+2023,Platinum,711011,ZAF,South Africa,GBR,United Kingdom,Import,130063907.08,4064.5
+2023,Platinum,711011,ZAF,South Africa,HKG,Hong Kong,Import,195597281.9,6112.42
+2023,Platinum,711011,AUS,Australia,CHN,China,Export,135357852.23,4229.93
+2023,Platinum,711011,AUS,Australia,CHE,Switzerland,Export,134653704.93,4207.93
+2023,Platinum,711011,AUS,Australia,USA,United States,Import,237054894.48,7407.97
+2023,Platinum,711011,AUS,Australia,HKG,Hong Kong,Import,234984852.73,7343.28
+2023,Platinum,711011,CHL,Chile,DEU,Germany,Export,160349626.47,5010.93
+2023,Platinum,711011,CHL,Chile,GBR,United Kingdom,Export,94283044.56,2946.35
+2023,Platinum,711011,CHL,Chile,JPN,Japan,Import,172678409.83,5396.2
+2023,Platinum,711011,CHL,Chile,CHE,Switzerland,Import,105843068.02,3307.6
+2023,Platinum,711011,PER,Peru,CHE,Switzerland,Export,172901951.05,5403.19
+2023,Platinum,711011,PER,Peru,ARE,United Arab Emirates,Export,76712206.88,2397.26
+2023,Platinum,711011,PER,Peru,IND,India,Import,84076154.99,2627.38
+2023,Platinum,711011,PER,Peru,GBR,United Kingdom,Import,123071244.01,3845.98
+2023,Platinum,711011,RUS,Russia,HKG,Hong Kong,Export,169721432.48,5303.79
+2023,Platinum,711011,RUS,Russia,DEU,Germany,Export,218468906.49,6827.15
+2023,Platinum,711011,RUS,Russia,CHN,China,Import,99063629.85,3095.74
+2023,Platinum,711011,RUS,Russia,KOR,KOR,Import,107721801.99,3366.31
+2023,Platinum,711011,CAN,Canada,IND,India,Export,126762790.68,3961.34
+2023,Platinum,711011,CAN,Canada,USA,United States,Export,92831899.94,2901.0
+2023,Platinum,711011,CAN,Canada,KOR,KOR,Import,103178132.22,3224.32
+2023,Platinum,711011,CAN,Canada,DEU,Germany,Import,70823935.79,2213.25
+2023,Platinum,711011,GBR,United Kingdom,IND,India,Export,82587889.25,2580.87
+2023,Platinum,711011,GBR,United Kingdom,DEU,Germany,Export,103406521.35,3231.45
+2023,Platinum,711011,GBR,United Kingdom,IND,India,Import,65511744.92,2047.24
+2023,Platinum,711011,GBR,United Kingdom,CHN,China,Import,99073663.75,3096.05
+2023,Platinum,711011,IND,India,HKG,Hong Kong,Export,111411269.74,3481.6
+2023,Platinum,711011,IND,India,ARE,United Arab Emirates,Import,42986830.78,1343.34
+2023,Platinum,711011,IND,India,CHE,Switzerland,Import,63367587.67,1980.24
+2023,Platinum,711011,JPN,Japan,KOR,KOR,Export,90937776.04,2841.81
+2023,Platinum,711011,JPN,Japan,USA,United States,Export,65907349.3,2059.6
+2023,Platinum,711011,JPN,Japan,KOR,KOR,Import,56690490.63,1771.58
+2023,Platinum,711011,JPN,Japan,IND,India,Import,101914073.63,3184.81
+2023,Platinum,711011,DEU,Germany,IND,India,Export,90129536.93,2816.55
+2023,Platinum,711011,DEU,Germany,HKG,Hong Kong,Export,77907223.11,2434.6
+2023,Platinum,711011,DEU,Germany,JPN,Japan,Import,61387086.03,1918.35
+2023,Platinum,711011,DEU,Germany,IND,India,Import,79477564.83,2483.67
+2023,Platinum,711011,HKG,Hong Kong,CHE,Switzerland,Export,243424054.71,7607.0
+2023,Platinum,711011,HKG,Hong Kong,DEU,Germany,Import,213574646.49,6674.21
+2023,Platinum,711011,HKG,Hong Kong,ARE,United Arab Emirates,Import,170783307.68,5336.98

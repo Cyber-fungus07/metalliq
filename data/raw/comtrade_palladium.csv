@@ -1,0 +1,793 @@
+year,metal,hs_code,reporter_iso3,reporter,partner_iso3,partner,flow,trade_value_usd,net_weight_kg
+2010,Palladium,711021,CHE,Switzerland,KOR,KOR,Export,300709371.9,11661.66
+2010,Palladium,711021,CHE,Switzerland,HKG,Hong Kong,Export,235949010.94,9150.22
+2010,Palladium,711021,CHE,Switzerland,HKG,Hong Kong,Import,308449820.73,11961.84
+2010,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Import,355831832.57,13799.34
+2010,Palladium,711021,CHN,China,IND,India,Export,202717670.89,7861.5
+2010,Palladium,711021,CHN,China,GBR,United Kingdom,Export,378586075.99,14681.76
+2010,Palladium,711021,CHN,China,KOR,KOR,Import,173869263.78,6742.74
+2010,Palladium,711021,CHN,China,HKG,Hong Kong,Import,316408437.71,12270.48
+2010,Palladium,711021,USA,United States,GBR,United Kingdom,Export,139365280.47,5404.66
+2010,Palladium,711021,USA,United States,HKG,Hong Kong,Export,240502949.18,9326.83
+2010,Palladium,711021,USA,United States,DEU,Germany,Import,146259720.26,5672.03
+2010,Palladium,711021,USA,United States,CHN,China,Import,188515597.68,7310.73
+2010,Palladium,711021,ARE,United Arab Emirates,CHN,China,Export,189002685.6,7329.62
+2010,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Export,212046426.73,8223.27
+2010,Palladium,711021,ARE,United Arab Emirates,DEU,Germany,Import,139557915.23,5412.13
+2010,Palladium,711021,ZAF,South Africa,DEU,Germany,Export,225162334.75,8731.91
+2010,Palladium,711021,ZAF,South Africa,JPN,Japan,Export,174593997.06,6770.84
+2010,Palladium,711021,ZAF,South Africa,GBR,United Kingdom,Import,146339922.27,5675.14
+2010,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Import,126274695.83,4897.0
+2010,Palladium,711021,AUS,Australia,USA,United States,Export,229238003.69,8889.97
+2010,Palladium,711021,AUS,Australia,GBR,United Kingdom,Export,240312914.17,9319.46
+2010,Palladium,711021,AUS,Australia,KOR,KOR,Import,194661891.66,7549.09
+2010,Palladium,711021,AUS,Australia,CHE,Switzerland,Import,180042388.63,6982.14
+2010,Palladium,711021,CHL,Chile,CHE,Switzerland,Export,200808571.32,7787.46
+2010,Palladium,711021,CHL,Chile,IND,India,Export,156986002.51,6088.0
+2010,Palladium,711021,CHL,Chile,CHE,Switzerland,Import,134366739.19,5210.81
+2010,Palladium,711021,CHL,Chile,DEU,Germany,Import,117540502.77,4558.28
+2010,Palladium,711021,PER,Peru,CHE,Switzerland,Export,110009543.72,4266.23
+2010,Palladium,711021,PER,Peru,GBR,United Kingdom,Export,148714323.76,5767.22
+2010,Palladium,711021,PER,Peru,DEU,Germany,Import,100947806.54,3914.81
+2010,Palladium,711021,PER,Peru,HKG,Hong Kong,Import,134458300.76,5214.36
+2010,Palladium,711021,RUS,Russia,DEU,Germany,Export,131230956.79,5089.2
+2010,Palladium,711021,RUS,Russia,CHE,Switzerland,Export,172002169.06,6670.33
+2010,Palladium,711021,RUS,Russia,KOR,KOR,Import,137654074.49,5338.3
+2010,Palladium,711021,RUS,Russia,IND,India,Import,150545982.85,5838.25
+2010,Palladium,711021,CAN,Canada,CHE,Switzerland,Export,126360399.18,4900.32
+2010,Palladium,711021,CAN,Canada,KOR,KOR,Export,100306476.72,3889.94
+2010,Palladium,711021,CAN,Canada,CHN,China,Import,68833169.89,2669.39
+2010,Palladium,711021,CAN,Canada,USA,United States,Import,113127088.11,4387.13
+2010,Palladium,711021,GBR,United Kingdom,JPN,Japan,Export,97374562.66,3776.24
+2010,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Export,84671140.33,3283.59
+2010,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Import,80103723.82,3106.46
+2010,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Import,97693183.13,3788.59
+2010,Palladium,711021,IND,India,HKG,Hong Kong,Export,65158708.29,2526.89
+2010,Palladium,711021,IND,India,GBR,United Kingdom,Export,51304331.52,1989.61
+2010,Palladium,711021,IND,India,CHN,China,Import,73268462.37,2841.39
+2010,Palladium,711021,IND,India,CHE,Switzerland,Import,60678374.43,2353.14
+2010,Palladium,711021,JPN,Japan,DEU,Germany,Export,86931622.41,3371.25
+2010,Palladium,711021,JPN,Japan,USA,United States,Export,49554707.93,1921.76
+2010,Palladium,711021,JPN,Japan,DEU,Germany,Import,40288307.52,1562.4
+2010,Palladium,711021,DEU,Germany,KOR,KOR,Export,87355888.44,3387.71
+2010,Palladium,711021,DEU,Germany,CHN,China,Export,60841836.28,2359.48
+2010,Palladium,711021,DEU,Germany,CHN,China,Import,86664009.05,3360.87
+2010,Palladium,711021,DEU,Germany,IND,India,Import,74773452.19,2899.75
+2010,Palladium,711021,HKG,Hong Kong,IND,India,Export,252654935.13,9798.09
+2010,Palladium,711021,HKG,Hong Kong,GBR,United Kingdom,Import,218916798.92,8489.71
+2010,Palladium,711021,HKG,Hong Kong,ARE,United Arab Emirates,Import,247989602.86,9617.16
+2011,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Export,399603878.57,14619.66
+2011,Palladium,711021,CHE,Switzerland,IND,India,Export,350634604.1,12828.1
+2011,Palladium,711021,CHE,Switzerland,JPN,Japan,Import,178310872.22,6523.57
+2011,Palladium,711021,CHE,Switzerland,CHN,China,Import,286596414.2,10485.24
+2011,Palladium,711021,CHN,China,GBR,United Kingdom,Export,331954598.89,12144.69
+2011,Palladium,711021,CHN,China,USA,United States,Export,414964381.92,15181.63
+2011,Palladium,711021,CHN,China,KOR,KOR,Import,177718660.26,6501.91
+2011,Palladium,711021,CHN,China,CHE,Switzerland,Import,335690688.37,12281.37
+2011,Palladium,711021,USA,United States,CHE,Switzerland,Export,144486162.91,5286.08
+2011,Palladium,711021,USA,United States,GBR,United Kingdom,Export,138699809.6,5074.39
+2011,Palladium,711021,USA,United States,JPN,Japan,Import,158287486.75,5791.01
+2011,Palladium,711021,USA,United States,HKG,Hong Kong,Import,224795959.48,8224.25
+2011,Palladium,711021,ARE,United Arab Emirates,HKG,Hong Kong,Export,226249680.84,8277.43
+2011,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Export,193287708.85,7071.51
+2011,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Import,107931043.68,3948.7
+2011,Palladium,711021,ARE,United Arab Emirates,KOR,KOR,Import,119828638.33,4383.98
+2011,Palladium,711021,ZAF,South Africa,KOR,KOR,Export,125932350.04,4607.28
+2011,Palladium,711021,ZAF,South Africa,USA,United States,Export,224130092.01,8199.89
+2011,Palladium,711021,ZAF,South Africa,IND,India,Import,157235550.56,5752.52
+2011,Palladium,711021,ZAF,South Africa,CHE,Switzerland,Import,148757247.91,5442.34
+2011,Palladium,711021,AUS,Australia,HKG,Hong Kong,Export,284577240.14,10411.37
+2011,Palladium,711021,AUS,Australia,KOR,KOR,Export,180185032.72,6592.14
+2011,Palladium,711021,AUS,Australia,USA,United States,Import,168323808.04,6158.19
+2011,Palladium,711021,AUS,Australia,GBR,United Kingdom,Import,193598978.33,7082.89
+2011,Palladium,711021,CHL,Chile,ARE,United Arab Emirates,Export,147034487.24,5379.31
+2011,Palladium,711021,CHL,Chile,KOR,KOR,Export,172544603.31,6312.61
+2011,Palladium,711021,CHL,Chile,GBR,United Kingdom,Import,126823815.37,4639.9
+2011,Palladium,711021,CHL,Chile,USA,United States,Import,140270422.91,5131.85
+2011,Palladium,711021,PER,Peru,IND,India,Export,100618756.48,3681.18
+2011,Palladium,711021,PER,Peru,HKG,Hong Kong,Export,183736740.7,6722.08
+2011,Palladium,711021,PER,Peru,CHE,Switzerland,Import,70748152.8,2588.35
+2011,Palladium,711021,PER,Peru,KOR,KOR,Import,101828516.88,3725.44
+2011,Palladium,711021,RUS,Russia,JPN,Japan,Export,169436063.38,6198.88
+2011,Palladium,711021,RUS,Russia,USA,United States,Export,111280286.81,4071.23
+2011,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Import,75825951.86,2774.12
+2011,Palladium,711021,RUS,Russia,CHE,Switzerland,Import,78361623.07,2866.89
+2011,Palladium,711021,CAN,Canada,JPN,Japan,Export,132041160.32,4830.78
+2011,Palladium,711021,CAN,Canada,IND,India,Export,125904720.43,4606.27
+2011,Palladium,711021,CAN,Canada,DEU,Germany,Import,83152694.98,3042.17
+2011,Palladium,711021,CAN,Canada,KOR,KOR,Import,112948201.7,4132.25
+2011,Palladium,711021,GBR,United Kingdom,CHN,China,Export,107335171.9,3926.9
+2011,Palladium,711021,GBR,United Kingdom,DEU,Germany,Export,81819139.56,2993.39
+2011,Palladium,711021,GBR,United Kingdom,USA,United States,Import,70558627.5,2581.41
+2011,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Import,80061420.41,2929.08
+2011,Palladium,711021,IND,India,KOR,KOR,Export,61552190.79,2251.91
+2011,Palladium,711021,IND,India,GBR,United Kingdom,Import,78090593.18,2856.97
+2011,Palladium,711021,IND,India,DEU,Germany,Import,85527095.8,3129.04
+2011,Palladium,711021,JPN,Japan,DEU,Germany,Export,99333080.02,3634.14
+2011,Palladium,711021,JPN,Japan,IND,India,Import,43215455.77,1581.05
+2011,Palladium,711021,JPN,Japan,ARE,United Arab Emirates,Import,76107088.3,2784.41
+2011,Palladium,711021,DEU,Germany,GBR,United Kingdom,Export,84559088.87,3093.63
+2011,Palladium,711021,DEU,Germany,KOR,KOR,Export,68755524.62,2515.45
+2011,Palladium,711021,DEU,Germany,JPN,Japan,Import,69593060.88,2546.09
+2011,Palladium,711021,HKG,Hong Kong,KOR,KOR,Export,257269780.22,9412.32
+2011,Palladium,711021,HKG,Hong Kong,GBR,United Kingdom,Export,279382524.9,10221.32
+2011,Palladium,711021,HKG,Hong Kong,IND,India,Import,155797116.89,5699.9
+2012,Palladium,711021,CHE,Switzerland,JPN,Japan,Export,442752176.1,15281.38
+2012,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Export,301204782.67,10395.94
+2012,Palladium,711021,CHE,Switzerland,IND,India,Import,235230066.25,8118.85
+2012,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Import,293200212.56,10119.66
+2012,Palladium,711021,CHN,China,JPN,Japan,Export,287400376.43,9919.49
+2012,Palladium,711021,CHN,China,ARE,United Arab Emirates,Export,233895759.84,8072.8
+2012,Palladium,711021,CHN,China,JPN,Japan,Import,257079679.37,8872.98
+2012,Palladium,711021,USA,United States,IND,India,Export,183162903.88,6321.78
+2012,Palladium,711021,USA,United States,HKG,Hong Kong,Export,237373876.13,8192.85
+2012,Palladium,711021,USA,United States,KOR,KOR,Import,209722488.52,7238.47
+2012,Palladium,711021,ARE,United Arab Emirates,JPN,Japan,Export,153951360.67,5313.56
+2012,Palladium,711021,ARE,United Arab Emirates,HKG,Hong Kong,Import,139330198.43,4808.91
+2012,Palladium,711021,ARE,United Arab Emirates,CHN,China,Import,128211419.13,4425.16
+2012,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Export,129197499.78,4459.19
+2012,Palladium,711021,ZAF,South Africa,KOR,KOR,Export,233337849.94,8053.54
+2012,Palladium,711021,ZAF,South Africa,CHN,China,Import,98936827.27,3414.76
+2012,Palladium,711021,ZAF,South Africa,DEU,Germany,Import,128036928.52,4419.13
+2012,Palladium,711021,AUS,Australia,GBR,United Kingdom,Export,169619660.7,5854.34
+2012,Palladium,711021,AUS,Australia,DEU,Germany,Export,175086729.5,6043.03
+2012,Palladium,711021,AUS,Australia,GBR,United Kingdom,Import,91963646.07,3174.08
+2012,Palladium,711021,AUS,Australia,ARE,United Arab Emirates,Import,164452105.24,5675.99
+2012,Palladium,711021,CHL,Chile,DEU,Germany,Export,196798311.03,6792.4
+2012,Palladium,711021,CHL,Chile,HKG,Hong Kong,Export,182974921.64,6315.29
+2012,Palladium,711021,CHL,Chile,KOR,KOR,Import,117621667.45,4059.66
+2012,Palladium,711021,CHL,Chile,USA,United States,Import,88138647.02,3042.06
+2012,Palladium,711021,PER,Peru,CHN,China,Export,105722748.06,3648.97
+2012,Palladium,711021,PER,Peru,ARE,United Arab Emirates,Export,116881888.86,4034.12
+2012,Palladium,711021,PER,Peru,CHN,China,Import,74038413.74,2555.4
+2012,Palladium,711021,PER,Peru,CHE,Switzerland,Import,76231929.74,2631.11
+2012,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Export,132911975.76,4587.39
+2012,Palladium,711021,RUS,Russia,JPN,Japan,Export,84724644.05,2924.23
+2012,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Import,141092405.21,4869.74
+2012,Palladium,711021,RUS,Russia,DEU,Germany,Import,73954260.6,2552.5
+2012,Palladium,711021,CAN,Canada,GBR,United Kingdom,Export,177001540.73,6109.12
+2012,Palladium,711021,CAN,Canada,JPN,Japan,Export,86159622.71,2973.76
+2012,Palladium,711021,CAN,Canada,USA,United States,Import,137037700.18,4729.79
+2012,Palladium,711021,CAN,Canada,ARE,United Arab Emirates,Import,110194732.58,3803.32
+2012,Palladium,711021,GBR,United Kingdom,CHN,China,Export,59988379.65,2070.47
+2012,Palladium,711021,GBR,United Kingdom,DEU,Germany,Export,104518852.21,3607.42
+2012,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Import,87220124.83,3010.36
+2012,Palladium,711021,GBR,United Kingdom,USA,United States,Import,86470924.05,2984.5
+2012,Palladium,711021,IND,India,HKG,Hong Kong,Export,46747518.43,1613.47
+2012,Palladium,711021,IND,India,CHN,China,Export,69947044.03,2414.19
+2012,Palladium,711021,IND,India,HKG,Hong Kong,Import,59785026.64,2063.45
+2012,Palladium,711021,IND,India,DEU,Germany,Import,68826588.51,2375.52
+2012,Palladium,711021,JPN,Japan,DEU,Germany,Export,76803298.44,2650.83
+2012,Palladium,711021,JPN,Japan,USA,United States,Import,42825212.11,1478.09
+2012,Palladium,711021,JPN,Japan,CHN,China,Import,53371365.38,1842.09
+2012,Palladium,711021,DEU,Germany,ARE,United Arab Emirates,Export,85502139.87,2951.07
+2012,Palladium,711021,DEU,Germany,JPN,Japan,Import,41127566.67,1419.5
+2012,Palladium,711021,DEU,Germany,CHN,China,Import,43668900.09,1507.21
+2012,Palladium,711021,HKG,Hong Kong,USA,United States,Export,160164566.92,5528.0
+2012,Palladium,711021,HKG,Hong Kong,CHE,Switzerland,Export,185077475.48,6387.86
+2012,Palladium,711021,HKG,Hong Kong,ARE,United Arab Emirates,Import,216181886.78,7461.41
+2012,Palladium,711021,HKG,Hong Kong,KOR,KOR,Import,201434733.09,6952.42
+2013,Palladium,711021,CHE,Switzerland,DEU,Germany,Export,258120868.91,8404.64
+2013,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Import,351937923.83,11459.4
+2013,Palladium,711021,CHE,Switzerland,USA,United States,Import,275373357.5,8966.4
+2013,Palladium,711021,CHN,China,ARE,United Arab Emirates,Export,291596845.84,9494.65
+2013,Palladium,711021,CHN,China,KOR,KOR,Export,343688242.55,11190.79
+2013,Palladium,711021,CHN,China,KOR,KOR,Import,294526750.29,9590.05
+2013,Palladium,711021,CHN,China,CHE,Switzerland,Import,219923197.22,7160.89
+2013,Palladium,711021,USA,United States,CHE,Switzerland,Export,151226382.4,4924.06
+2013,Palladium,711021,USA,United States,CHN,China,Export,205986869.33,6707.11
+2013,Palladium,711021,USA,United States,ARE,United Arab Emirates,Import,130546161.75,4250.7
+2013,Palladium,711021,USA,United States,CHE,Switzerland,Import,172662745.03,5622.05
+2013,Palladium,711021,ARE,United Arab Emirates,IND,India,Export,204609518.47,6662.26
+2013,Palladium,711021,ARE,United Arab Emirates,USA,United States,Export,277823759.75,9046.18
+2013,Palladium,711021,ARE,United Arab Emirates,HKG,Hong Kong,Import,205256593.55,6683.33
+2013,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Import,149263866.72,4860.16
+2013,Palladium,711021,ZAF,South Africa,CHE,Switzerland,Export,169116427.42,5506.58
+2013,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Export,206916451.13,6737.38
+2013,Palladium,711021,ZAF,South Africa,ARE,United Arab Emirates,Import,126850307.9,4130.36
+2013,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Import,90089624.71,2933.4
+2013,Palladium,711021,AUS,Australia,ARE,United Arab Emirates,Export,138020590.53,4494.07
+2013,Palladium,711021,AUS,Australia,KOR,KOR,Export,231231263.25,7529.09
+2013,Palladium,711021,AUS,Australia,ARE,United Arab Emirates,Import,205649986.5,6696.14
+2013,Palladium,711021,AUS,Australia,KOR,KOR,Import,175209138.76,5704.96
+2013,Palladium,711021,CHL,Chile,KOR,KOR,Export,201167791.13,6550.2
+2013,Palladium,711021,CHL,Chile,DEU,Germany,Export,154574347.8,5033.07
+2013,Palladium,711021,CHL,Chile,JPN,Japan,Import,82232185.89,2677.55
+2013,Palladium,711021,CHL,Chile,GBR,United Kingdom,Import,73571001.27,2395.54
+2013,Palladium,711021,PER,Peru,GBR,United Kingdom,Export,159857591.64,5205.1
+2013,Palladium,711021,PER,Peru,HKG,Hong Kong,Export,167617196.04,5457.76
+2013,Palladium,711021,PER,Peru,JPN,Japan,Import,69948820.46,2277.59
+2013,Palladium,711021,PER,Peru,KOR,KOR,Import,126630675.09,4123.2
+2013,Palladium,711021,RUS,Russia,HKG,Hong Kong,Export,174544630.18,5683.32
+2013,Palladium,711021,RUS,Russia,CHE,Switzerland,Export,165731067.8,5396.35
+2013,Palladium,711021,RUS,Russia,CHN,China,Import,190989686.4,6218.79
+2013,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Import,102617545.71,3341.32
+2013,Palladium,711021,CAN,Canada,DEU,Germany,Export,104752029.43,3410.82
+2013,Palladium,711021,CAN,Canada,CHN,China,Export,100698293.65,3278.82
+2013,Palladium,711021,CAN,Canada,USA,United States,Import,107627503.33,3504.44
+2013,Palladium,711021,CAN,Canada,JPN,Japan,Import,116033092.15,3778.14
+2013,Palladium,711021,GBR,United Kingdom,USA,United States,Export,120471371.54,3922.65
+2013,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Export,123113907.96,4008.7
+2013,Palladium,711021,GBR,United Kingdom,JPN,Japan,Import,75109018.54,2445.61
+2013,Palladium,711021,GBR,United Kingdom,DEU,Germany,Import,76862579.48,2502.71
+2013,Palladium,711021,IND,India,HKG,Hong Kong,Export,68171755.64,2219.73
+2013,Palladium,711021,IND,India,JPN,Japan,Export,60684795.23,1975.95
+2013,Palladium,711021,IND,India,GBR,United Kingdom,Import,50370045.05,1640.09
+2013,Palladium,711021,IND,India,DEU,Germany,Import,62066871.46,2020.95
+2013,Palladium,711021,JPN,Japan,GBR,United Kingdom,Export,59800338.52,1947.15
+2013,Palladium,711021,JPN,Japan,CHN,China,Export,47685155.93,1552.67
+2013,Palladium,711021,JPN,Japan,KOR,KOR,Import,58261833.82,1897.06
+2013,Palladium,711021,DEU,Germany,CHE,Switzerland,Export,78858687.81,2567.71
+2013,Palladium,711021,DEU,Germany,KOR,KOR,Import,49691944.57,1618.01
+2013,Palladium,711021,DEU,Germany,GBR,United Kingdom,Import,74372792.61,2421.64
+2013,Palladium,711021,HKG,Hong Kong,USA,United States,Export,165811314.76,5398.96
+2013,Palladium,711021,HKG,Hong Kong,JPN,Japan,Export,312103394.08,10162.36
+2013,Palladium,711021,HKG,Hong Kong,ARE,United Arab Emirates,Import,124016171.27,4038.07
+2013,Palladium,711021,HKG,Hong Kong,USA,United States,Import,207476865.57,6755.63
+2014,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Export,549010083.21,16864.38
+2014,Palladium,711021,CHE,Switzerland,IND,India,Export,321954253.81,9889.73
+2014,Palladium,711021,CHE,Switzerland,CHN,China,Import,193108115.92,5931.86
+2014,Palladium,711021,CHN,China,HKG,Hong Kong,Export,245981468.97,7556.01
+2014,Palladium,711021,CHN,China,DEU,Germany,Export,272556165.16,8372.33
+2014,Palladium,711021,CHN,China,HKG,Hong Kong,Import,213916898.34,6571.06
+2014,Palladium,711021,CHN,China,ARE,United Arab Emirates,Import,337303029.6,10361.21
+2014,Palladium,711021,USA,United States,CHN,China,Export,158335082.85,4863.71
+2014,Palladium,711021,USA,United States,KOR,KOR,Export,250114025.48,7682.95
+2014,Palladium,711021,USA,United States,KOR,KOR,Import,208962889.27,6418.88
+2014,Palladium,711021,USA,United States,IND,India,Import,152010082.51,4669.42
+2014,Palladium,711021,ARE,United Arab Emirates,USA,United States,Export,311970710.81,9583.05
+2014,Palladium,711021,ARE,United Arab Emirates,DEU,Germany,Export,314338678.1,9655.79
+2014,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Import,161713773.47,4967.49
+2014,Palladium,711021,ARE,United Arab Emirates,IND,India,Import,99979727.36,3071.16
+2014,Palladium,711021,ZAF,South Africa,USA,United States,Export,184567451.03,5669.51
+2014,Palladium,711021,ZAF,South Africa,ARE,United Arab Emirates,Export,240352283.17,7383.09
+2014,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Import,209978756.06,6450.09
+2014,Palladium,711021,ZAF,South Africa,DEU,Germany,Import,97679361.05,3000.5
+2014,Palladium,711021,AUS,Australia,IND,India,Export,178104546.39,5470.98
+2014,Palladium,711021,AUS,Australia,ARE,United Arab Emirates,Export,133176194.99,4090.88
+2014,Palladium,711021,AUS,Australia,GBR,United Kingdom,Import,109974427.84,3378.17
+2014,Palladium,711021,AUS,Australia,HKG,Hong Kong,Import,187042165.6,5745.52
+2014,Palladium,711021,CHL,Chile,USA,United States,Export,184283958.41,5660.8
+2014,Palladium,711021,CHL,Chile,CHE,Switzerland,Export,126609469.35,3889.16
+2014,Palladium,711021,CHL,Chile,DEU,Germany,Import,187038811.48,5745.42
+2014,Palladium,711021,CHL,Chile,GBR,United Kingdom,Import,103061026.87,3165.81
+2014,Palladium,711021,PER,Peru,CHN,China,Export,96523763.23,2965.0
+2014,Palladium,711021,PER,Peru,ARE,United Arab Emirates,Export,90048213.02,2766.08
+2014,Palladium,711021,PER,Peru,CHN,China,Import,140429227.6,4313.68
+2014,Palladium,711021,PER,Peru,USA,United States,Import,152779255.02,4693.04
+2014,Palladium,711021,RUS,Russia,HKG,Hong Kong,Export,208034875.73,6390.37
+2014,Palladium,711021,RUS,Russia,KOR,KOR,Export,196828803.29,6046.15
+2014,Palladium,711021,RUS,Russia,KOR,KOR,Import,129671835.51,3983.23
+2014,Palladium,711021,RUS,Russia,HKG,Hong Kong,Import,93675379.6,2877.5
+2014,Palladium,711021,CAN,Canada,CHE,Switzerland,Export,194913607.19,5987.32
+2014,Palladium,711021,CAN,Canada,ARE,United Arab Emirates,Export,166843007.08,5125.05
+2014,Palladium,711021,CAN,Canada,KOR,KOR,Import,129456784.39,3976.63
+2014,Palladium,711021,CAN,Canada,CHE,Switzerland,Import,160929196.27,4943.39
+2014,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Export,107828459.18,3312.25
+2014,Palladium,711021,GBR,United Kingdom,ARE,United Arab Emirates,Import,95841885.05,2944.05
+2014,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Import,93186110.18,2862.47
+2014,Palladium,711021,IND,India,ARE,United Arab Emirates,Export,100604230.65,3090.34
+2014,Palladium,711021,IND,India,JPN,Japan,Export,76599611.22,2352.97
+2014,Palladium,711021,IND,India,KOR,KOR,Import,43680134.5,1341.76
+2014,Palladium,711021,IND,India,DEU,Germany,Import,70947410.23,2179.35
+2014,Palladium,711021,JPN,Japan,GBR,United Kingdom,Export,114067120.41,3503.89
+2014,Palladium,711021,JPN,Japan,HKG,Hong Kong,Export,113405296.77,3483.56
+2014,Palladium,711021,JPN,Japan,CHN,China,Import,72994015.04,2242.22
+2014,Palladium,711021,DEU,Germany,CHN,China,Export,96129233.38,2952.88
+2014,Palladium,711021,DEU,Germany,KOR,KOR,Export,61765734.61,1897.31
+2014,Palladium,711021,DEU,Germany,CHN,China,Import,50585266.2,1553.87
+2014,Palladium,711021,DEU,Germany,ARE,United Arab Emirates,Import,68103481.32,2091.99
+2014,Palladium,711021,HKG,Hong Kong,GBR,United Kingdom,Export,317849004.19,9763.62
+2014,Palladium,711021,HKG,Hong Kong,CHE,Switzerland,Export,227314727.65,6982.61
+2014,Palladium,711021,HKG,Hong Kong,ARE,United Arab Emirates,Import,177487810.05,5452.03
+2014,Palladium,711021,HKG,Hong Kong,DEU,Germany,Import,161089279.68,4948.31
+2015,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Export,402037957.92,11650.68
+2015,Palladium,711021,CHE,Switzerland,KOR,KOR,Import,245408745.04,7111.71
+2015,Palladium,711021,CHE,Switzerland,HKG,Hong Kong,Import,347862552.24,10080.73
+2015,Palladium,711021,CHN,China,IND,India,Export,348811875.07,10108.24
+2015,Palladium,711021,CHN,China,IND,India,Import,184940372.22,5359.4
+2015,Palladium,711021,CHN,China,USA,United States,Import,260039291.27,7535.69
+2015,Palladium,711021,USA,United States,ARE,United Arab Emirates,Export,195411808.08,5662.85
+2015,Palladium,711021,USA,United States,JPN,Japan,Export,192405336.71,5575.73
+2015,Palladium,711021,USA,United States,KOR,KOR,Import,264828402.46,7674.48
+2015,Palladium,711021,ARE,United Arab Emirates,KOR,KOR,Export,172846555.27,5008.93
+2015,Palladium,711021,ARE,United Arab Emirates,IND,India,Export,209453641.11,6069.77
+2015,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Import,201535164.79,5840.3
+2015,Palladium,711021,ZAF,South Africa,CHE,Switzerland,Export,133247931.8,3861.4
+2015,Palladium,711021,ZAF,South Africa,IND,India,Export,122224025.12,3541.94
+2015,Palladium,711021,ZAF,South Africa,JPN,Japan,Import,203444878.72,5895.64
+2015,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Import,168061663.4,4870.27
+2015,Palladium,711021,AUS,Australia,USA,United States,Export,223885828.98,6488.0
+2015,Palladium,711021,AUS,Australia,CHN,China,Export,336268426.98,9744.74
+2015,Palladium,711021,AUS,Australia,IND,India,Import,145789127.76,4224.83
+2015,Palladium,711021,AUS,Australia,KOR,KOR,Import,208704466.81,6048.06
+2015,Palladium,711021,CHL,Chile,DEU,Germany,Export,102437442.3,2968.54
+2015,Palladium,711021,CHL,Chile,CHE,Switzerland,Export,185236959.76,5367.99
+2015,Palladium,711021,CHL,Chile,CHN,China,Import,91734208.07,2658.37
+2015,Palladium,711021,CHL,Chile,IND,India,Import,172546238.1,5000.23
+2015,Palladium,711021,PER,Peru,CHN,China,Export,96122347.68,2785.53
+2015,Palladium,711021,PER,Peru,CHE,Switzerland,Export,132979053.88,3853.61
+2015,Palladium,711021,PER,Peru,CHE,Switzerland,Import,119124986.72,3452.13
+2015,Palladium,711021,PER,Peru,ARE,United Arab Emirates,Import,77432744.6,2243.93
+2015,Palladium,711021,RUS,Russia,JPN,Japan,Export,219402107.57,6358.07
+2015,Palladium,711021,RUS,Russia,CHN,China,Export,147026274.2,4260.68
+2015,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Import,173296487.19,5021.97
+2015,Palladium,711021,RUS,Russia,CHE,Switzerland,Import,142981497.71,4143.47
+2015,Palladium,711021,CAN,Canada,KOR,KOR,Export,188811399.17,5471.58
+2015,Palladium,711021,CAN,Canada,CHN,China,Export,169123188.88,4901.03
+2015,Palladium,711021,CAN,Canada,IND,India,Import,184735654.23,5353.46
+2015,Palladium,711021,CAN,Canada,DEU,Germany,Import,93552178.79,2711.05
+2015,Palladium,711021,GBR,United Kingdom,USA,United States,Export,102983438.34,2984.36
+2015,Palladium,711021,GBR,United Kingdom,DEU,Germany,Export,171677100.64,4975.04
+2015,Palladium,711021,GBR,United Kingdom,KOR,KOR,Import,87155837.38,2525.69
+2015,Palladium,711021,IND,India,JPN,Japan,Export,89404487.55,2590.86
+2015,Palladium,711021,IND,India,KOR,KOR,Import,90939225.58,2635.33
+2015,Palladium,711021,IND,India,CHE,Switzerland,Import,56502775.34,1637.4
+2015,Palladium,711021,JPN,Japan,CHE,Switzerland,Export,109730964.16,3179.9
+2015,Palladium,711021,JPN,Japan,KOR,KOR,Export,95573500.43,2769.63
+2015,Palladium,711021,JPN,Japan,CHN,China,Import,70540214.65,2044.19
+2015,Palladium,711021,JPN,Japan,IND,India,Import,76894485.64,2228.33
+2015,Palladium,711021,DEU,Germany,USA,United States,Export,54502238.4,1579.42
+2015,Palladium,711021,DEU,Germany,IND,India,Export,85411854.41,2475.15
+2015,Palladium,711021,DEU,Germany,JPN,Japan,Import,67872980.27,1966.89
+2015,Palladium,711021,HKG,Hong Kong,USA,United States,Export,342936311.83,9937.97
+2015,Palladium,711021,HKG,Hong Kong,CHE,Switzerland,Export,252884441.68,7328.35
+2015,Palladium,711021,HKG,Hong Kong,IND,India,Import,189326564.54,5486.51
+2015,Palladium,711021,HKG,Hong Kong,DEU,Germany,Import,197438740.33,5721.59
+2016,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Export,532245644.44,14550.92
+2016,Palladium,711021,CHE,Switzerland,JPN,Japan,Export,524276162.44,14333.05
+2016,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Import,401873404.26,10986.71
+2016,Palladium,711021,CHE,Switzerland,JPN,Japan,Import,493597408.65,13494.33
+2016,Palladium,711021,CHN,China,ARE,United Arab Emirates,Export,500542708.33,13684.2
+2016,Palladium,711021,CHN,China,KOR,KOR,Export,548781445.88,15002.99
+2016,Palladium,711021,CHN,China,IND,India,Import,278128212.26,7603.67
+2016,Palladium,711021,CHN,China,HKG,Hong Kong,Import,339610335.3,9284.52
+2016,Palladium,711021,USA,United States,KOR,KOR,Export,237832328.79,6502.03
+2016,Palladium,711021,USA,United States,IND,India,Export,213727105.98,5843.03
+2016,Palladium,711021,USA,United States,ARE,United Arab Emirates,Import,153751763.67,4203.38
+2016,Palladium,711021,USA,United States,KOR,KOR,Import,283210695.31,7742.62
+2016,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Export,224119722.89,6127.15
+2016,Palladium,711021,ARE,United Arab Emirates,CHN,China,Import,124894063.72,3414.45
+2016,Palladium,711021,ZAF,South Africa,USA,United States,Export,195705085.83,5350.33
+2016,Palladium,711021,ZAF,South Africa,JPN,Japan,Export,214489408.79,5863.87
+2016,Palladium,711021,ZAF,South Africa,KOR,KOR,Import,198245487.79,5419.78
+2016,Palladium,711021,ZAF,South Africa,USA,United States,Import,237952235.85,6505.31
+2016,Palladium,711021,AUS,Australia,HKG,Hong Kong,Export,210603925.03,5757.64
+2016,Palladium,711021,AUS,Australia,IND,India,Export,371199533.58,10148.12
+2016,Palladium,711021,AUS,Australia,CHN,China,Import,270311836.66,7389.98
+2016,Palladium,711021,AUS,Australia,HKG,Hong Kong,Import,149016878.74,4073.93
+2016,Palladium,711021,CHL,Chile,ARE,United Arab Emirates,Export,121124755.17,3311.4
+2016,Palladium,711021,CHL,Chile,HKG,Hong Kong,Export,185265593.23,5064.93
+2016,Palladium,711021,CHL,Chile,USA,United States,Import,122875515.85,3359.26
+2016,Palladium,711021,CHL,Chile,ARE,United Arab Emirates,Import,177338189.37,4848.2
+2016,Palladium,711021,PER,Peru,CHN,China,Export,105574118.98,2886.26
+2016,Palladium,711021,PER,Peru,JPN,Japan,Export,178849467.91,4889.52
+2016,Palladium,711021,PER,Peru,CHN,China,Import,163204000.93,4461.79
+2016,Palladium,711021,PER,Peru,KOR,KOR,Import,91386208.1,2498.38
+2016,Palladium,711021,RUS,Russia,USA,United States,Export,242543446.48,6630.83
+2016,Palladium,711021,RUS,Russia,CHN,China,Export,190362783.13,5204.28
+2016,Palladium,711021,RUS,Russia,CHE,Switzerland,Import,129580621.36,3542.57
+2016,Palladium,711021,RUS,Russia,GBR,United Kingdom,Import,171317303.03,4683.6
+2016,Palladium,711021,CAN,Canada,CHN,China,Export,127473149.07,3484.95
+2016,Palladium,711021,CAN,Canada,DEU,Germany,Export,149268684.18,4080.82
+2016,Palladium,711021,CAN,Canada,HKG,Hong Kong,Import,91534939.25,2502.45
+2016,Palladium,711021,CAN,Canada,ARE,United Arab Emirates,Import,85180633.54,2328.73
+2016,Palladium,711021,GBR,United Kingdom,IND,India,Export,80428659.23,2198.82
+2016,Palladium,711021,GBR,United Kingdom,USA,United States,Export,105351418.33,2880.17
+2016,Palladium,711021,GBR,United Kingdom,IND,India,Import,137453955.49,3757.82
+2016,Palladium,711021,GBR,United Kingdom,ARE,United Arab Emirates,Import,111267714.3,3041.92
+2016,Palladium,711021,IND,India,CHN,China,Export,119321316.77,3262.09
+2016,Palladium,711021,IND,India,GBR,United Kingdom,Export,98547329.94,2694.16
+2016,Palladium,711021,IND,India,USA,United States,Import,99821521.11,2728.99
+2016,Palladium,711021,IND,India,HKG,Hong Kong,Import,98238826.46,2685.72
+2016,Palladium,711021,JPN,Japan,CHN,China,Export,86052550.26,2352.57
+2016,Palladium,711021,JPN,Japan,CHE,Switzerland,Export,101239420.06,2767.76
+2016,Palladium,711021,JPN,Japan,CHN,China,Import,70231665.79,1920.04
+2016,Palladium,711021,JPN,Japan,HKG,Hong Kong,Import,84227160.28,2302.66
+2016,Palladium,711021,DEU,Germany,USA,United States,Export,87644787.02,2396.1
+2016,Palladium,711021,DEU,Germany,HKG,Hong Kong,Export,105701104.69,2889.73
+2016,Palladium,711021,DEU,Germany,HKG,Hong Kong,Import,61573381.4,1683.34
+2016,Palladium,711021,DEU,Germany,CHE,Switzerland,Import,94026755.15,2570.57
+2016,Palladium,711021,HKG,Hong Kong,USA,United States,Export,394490365.61,10784.87
+2016,Palladium,711021,HKG,Hong Kong,GBR,United Kingdom,Import,297647073.48,8137.29
+2016,Palladium,711021,HKG,Hong Kong,DEU,Germany,Import,282323400.22,7718.36
+2017,Palladium,711021,CHE,Switzerland,HKG,Hong Kong,Export,343453878.63,8858.11
+2017,Palladium,711021,CHE,Switzerland,KOR,KOR,Export,315820879.18,8145.42
+2017,Palladium,711021,CHE,Switzerland,USA,United States,Import,341052445.88,8796.17
+2017,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Import,375560683.8,9686.18
+2017,Palladium,711021,CHN,China,CHE,Switzerland,Export,527411368.31,13602.6
+2017,Palladium,711021,CHN,China,ARE,United Arab Emirates,Export,612330118.72,15792.76
+2017,Palladium,711021,CHN,China,KOR,KOR,Import,424425392.46,10946.46
+2017,Palladium,711021,CHN,China,JPN,Japan,Import,232096722.57,5986.07
+2017,Palladium,711021,USA,United States,IND,India,Export,403303238.27,10401.7
+2017,Palladium,711021,USA,United States,GBR,United Kingdom,Import,123123498.17,3175.51
+2017,Palladium,711021,USA,United States,IND,India,Import,192536870.41,4965.77
+2017,Palladium,711021,ARE,United Arab Emirates,IND,India,Export,317522890.24,8189.31
+2017,Palladium,711021,ARE,United Arab Emirates,CHN,China,Export,205406053.37,5297.68
+2017,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Import,245366154.26,6328.3
+2017,Palladium,711021,ARE,United Arab Emirates,KOR,KOR,Import,127393149.62,3285.63
+2017,Palladium,711021,ZAF,South Africa,USA,United States,Export,288775101.4,7447.87
+2017,Palladium,711021,ZAF,South Africa,CHE,Switzerland,Export,334756881.38,8633.8
+2017,Palladium,711021,ZAF,South Africa,JPN,Japan,Import,211449890.05,5453.56
+2017,Palladium,711021,ZAF,South Africa,GBR,United Kingdom,Import,126622264.27,3265.75
+2017,Palladium,711021,AUS,Australia,GBR,United Kingdom,Export,209217295.3,5395.98
+2017,Palladium,711021,AUS,Australia,JPN,Japan,Export,229550024.73,5920.38
+2017,Palladium,711021,AUS,Australia,USA,United States,Import,162982684.16,4203.53
+2017,Palladium,711021,AUS,Australia,GBR,United Kingdom,Import,198910016.1,5130.14
+2017,Palladium,711021,CHL,Chile,KOR,KOR,Export,121945831.43,3145.14
+2017,Palladium,711021,CHL,Chile,CHN,China,Export,198362757.93,5116.02
+2017,Palladium,711021,CHL,Chile,KOR,KOR,Import,205662791.72,5304.3
+2017,Palladium,711021,CHL,Chile,USA,United States,Import,171698753.09,4428.33
+2017,Palladium,711021,PER,Peru,ARE,United Arab Emirates,Export,103761357.15,2676.14
+2017,Palladium,711021,PER,Peru,KOR,KOR,Export,158928427.91,4098.96
+2017,Palladium,711021,PER,Peru,CHN,China,Import,184915222.2,4769.2
+2017,Palladium,711021,PER,Peru,KOR,KOR,Import,112221243.5,2894.33
+2017,Palladium,711021,RUS,Russia,HKG,Hong Kong,Export,296464524.65,7646.19
+2017,Palladium,711021,RUS,Russia,GBR,United Kingdom,Export,145935468.4,3763.86
+2017,Palladium,711021,RUS,Russia,USA,United States,Import,141408754.03,3647.11
+2017,Palladium,711021,RUS,Russia,CHE,Switzerland,Import,221521188.8,5713.31
+2017,Palladium,711021,CAN,Canada,CHE,Switzerland,Export,115268433.97,2972.92
+2017,Palladium,711021,CAN,Canada,DEU,Germany,Export,143271643.81,3695.16
+2017,Palladium,711021,CAN,Canada,HKG,Hong Kong,Import,202112380.31,5212.73
+2017,Palladium,711021,CAN,Canada,CHE,Switzerland,Import,121823066.58,3141.97
+2017,Palladium,711021,GBR,United Kingdom,IND,India,Export,183562142.32,4734.3
+2017,Palladium,711021,GBR,United Kingdom,ARE,United Arab Emirates,Export,128727674.42,3320.05
+2017,Palladium,711021,GBR,United Kingdom,CHN,China,Import,118985442.76,3068.78
+2017,Palladium,711021,GBR,United Kingdom,JPN,Japan,Import,129903951.38,3350.39
+2017,Palladium,711021,IND,India,HKG,Hong Kong,Export,128748126.34,3320.58
+2017,Palladium,711021,IND,India,USA,United States,Export,125168419.92,3228.25
+2017,Palladium,711021,IND,India,ARE,United Arab Emirates,Import,78882233.17,2034.47
+2017,Palladium,711021,IND,India,USA,United States,Import,99637230.16,2569.77
+2017,Palladium,711021,JPN,Japan,KOR,KOR,Export,127099651.6,3278.06
+2017,Palladium,711021,JPN,Japan,CHE,Switzerland,Export,140975268.39,3635.93
+2017,Palladium,711021,JPN,Japan,IND,India,Import,61373577.86,1582.9
+2017,Palladium,711021,DEU,Germany,CHE,Switzerland,Export,88650562.64,2286.41
+2017,Palladium,711021,DEU,Germany,KOR,KOR,Export,70442955.32,1816.81
+2017,Palladium,711021,DEU,Germany,ARE,United Arab Emirates,Import,110826663.19,2858.36
+2017,Palladium,711021,DEU,Germany,JPN,Japan,Import,124822681.68,3219.33
+2017,Palladium,711021,HKG,Hong Kong,JPN,Japan,Export,199108153.33,5135.25
+2017,Palladium,711021,HKG,Hong Kong,USA,United States,Export,270101309.73,6966.25
+2017,Palladium,711021,HKG,Hong Kong,DEU,Germany,Import,176790127.01,4559.64
+2017,Palladium,711021,HKG,Hong Kong,USA,United States,Import,157438998.99,4060.55
+2018,Palladium,711021,CHE,Switzerland,DEU,Germany,Export,325260555.62,7914.04
+2018,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Export,287951795.2,7006.26
+2018,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Import,471359034.58,11468.81
+2018,Palladium,711021,CHE,Switzerland,CHN,China,Import,322454114.9,7845.75
+2018,Palladium,711021,CHN,China,HKG,Hong Kong,Export,675745259.93,16441.81
+2018,Palladium,711021,CHN,China,CHE,Switzerland,Import,433674833.68,10551.9
+2018,Palladium,711021,CHN,China,IND,India,Import,284758930.69,6928.58
+2018,Palladium,711021,USA,United States,CHE,Switzerland,Export,346743297.8,8436.74
+2018,Palladium,711021,USA,United States,ARE,United Arab Emirates,Export,290760423.45,7074.6
+2018,Palladium,711021,USA,United States,IND,India,Import,298524878.47,7263.52
+2018,Palladium,711021,USA,United States,CHE,Switzerland,Import,293852988.02,7149.85
+2018,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Export,287679370.2,6999.63
+2018,Palladium,711021,ARE,United Arab Emirates,DEU,Germany,Export,188914579.57,4596.55
+2018,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Import,240603777.15,5854.22
+2018,Palladium,711021,ARE,United Arab Emirates,KOR,KOR,Import,177043218.11,4307.7
+2018,Palladium,711021,ZAF,South Africa,HKG,Hong Kong,Export,200530101.86,4879.17
+2018,Palladium,711021,ZAF,South Africa,DEU,Germany,Export,253782091.92,6174.87
+2018,Palladium,711021,ZAF,South Africa,CHE,Switzerland,Import,119984532.56,2919.39
+2018,Palladium,711021,ZAF,South Africa,CHN,China,Import,257793002.82,6272.46
+2018,Palladium,711021,AUS,Australia,HKG,Hong Kong,Export,328789964.42,7999.91
+2018,Palladium,711021,AUS,Australia,KOR,KOR,Export,295352522.58,7186.33
+2018,Palladium,711021,AUS,Australia,KOR,KOR,Import,272850858.15,6638.84
+2018,Palladium,711021,AUS,Australia,DEU,Germany,Import,345423191.84,8404.62
+2018,Palladium,711021,CHL,Chile,ARE,United Arab Emirates,Export,326797960.9,7951.44
+2018,Palladium,711021,CHL,Chile,USA,United States,Export,177206865.23,4311.69
+2018,Palladium,711021,CHL,Chile,KOR,KOR,Import,243974308.89,5936.23
+2018,Palladium,711021,CHL,Chile,USA,United States,Import,259054494.42,6303.15
+2018,Palladium,711021,PER,Peru,CHE,Switzerland,Export,170301640.99,4143.67
+2018,Palladium,711021,PER,Peru,CHN,China,Export,163165318.76,3970.04
+2018,Palladium,711021,PER,Peru,ARE,United Arab Emirates,Import,180463928.63,4390.94
+2018,Palladium,711021,PER,Peru,JPN,Japan,Import,111724611.33,2718.41
+2018,Palladium,711021,RUS,Russia,DEU,Germany,Export,218034389.35,5305.08
+2018,Palladium,711021,RUS,Russia,KOR,KOR,Export,254729322.77,6197.91
+2018,Palladium,711021,RUS,Russia,CHE,Switzerland,Import,264807961.96,6443.14
+2018,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Import,163594093.03,3980.47
+2018,Palladium,711021,CAN,Canada,CHE,Switzerland,Export,191846620.21,4667.89
+2018,Palladium,711021,CAN,Canada,KOR,KOR,Export,179750953.45,4373.59
+2018,Palladium,711021,CAN,Canada,KOR,KOR,Import,203177509.77,4943.59
+2018,Palladium,711021,CAN,Canada,JPN,Japan,Import,193994857.39,4720.16
+2018,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Export,105784476.68,2573.88
+2018,Palladium,711021,GBR,United Kingdom,USA,United States,Export,178309133.6,4338.51
+2018,Palladium,711021,GBR,United Kingdom,KOR,KOR,Import,140251981.4,3412.52
+2018,Palladium,711021,GBR,United Kingdom,IND,India,Import,176640189.07,4297.9
+2018,Palladium,711021,IND,India,ARE,United Arab Emirates,Export,74848974.99,1821.18
+2018,Palladium,711021,IND,India,ARE,United Arab Emirates,Import,68999191.53,1678.85
+2018,Palladium,711021,IND,India,GBR,United Kingdom,Import,68799904.47,1674.0
+2018,Palladium,711021,JPN,Japan,IND,India,Export,140313463.71,3414.02
+2018,Palladium,711021,JPN,Japan,GBR,United Kingdom,Import,132012394.3,3212.04
+2018,Palladium,711021,JPN,Japan,HKG,Hong Kong,Import,114138115.75,2777.14
+2018,Palladium,711021,DEU,Germany,IND,India,Export,105944932.32,2577.79
+2018,Palladium,711021,DEU,Germany,JPN,Japan,Export,79732034.86,1939.99
+2018,Palladium,711021,DEU,Germany,CHE,Switzerland,Import,57754673.62,1405.25
+2018,Palladium,711021,DEU,Germany,IND,India,Import,75462949.99,1836.12
+2018,Palladium,711021,HKG,Hong Kong,CHE,Switzerland,Export,384044274.91,9344.32
+2018,Palladium,711021,HKG,Hong Kong,GBR,United Kingdom,Export,476556729.43,11595.28
+2018,Palladium,711021,HKG,Hong Kong,ARE,United Arab Emirates,Import,424959891.62,10339.86
+2018,Palladium,711021,HKG,Hong Kong,JPN,Japan,Import,188179382.64,4578.66
+2019,Palladium,711021,CHE,Switzerland,KOR,KOR,Export,539461268.14,12382.86
+2019,Palladium,711021,CHE,Switzerland,IND,India,Export,393207915.73,9025.74
+2019,Palladium,711021,CHE,Switzerland,KOR,KOR,Import,263904339.98,6057.69
+2019,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Import,423315248.88,9716.83
+2019,Palladium,711021,CHN,China,ARE,United Arab Emirates,Export,295382122.91,6780.24
+2019,Palladium,711021,CHN,China,HKG,Hong Kong,Export,393283762.3,9027.49
+2019,Palladium,711021,CHN,China,HKG,Hong Kong,Import,402564488.2,9240.52
+2019,Palladium,711021,CHN,China,GBR,United Kingdom,Import,281676020.05,6465.63
+2019,Palladium,711021,USA,United States,DEU,Germany,Export,275815215.34,6331.1
+2019,Palladium,711021,USA,United States,IND,India,Import,298723942.55,6856.95
+2019,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Export,371579619.74,8529.29
+2019,Palladium,711021,ARE,United Arab Emirates,IND,India,Export,287910096.16,6608.72
+2019,Palladium,711021,ARE,United Arab Emirates,USA,United States,Import,219624076.62,5041.28
+2019,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Import,266504217.32,6117.37
+2019,Palladium,711021,ZAF,South Africa,KOR,KOR,Export,250428269.08,5748.36
+2019,Palladium,711021,ZAF,South Africa,DEU,Germany,Export,252581739.25,5797.79
+2019,Palladium,711021,ZAF,South Africa,USA,United States,Import,272567282.52,6256.54
+2019,Palladium,711021,ZAF,South Africa,ARE,United Arab Emirates,Import,209233716.0,4802.78
+2019,Palladium,711021,AUS,Australia,HKG,Hong Kong,Export,345670192.26,7934.56
+2019,Palladium,711021,AUS,Australia,GBR,United Kingdom,Export,308681089.73,7085.5
+2019,Palladium,711021,AUS,Australia,CHE,Switzerland,Import,310027523.54,7116.41
+2019,Palladium,711021,AUS,Australia,HKG,Hong Kong,Import,328117291.72,7531.65
+2019,Palladium,711021,CHL,Chile,IND,India,Export,244971214.78,5623.1
+2019,Palladium,711021,CHL,Chile,JPN,Japan,Export,254167568.97,5834.19
+2019,Palladium,711021,CHL,Chile,HKG,Hong Kong,Import,149441542.99,3430.3
+2019,Palladium,711021,CHL,Chile,GBR,United Kingdom,Import,207573562.17,4764.67
+2019,Palladium,711021,PER,Peru,KOR,KOR,Export,177670824.67,4078.28
+2019,Palladium,711021,PER,Peru,ARE,United Arab Emirates,Export,161451245.86,3705.97
+2019,Palladium,711021,PER,Peru,GBR,United Kingdom,Import,185517403.14,4258.39
+2019,Palladium,711021,PER,Peru,USA,United States,Import,247114098.4,5672.29
+2019,Palladium,711021,RUS,Russia,JPN,Japan,Export,193466281.85,4440.85
+2019,Palladium,711021,RUS,Russia,KOR,KOR,Export,203233636.47,4665.05
+2019,Palladium,711021,RUS,Russia,CHN,China,Import,129916593.49,2982.12
+2019,Palladium,711021,RUS,Russia,JPN,Japan,Import,190848268.97,4380.76
+2019,Palladium,711021,CAN,Canada,KOR,KOR,Export,203430680.62,4669.57
+2019,Palladium,711021,CAN,Canada,CHN,China,Export,243620251.45,5592.09
+2019,Palladium,711021,CAN,Canada,ARE,United Arab Emirates,Import,172051777.97,3949.3
+2019,Palladium,711021,CAN,Canada,DEU,Germany,Import,169967691.97,3901.46
+2019,Palladium,711021,GBR,United Kingdom,DEU,Germany,Export,162730489.59,3735.34
+2019,Palladium,711021,GBR,United Kingdom,KOR,KOR,Import,104833065.06,2406.35
+2019,Palladium,711021,IND,India,USA,United States,Export,87957801.72,2018.99
+2019,Palladium,711021,IND,India,ARE,United Arab Emirates,Export,151287136.66,3472.66
+2019,Palladium,711021,IND,India,CHN,China,Import,129995666.12,2983.94
+2019,Palladium,711021,IND,India,DEU,Germany,Import,155822240.55,3576.76
+2019,Palladium,711021,JPN,Japan,IND,India,Export,84591960.86,1941.73
+2019,Palladium,711021,JPN,Japan,CHN,China,Export,99059811.48,2273.83
+2019,Palladium,711021,JPN,Japan,KOR,KOR,Import,129892457.44,2981.57
+2019,Palladium,711021,JPN,Japan,GBR,United Kingdom,Import,133102328.95,3055.25
+2019,Palladium,711021,DEU,Germany,JPN,Japan,Export,81709223.21,1875.56
+2019,Palladium,711021,DEU,Germany,GBR,United Kingdom,Export,99843765.5,2291.83
+2019,Palladium,711021,DEU,Germany,CHN,China,Import,69414553.9,1593.35
+2019,Palladium,711021,DEU,Germany,IND,India,Import,62028970.4,1423.82
+2019,Palladium,711021,HKG,Hong Kong,KOR,KOR,Export,281988450.06,6472.8
+2019,Palladium,711021,HKG,Hong Kong,JPN,Japan,Export,335432310.49,7699.56
+2019,Palladium,711021,HKG,Hong Kong,CHE,Switzerland,Import,177976728.8,4085.3
+2019,Palladium,711021,HKG,Hong Kong,USA,United States,Import,313721395.28,7201.2
+2020,Palladium,711021,CHE,Switzerland,GBR,United Kingdom,Export,545384683.46,11810.22
+2020,Palladium,711021,CHE,Switzerland,IND,India,Export,484058438.48,10482.21
+2020,Palladium,711021,CHE,Switzerland,KOR,KOR,Import,414828662.12,8983.05
+2020,Palladium,711021,CHE,Switzerland,IND,India,Import,549341425.2,11895.9
+2020,Palladium,711021,CHN,China,DEU,Germany,Export,408296408.73,8841.59
+2020,Palladium,711021,CHN,China,CHE,Switzerland,Export,552028701.91,11954.09
+2020,Palladium,711021,CHN,China,GBR,United Kingdom,Import,438521778.03,9496.12
+2020,Palladium,711021,CHN,China,JPN,Japan,Import,378366180.45,8193.46
+2020,Palladium,711021,USA,United States,HKG,Hong Kong,Export,297362922.06,6439.35
+2020,Palladium,711021,USA,United States,IND,India,Export,225773859.52,4889.1
+2020,Palladium,711021,USA,United States,GBR,United Kingdom,Import,175403998.74,3798.34
+2020,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Export,450124070.54,9747.36
+2020,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Export,294356021.0,6374.23
+2020,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Import,206949289.23,4481.45
+2020,Palladium,711021,ARE,United Arab Emirates,JPN,Japan,Import,238070578.23,5155.38
+2020,Palladium,711021,ZAF,South Africa,USA,United States,Export,447316805.19,9686.57
+2020,Palladium,711021,ZAF,South Africa,JPN,Japan,Export,288453186.86,6246.41
+2020,Palladium,711021,ZAF,South Africa,JPN,Japan,Import,292697254.85,6338.31
+2020,Palladium,711021,ZAF,South Africa,USA,United States,Import,307836040.16,6666.14
+2020,Palladium,711021,AUS,Australia,JPN,Japan,Export,405358079.1,8777.96
+2020,Palladium,711021,AUS,Australia,DEU,Germany,Export,297571854.76,6443.87
+2020,Palladium,711021,AUS,Australia,IND,India,Import,348384410.12,7544.21
+2020,Palladium,711021,AUS,Australia,HKG,Hong Kong,Import,264537863.34,5728.52
+2020,Palladium,711021,CHL,Chile,IND,India,Export,204171917.68,4421.31
+2020,Palladium,711021,CHL,Chile,ARE,United Arab Emirates,Export,335829643.31,7272.34
+2020,Palladium,711021,CHL,Chile,CHN,China,Import,154106086.24,3337.14
+2020,Palladium,711021,CHL,Chile,CHE,Switzerland,Import,228960401.07,4958.1
+2020,Palladium,711021,PER,Peru,USA,United States,Export,250060133.43,5415.01
+2020,Palladium,711021,PER,Peru,HKG,Hong Kong,Export,284185150.75,6153.98
+2020,Palladium,711021,PER,Peru,HKG,Hong Kong,Import,142931912.06,3095.17
+2020,Palladium,711021,PER,Peru,GBR,United Kingdom,Import,204174014.52,4421.35
+2020,Palladium,711021,RUS,Russia,GBR,United Kingdom,Export,227841398.52,4933.87
+2020,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Export,306549102.98,6638.27
+2020,Palladium,711021,RUS,Russia,GBR,United Kingdom,Import,257801813.81,5582.66
+2020,Palladium,711021,RUS,Russia,KOR,KOR,Import,288599148.23,6249.57
+2020,Palladium,711021,CAN,Canada,KOR,KOR,Export,238718185.45,5169.4
+2020,Palladium,711021,CAN,Canada,HKG,Hong Kong,Export,253395396.8,5487.24
+2020,Palladium,711021,CAN,Canada,USA,United States,Import,177404196.75,3841.66
+2020,Palladium,711021,CAN,Canada,CHN,China,Import,152119399.63,3294.12
+2020,Palladium,711021,GBR,United Kingdom,IND,India,Export,200066958.05,4332.42
+2020,Palladium,711021,GBR,United Kingdom,USA,United States,Export,172856701.52,3743.18
+2020,Palladium,711021,GBR,United Kingdom,CHN,China,Import,124398497.32,2693.83
+2020,Palladium,711021,GBR,United Kingdom,KOR,KOR,Import,89175486.54,1931.08
+2020,Palladium,711021,IND,India,JPN,Japan,Export,115282320.4,2496.42
+2020,Palladium,711021,IND,India,GBR,United Kingdom,Export,103582610.79,2243.06
+2020,Palladium,711021,IND,India,HKG,Hong Kong,Import,72739864.89,1575.17
+2020,Palladium,711021,IND,India,USA,United States,Import,147017733.9,3183.64
+2020,Palladium,711021,JPN,Japan,HKG,Hong Kong,Export,157432122.1,3409.17
+2020,Palladium,711021,JPN,Japan,GBR,United Kingdom,Import,142477378.13,3085.32
+2020,Palladium,711021,JPN,Japan,HKG,Hong Kong,Import,100235917.73,2170.59
+2020,Palladium,711021,DEU,Germany,CHN,China,Export,79041286.31,1711.63
+2020,Palladium,711021,DEU,Germany,GBR,United Kingdom,Export,84544822.17,1830.8
+2020,Palladium,711021,DEU,Germany,KOR,KOR,Import,121352352.98,2627.87
+2020,Palladium,711021,DEU,Germany,CHE,Switzerland,Import,92912323.8,2012.0
+2020,Palladium,711021,HKG,Hong Kong,CHN,China,Export,375747261.08,8136.75
+2020,Palladium,711021,HKG,Hong Kong,DEU,Germany,Export,531287147.55,11504.94
+2020,Palladium,711021,HKG,Hong Kong,IND,India,Import,438127579.84,9487.58
+2021,Palladium,711021,CHE,Switzerland,DEU,Germany,Export,789373385.82,16126.18
+2021,Palladium,711021,CHE,Switzerland,USA,United States,Import,454034559.81,9275.51
+2021,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Import,292537323.58,5976.27
+2021,Palladium,711021,CHN,China,CHE,Switzerland,Export,487771690.52,9964.73
+2021,Palladium,711021,CHN,China,GBR,United Kingdom,Export,843352277.04,17228.92
+2021,Palladium,711021,CHN,China,GBR,United Kingdom,Import,263382716.94,5380.67
+2021,Palladium,711021,CHN,China,HKG,Hong Kong,Import,441846076.75,9026.51
+2021,Palladium,711021,USA,United States,ARE,United Arab Emirates,Export,404598420.11,8265.58
+2021,Palladium,711021,USA,United States,KOR,KOR,Export,279136900.12,5702.51
+2021,Palladium,711021,USA,United States,IND,India,Import,236138175.66,4824.09
+2021,Palladium,711021,ARE,United Arab Emirates,DEU,Germany,Export,253573591.97,5180.28
+2021,Palladium,711021,ARE,United Arab Emirates,KOR,KOR,Export,248648333.59,5079.66
+2021,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Import,250281794.96,5113.03
+2021,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Import,155107156.51,3168.7
+2021,Palladium,711021,ZAF,South Africa,DEU,Germany,Export,378680838.98,7736.11
+2021,Palladium,711021,ZAF,South Africa,USA,United States,Export,254408609.18,5197.34
+2021,Palladium,711021,ZAF,South Africa,ARE,United Arab Emirates,Import,307345452.52,6278.79
+2021,Palladium,711021,ZAF,South Africa,DEU,Germany,Import,307415112.53,6280.21
+2021,Palladium,711021,AUS,Australia,IND,India,Export,287772793.26,5878.94
+2021,Palladium,711021,AUS,Australia,USA,United States,Export,477829975.38,9761.63
+2021,Palladium,711021,AUS,Australia,GBR,United Kingdom,Import,253247472.5,5173.62
+2021,Palladium,711021,AUS,Australia,ARE,United Arab Emirates,Import,187903361.61,3838.69
+2021,Palladium,711021,CHL,Chile,USA,United States,Export,276476754.98,5648.17
+2021,Palladium,711021,CHL,Chile,DEU,Germany,Export,239713658.7,4897.13
+2021,Palladium,711021,CHL,Chile,DEU,Germany,Import,162072961.67,3311.0
+2021,Palladium,711021,CHL,Chile,CHN,China,Import,128574177.97,2626.65
+2021,Palladium,711021,PER,Peru,CHN,China,Export,292601022.85,5977.57
+2021,Palladium,711021,PER,Peru,DEU,Germany,Export,202898091.13,4145.02
+2021,Palladium,711021,PER,Peru,HKG,Hong Kong,Import,150458437.77,3073.73
+2021,Palladium,711021,PER,Peru,CHE,Switzerland,Import,163922220.97,3348.78
+2021,Palladium,711021,RUS,Russia,JPN,Japan,Export,211899637.79,4328.92
+2021,Palladium,711021,RUS,Russia,USA,United States,Export,377850111.3,7719.13
+2021,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Import,242397935.82,4951.97
+2021,Palladium,711021,RUS,Russia,USA,United States,Import,247038533.86,5046.77
+2021,Palladium,711021,CAN,Canada,JPN,Japan,Export,293572562.44,5997.42
+2021,Palladium,711021,CAN,Canada,USA,United States,Export,291416867.6,5953.38
+2021,Palladium,711021,CAN,Canada,CHN,China,Import,147076257.01,3004.63
+2021,Palladium,711021,CAN,Canada,GBR,United Kingdom,Import,167773923.36,3427.47
+2021,Palladium,711021,GBR,United Kingdom,DEU,Germany,Export,208746418.28,4264.5
+2021,Palladium,711021,GBR,United Kingdom,ARE,United Arab Emirates,Export,148344972.05,3030.55
+2021,Palladium,711021,GBR,United Kingdom,USA,United States,Import,114667341.77,2342.55
+2021,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Import,88509311.02,1808.16
+2021,Palladium,711021,IND,India,JPN,Japan,Export,83040070.27,1696.43
+2021,Palladium,711021,IND,India,USA,United States,Export,104325784.0,2131.28
+2021,Palladium,711021,IND,India,GBR,United Kingdom,Import,100014334.92,2043.2
+2021,Palladium,711021,IND,India,KOR,KOR,Import,82509826.1,1685.6
+2021,Palladium,711021,JPN,Japan,DEU,Germany,Export,137248792.07,2803.87
+2021,Palladium,711021,JPN,Japan,KOR,KOR,Export,123057815.23,2513.96
+2021,Palladium,711021,JPN,Japan,GBR,United Kingdom,Import,108688222.55,2220.4
+2021,Palladium,711021,JPN,Japan,KOR,KOR,Import,138176335.08,2822.82
+2021,Palladium,711021,DEU,Germany,USA,United States,Export,74692521.9,1525.9
+2021,Palladium,711021,DEU,Germany,HKG,Hong Kong,Export,168331494.52,3438.86
+2021,Palladium,711021,DEU,Germany,USA,United States,Import,170556867.37,3484.32
+2021,Palladium,711021,DEU,Germany,IND,India,Import,104136856.86,2127.42
+2021,Palladium,711021,HKG,Hong Kong,DEU,Germany,Export,382040576.31,7804.74
+2021,Palladium,711021,HKG,Hong Kong,JPN,Japan,Export,450473627.73,9202.77
+2021,Palladium,711021,HKG,Hong Kong,KOR,KOR,Import,248320400.16,5072.96
+2021,Palladium,711021,HKG,Hong Kong,USA,United States,Import,334428774.06,6832.08
+2022,Palladium,711021,CHE,Switzerland,USA,United States,Export,530997740.84,10233.77
+2022,Palladium,711021,CHE,Switzerland,JPN,Japan,Export,662776102.39,12773.5
+2022,Palladium,711021,CHE,Switzerland,ARE,United Arab Emirates,Import,697020670.97,13433.49
+2022,Palladium,711021,CHE,Switzerland,CHN,China,Import,641318338.38,12359.95
+2022,Palladium,711021,CHN,China,JPN,Japan,Export,542836856.06,10461.95
+2022,Palladium,711021,CHN,China,IND,India,Export,525794965.91,10133.5
+2022,Palladium,711021,CHN,China,HKG,Hong Kong,Import,491233068.05,9467.4
+2022,Palladium,711021,CHN,China,CHE,Switzerland,Import,576336958.34,11107.59
+2022,Palladium,711021,USA,United States,IND,India,Export,284892616.52,5490.66
+2022,Palladium,711021,USA,United States,DEU,Germany,Export,276547911.22,5329.83
+2022,Palladium,711021,USA,United States,IND,India,Import,312022658.29,6013.53
+2022,Palladium,711021,USA,United States,DEU,Germany,Import,365727348.93,7048.56
+2022,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Export,263375255.42,5075.96
+2022,Palladium,711021,ARE,United Arab Emirates,HKG,Hong Kong,Import,255249473.02,4919.35
+2022,Palladium,711021,ZAF,South Africa,JPN,Japan,Export,276686254.12,5332.5
+2022,Palladium,711021,ZAF,South Africa,CHN,China,Export,188651180.19,3635.82
+2022,Palladium,711021,ZAF,South Africa,GBR,United Kingdom,Import,298103701.79,5745.27
+2022,Palladium,711021,ZAF,South Africa,DEU,Germany,Import,191641988.38,3693.46
+2022,Palladium,711021,AUS,Australia,ARE,United Arab Emirates,Export,288990922.22,5569.64
+2022,Palladium,711021,AUS,Australia,JPN,Japan,Export,213394106.97,4112.69
+2022,Palladium,711021,AUS,Australia,KOR,KOR,Import,240322429.08,4631.67
+2022,Palladium,711021,AUS,Australia,HKG,Hong Kong,Import,204110128.72,3933.76
+2022,Palladium,711021,CHL,Chile,GBR,United Kingdom,Export,288354940.42,5557.39
+2022,Palladium,711021,CHL,Chile,IND,India,Export,274830323.27,5296.73
+2022,Palladium,711021,CHL,Chile,USA,United States,Import,165610143.71,3191.76
+2022,Palladium,711021,CHL,Chile,IND,India,Import,307257530.82,5921.69
+2022,Palladium,711021,PER,Peru,HKG,Hong Kong,Export,204255263.58,3936.56
+2022,Palladium,711021,PER,Peru,JPN,Japan,Export,141093505.63,2719.26
+2022,Palladium,711021,PER,Peru,IND,India,Import,189845602.88,3658.84
+2022,Palladium,711021,PER,Peru,DEU,Germany,Import,213147809.47,4107.94
+2022,Palladium,711021,RUS,Russia,CHN,China,Export,230092499.83,4434.51
+2022,Palladium,711021,RUS,Russia,DEU,Germany,Export,279743806.31,5391.43
+2022,Palladium,711021,RUS,Russia,GBR,United Kingdom,Import,283218352.13,5458.39
+2022,Palladium,711021,RUS,Russia,KOR,KOR,Import,148056095.35,2853.44
+2022,Palladium,711021,CAN,Canada,DEU,Germany,Export,175878133.9,3389.65
+2022,Palladium,711021,CAN,Canada,JPN,Japan,Export,179263617.51,3454.9
+2022,Palladium,711021,CAN,Canada,USA,United States,Import,115923843.66,2234.17
+2022,Palladium,711021,CAN,Canada,CHN,China,Import,184468134.9,3555.2
+2022,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Export,116844265.54,2251.91
+2022,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Export,215693150.23,4157.0
+2022,Palladium,711021,GBR,United Kingdom,CHE,Switzerland,Import,102570974.48,1976.82
+2022,Palladium,711021,GBR,United Kingdom,USA,United States,Import,121755768.68,2346.57
+2022,Palladium,711021,IND,India,GBR,United Kingdom,Export,149842246.12,2887.87
+2022,Palladium,711021,IND,India,JPN,Japan,Export,134170433.24,2585.83
+2022,Palladium,711021,IND,India,KOR,KOR,Import,99136900.41,1910.64
+2022,Palladium,711021,JPN,Japan,DEU,Germany,Export,194555831.1,3749.62
+2022,Palladium,711021,JPN,Japan,HKG,Hong Kong,Export,182449229.24,3516.29
+2022,Palladium,711021,JPN,Japan,ARE,United Arab Emirates,Import,106057947.56,2044.03
+2022,Palladium,711021,JPN,Japan,DEU,Germany,Import,100865556.64,1943.95
+2022,Palladium,711021,DEU,Germany,USA,United States,Export,136482673.3,2630.39
+2022,Palladium,711021,DEU,Germany,IND,India,Import,123804988.54,2386.06
+2022,Palladium,711021,DEU,Germany,GBR,United Kingdom,Import,109147022.11,2103.56
+2022,Palladium,711021,HKG,Hong Kong,DEU,Germany,Export,355274313.57,6847.1
+2022,Palladium,711021,HKG,Hong Kong,JPN,Japan,Import,178580276.35,3441.73
+2022,Palladium,711021,HKG,Hong Kong,KOR,KOR,Import,237572920.52,4578.68
+2023,Palladium,711021,CHE,Switzerland,IND,India,Export,1060955772.82,19290.1
+2023,Palladium,711021,CHE,Switzerland,HKG,Hong Kong,Export,490327603.54,8915.05
+2023,Palladium,711021,CHE,Switzerland,JPN,Japan,Import,643068972.32,11692.16
+2023,Palladium,711021,CHE,Switzerland,DEU,Germany,Import,487544361.84,8864.44
+2023,Palladium,711021,CHN,China,HKG,Hong Kong,Export,745798131.11,13559.97
+2023,Palladium,711021,CHN,China,ARE,United Arab Emirates,Export,424462807.15,7717.51
+2023,Palladium,711021,CHN,China,JPN,Japan,Import,599190614.5,10894.37
+2023,Palladium,711021,CHN,China,HKG,Hong Kong,Import,592446329.42,10771.75
+2023,Palladium,711021,USA,United States,CHN,China,Export,330076914.43,6001.4
+2023,Palladium,711021,USA,United States,DEU,Germany,Export,393876073.81,7161.38
+2023,Palladium,711021,USA,United States,GBR,United Kingdom,Import,220090150.19,4001.64
+2023,Palladium,711021,USA,United States,CHN,China,Import,343546092.14,6246.29
+2023,Palladium,711021,ARE,United Arab Emirates,HKG,Hong Kong,Export,537123452.83,9765.88
+2023,Palladium,711021,ARE,United Arab Emirates,GBR,United Kingdom,Export,451341189.69,8206.2
+2023,Palladium,711021,ARE,United Arab Emirates,CHE,Switzerland,Import,372145337.55,6766.28
+2023,Palladium,711021,ARE,United Arab Emirates,JPN,Japan,Import,280329803.13,5096.91
+2023,Palladium,711021,ZAF,South Africa,ARE,United Arab Emirates,Export,438950057.52,7980.91
+2023,Palladium,711021,ZAF,South Africa,JPN,Japan,Export,250281999.86,4550.58
+2023,Palladium,711021,ZAF,South Africa,USA,United States,Import,230890296.93,4198.01
+2023,Palladium,711021,ZAF,South Africa,CHE,Switzerland,Import,258341916.71,4697.13
+2023,Palladium,711021,AUS,Australia,USA,United States,Export,542133610.75,9856.97
+2023,Palladium,711021,AUS,Australia,IND,India,Export,576102220.1,10474.59
+2023,Palladium,711021,AUS,Australia,HKG,Hong Kong,Import,208349523.96,3788.17
+2023,Palladium,711021,AUS,Australia,CHN,China,Import,205572198.4,3737.68
+2023,Palladium,711021,CHL,Chile,DEU,Germany,Export,258007077.31,4691.04
+2023,Palladium,711021,CHL,Chile,KOR,KOR,Export,403238850.49,7331.62
+2023,Palladium,711021,CHL,Chile,CHN,China,Import,228411415.41,4152.93
+2023,Palladium,711021,CHL,Chile,HKG,Hong Kong,Import,186701954.06,3394.58
+2023,Palladium,711021,PER,Peru,KOR,KOR,Export,256813303.54,4669.33
+2023,Palladium,711021,PER,Peru,IND,India,Export,372404762.89,6771.0
+2023,Palladium,711021,PER,Peru,KOR,KOR,Import,152084768.71,2765.18
+2023,Palladium,711021,PER,Peru,GBR,United Kingdom,Import,284796651.3,5178.12
+2023,Palladium,711021,RUS,Russia,ARE,United Arab Emirates,Export,197817181.49,3596.68
+2023,Palladium,711021,RUS,Russia,USA,United States,Export,261663498.64,4757.52
+2023,Palladium,711021,RUS,Russia,CHE,Switzerland,Import,246085022.89,4474.27
+2023,Palladium,711021,RUS,Russia,JPN,Japan,Import,203473602.43,3699.52
+2023,Palladium,711021,CAN,Canada,CHE,Switzerland,Export,305947259.85,5562.68
+2023,Palladium,711021,CAN,Canada,KOR,KOR,Export,238118727.45,4329.43
+2023,Palladium,711021,CAN,Canada,DEU,Germany,Import,240338500.18,4369.79
+2023,Palladium,711021,CAN,Canada,CHN,China,Import,146873976.13,2670.44
+2023,Palladium,711021,GBR,United Kingdom,USA,United States,Export,229244176.62,4168.08
+2023,Palladium,711021,GBR,United Kingdom,HKG,Hong Kong,Export,248399574.57,4516.36
+2023,Palladium,711021,GBR,United Kingdom,KOR,KOR,Import,122101635.69,2220.03
+2023,Palladium,711021,GBR,United Kingdom,ARE,United Arab Emirates,Import,133415534.51,2425.74
+2023,Palladium,711021,IND,India,KOR,KOR,Export,137907220.66,2507.4
+2023,Palladium,711021,IND,India,DEU,Germany,Import,171959391.39,3126.53
+2023,Palladium,711021,IND,India,KOR,KOR,Import,141955229.7,2581.0
+2023,Palladium,711021,JPN,Japan,CHE,Switzerland,Export,127421307.45,2316.75
+2023,Palladium,711021,JPN,Japan,KOR,KOR,Export,119263033.3,2168.42
+2023,Palladium,711021,JPN,Japan,HKG,Hong Kong,Import,160902955.79,2925.51
+2023,Palladium,711021,JPN,Japan,DEU,Germany,Import,77148563.43,1402.7
+2023,Palladium,711021,DEU,Germany,JPN,Japan,Export,94349253.7,1715.44
+2023,Palladium,711021,DEU,Germany,USA,United States,Export,84246023.62,1531.75
+2023,Palladium,711021,DEU,Germany,KOR,KOR,Import,69541566.33,1264.39
+2023,Palladium,711021,DEU,Germany,ARE,United Arab Emirates,Import,87911939.01,1598.4
+2023,Palladium,711021,HKG,Hong Kong,JPN,Japan,Export,444290115.92,8078.0
+2023,Palladium,711021,HKG,Hong Kong,DEU,Germany,Export,416812088.14,7578.4
+2023,Palladium,711021,HKG,Hong Kong,DEU,Germany,Import,440588711.19,8010.7
+2023,Palladium,711021,HKG,Hong Kong,CHN,China,Import,343877139.08,6252.31
